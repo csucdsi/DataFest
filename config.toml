@@ -9,6 +9,8 @@ disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 # Define the number of posts per page
 paginate = 10
 
@@ -72,8 +74,8 @@ paginate = 10
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
-    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "red"
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "default"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -168,3 +170,17 @@ paginate = 10
     enable = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+
+
+
+# Other Info
+
+# Big banner image under hugo-universal-theme/static/img/photogrid.jpg
+# - Called in style.[color].css 
+
+# Top of page Logos - can't be missing
+# - logo-small.jpg shows up on small screens (110x47px, 1.9k)
+# - logo.jpg shows up on desktop screens (187x42px, 2.6k) -- height more important than width. 
+
+
+
