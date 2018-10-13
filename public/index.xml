@@ -97,6 +97,25 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>Free Workshops</title>
+      <link>/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/</guid>
+      <description> The following workshops will be hosted by the Data Science Initiative prior to DataFest weekend. Sessions will be recorded and video posted on the DSI website shortly after the workshop.
+Session Title  Instructor: Helpers: Date: Time: Location: Register: Workshop website:  </description>
+    </item>
+    
+    <item>
+      <title>Schedule of Events</title>
+      <link>/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/</guid>
+      <description>TBD</description>
+    </item>
+    
+    <item>
       <title>Visiting Consultants</title>
       <link>/consultants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
