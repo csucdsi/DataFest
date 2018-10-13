@@ -1,0 +1,55 @@
+---
+title: "Supporting Data Fest"
+output: html_document
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
+```
+
+As our event grows we will need more help from the North State Community to put this fabulous event on. 
+How can you support DataFest at Chico State?
+
+### Financial Contributions
+
+We welcome financial donations from individuals and businesses. Donations are used to provide food, supplies, event t-shirts, caffeine and prizes. 
+
+```{r}
+# fundraising objective
+z <- 2500
+# amount gathered
+y <- 200 
+
+library(RColorBrewer)
+cols <- brewer.pal(11, "RdYlGn")
+
+par(oma=c(0,0,0,0), mar=c(0,0,2,0))
+symbols(1, thermometers = cbind(.5, 1, y/z), fg = cols[round(y/z*10)], inches=3.5, 
+        xlab = NA, ylab = NA, yaxt='n', xaxt='n', bty='n',  
+        main = paste("Funds raised as of", format(Sys.Date(), "%m-%d-%y")))
+text(1, y=1.4, paste0("$", y, "/", z))
+text(1, y=.8, paste0(y/z*100, "%"),  offset = 3)
+```
+
+
+### Swag, giveaways, Prizes!!!
+
+Pens, note pads, USB drives, buttons... Students love these and they help make the event fun. If we get something special, we can give it away in a ``midnight raffle" to help keep the energy level high.
+
+### Donate a Meal
+Students can only work on this data while on site, so feeding them is critical! If you can't donate dollars directly, consider sponsoring a meal or snacks for a day. 
+
+
+### Participate as a Consultant
+
+Spend an hour or two getting to know the students and offering your sage advice. 
+This is an excellent recruiting opportunity; you get to watch students working in teams, under pressure, striving to understand possibly the most complex data set they have encountered. 
+At other institutions, students have received internships and interviews that have led to full-time employment. 
+Success at DataFest requires that a team have a combination of computational, statistical, and human skills, as well as the ability to communicate clearly and extremely concisely.
+
+[[Register here]](https://goo.gl/forms/vvGg3NegVX0qqTvf2) to sign up as a roaming consultant. 
+
+### Contact 
+
+Contact Robin Donatello, rdonatello@csuchico.edu for more information on how your organization can help create a memorable weekend. 
+

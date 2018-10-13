@@ -29,15 +29,20 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
+    name = "Support"
+    url  = "/fundraising/"
+    weight = 3
+    
+[[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 5
 
 # Top bar social links menu
 
@@ -142,13 +147,22 @@ paginate = 10
     # YAML content must contain weight, name, description, (icon, url are optional)
     # if clickable, reference a folder (/feature_name/) and create /content/feature_name.md
 
+[params.see_more]
+    enable = true
+    icon = "fa fa-file-code-o"
+    title = "Prior Events"
+    subtitle = "stuff"
+    link_url = "#"
+    link_text = "Check other homepages"
+
+
 [params.testimonials]
     enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimonials"
-    subtitle = "Hear what prior students and judges had to say about this event."
+    subtitle = "Hear what prior participants had to say about this event."
 
 [params.clients]
     enable = true
@@ -159,13 +173,6 @@ paginate = 10
     subtitle = ""
 
 
-#[params.see_more]
-#    enable = false
-#    icon = "fa fa-file-code-o"
-#    title = "Do you want to see more?"
-#    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-#    link_url = "#"
-#    link_text = "Check other homepages"
 
 #[params.recent_posts]
 #    enable = false

@@ -1,5 +1,5 @@
 weight: 5
 name: "Judging"
 icon: "fa fa-gavel"
-description: "Each team will have 5 minutes and 2 slides to make a presentation to a panel of judges. Judges will select teams to win prizes for areas such as 'Best Insight', 'Best Visualization', 'Best use of external data', and one judges’s personal favorite 'Best Garbage Detection'"
+description: "Each team will have 5 minutes and 2 slides to make a presentation to a panel of judges. Judges will select teams to win prizes for areas such as 'Best Insight', 'Best Visualization', and 'Best use of external data'. <br> Click here for more information on judging."
 url: "/judges/"
