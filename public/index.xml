@@ -62,9 +62,9 @@ Follow the following steps:
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
@@ -75,6 +75,16 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <guid>/blog/2015/06/24/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>About DataFest</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>DataFest is a nationally-coordinated undergraduate competition in which teams of up to 5 students work over a weekend to extract insight from a rich and complex data set. Previous years’ data sets have included crime data from the LAPD, dating data from eHarmony, and energy use data from GridPoint. This year’s data set will be revealed at the opening of the event on Friday evening.
+At the conclusion of the competition, each team will have 5 minutes and 2 slides to make a presentation to a panel of judges.</description>
     </item>
     
     <item>
@@ -95,16 +105,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       
       <guid>/contact/</guid>
       <description>Questions? Please feel free to contact us.</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/faq/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
@@ -132,7 +132,11 @@ Session Title  Instructor: Helpers: Date: Time: Location: Register: Workshop web
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/schedule/</guid>
-      <description>TBD</description>
+      <description>Event prep All pre-workshop events are held in MLIB 442 unless otherwise noted. You are welcome to use any programming language you like, but we will host some pre-event workshops for Python and R.
+Throughout Spring 19. Specific schedule TBD.
+Event Weekend All events are @ Chico State Campus, Sylvesters 100. Doors will be open from 8am to 12 midnight.
+Friday, April 5, 2019 Welcome!
+ 5pm - Registration 5:30pm - Kickoff presentation.</description>
     </item>
     
     <item>
@@ -142,8 +146,8 @@ Session Title  Instructor: Helpers: Date: Time: Location: Register: Workshop web
       
       <guid>/fundraising/</guid>
       <description>As our event grows we will need more help from the North State Community to put this fabulous event on. How can you support DataFest at Chico State?
-Financial ContributionsWe welcome financial donations from individuals and businesses. Donations are used to provide food, supplies, event t-shirts, caffeine and prizes.
-Swag, giveaways, Prizes!!!Pens, note pads, USB drives, buttons… Students love these and they help make the event fun. If we get something special, we can give it away in a ``midnight raffle&amp;quot; to help keep the energy level high.</description>
+Financial Contributions We welcome financial donations from individuals and businesses. Donations are used to provide food, supplies, event t-shirts, caffeine and prizes.
+ Swag, giveaways, Prizes!!! Pens, note pads, USB drives, buttons… Students love these and they help make the event fun. If we get something special, we can give it away in a ``midnight raffle&amp;quot; to help keep the energy level high.</description>
     </item>
     
     <item>
@@ -153,7 +157,7 @@ Financial ContributionsWe welcome financial donations from individuals and busi
       
       <guid>/sponsors/</guid>
       <description>As our event grows we will need more help from the North State Community to put this fabulous event on. How can you support DataFest at Chico State?
-Financial ContributionsWe welcome financial donations from individuals and businesses. Donations are used to provide food, supplies, caffeine and prizes. Students can only work on this data while on site, so feeding them is critical! Contact Robin Donatello, rdonatello@csuchico.edu for more information on how to give.</description>
+Financial Contributions We welcome financial donations from individuals and businesses. Donations are used to provide food, supplies, caffeine and prizes. Students can only work on this data while on site, so feeding them is critical! Contact Robin Donatello, rdonatello@csuchico.edu for more information on how to give.</description>
     </item>
     
     <item>

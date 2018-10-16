@@ -24,19 +24,18 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Schedule"
-    url  = "/schedule/"
+    name = "About"
+    url  = "/about/"
     weight = 2
-
-[[menu.main]]
-    name = "Support"
-    url  = "/fundraising/"
-    weight = 3
     
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
+    name = "Schedule of Events"
+    url  = "/schedule/"
+    weight = 3
+
+[[menu.main]]
+    name = "Sponsors"
+    url  = "/fundraising/"
     weight = 4
 
 [[menu.main]]
@@ -94,7 +93,7 @@ paginate = 10
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
     #
-    # Enable the contact form by entering your Formspree.io email
+    # Enable the contact form by entering your Formspree.io email
     email = "datascience@csuchico.edu"
 
     about_us = "<p>Data Fest is organized by the Data Science Initiative at Chico State. Learn more at <a href='http://datascience.csuchico.edu'>http://datascience.csuchico.edu</a></p>"
@@ -170,7 +169,7 @@ paginate = 10
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Our Sponsors"
-    subtitle = ""
+    subtitle = "Make this a link"
 
 
 

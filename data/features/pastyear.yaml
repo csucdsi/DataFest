@@ -1,5 +1,5 @@
 weight: 4
-name: "Register"
-icon: "fa fa-user-plus"
-description: "Registration opens mm-dd-yy. Spaces are limited so priority will be given to teams of 4-5."
+name: "Past Events"
+icon: "fa fa-calendar-o"
+description: "Past Events"
 url: /register/
