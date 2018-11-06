@@ -7,11 +7,11 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
 ```
 
-DataFest runs entirely on donations and so we need your support. 
+**DataFest runs entirely on donations and so we need your support.**
 
-There are three ways you can support DataFest at Chico State, either as an individual or as a business. 
+**There are three ways you can support DataFest at Chico State, either as an individual or as a business. **
 
-Please [contact us](datascience@csuchico.edu) if you have any questions on how to support DataFest. 
+**Please [contact us](datascience@csuchico.edu) if you have any questions on how to support DataFest.**
 
 
 
@@ -42,12 +42,12 @@ text(1, y=.8, paste0(round(y/z*100), "%"),  offset = 3)
 
 </br></br></br>
 
-### Online or by card
+### Donate online
 Go to the [Chico State Giving website](https://securelb.imodules.com/s/1751/wide.aspx?sid=1751&gid=2&pgid=405&cid=1058). 
 
 Choose "Other Designation" and write in "_Data Science Initiative Fund #XXXXX_"
 
-### By Check
+### Donate by Check
 
 Please make out checks to Chico State and write in the memo field "_Data Science Initiative Fund #XXXXX_". It is very important that the memo field contain this note or the funds will not be credited to the DataFest account. Send checks to:
 
@@ -61,9 +61,10 @@ Chico, CA, 95929-525
 </div>
 </div>
 
-## Giving Tiers
+### Giving Tiers
+Your contribution is very meaningful to us, so as a way to give back we have set up the following fundraising tiers. 
 
-### Tier 1 - above $1001 
+#### Platiunum - above $1001 
 * Table for HR/recruitment for 2 hours on Saturday
 * Access to resume book of all DataFest participants. 
 * Large, prominently placed logo on all printed DataFest advertisement materials
@@ -71,7 +72,7 @@ Chico, CA, 95929-525
 * Company/organization name at the food table display
 * Acknowledgements in the opening ceremony (dedicated slide)
 
-### Tier 2 - above $501 
+#### Gold - above $501 
 * Access to resume book of all DataFest participants. 
 * Large logo on all printed DataFest advertisement materials
 * Large logo, link and short company profile on this website
@@ -79,21 +80,21 @@ Chico, CA, 95929-525
 * Acknowledgements in the opening ceremony (dedicated slide)
 
 
-### Tier 3 - $251-$500 
+#### Silver - $251-$500 
 * Medium logo on all printed DataFest advertisement materials
 * Medium logo, link and short company profile on this website
 * Company/organization name at the food table display
 * Acknowledgements in the opening ceremony
 
 
-### Tier 4 - $51-$250 
+#### Bronze - $51-$250 
 * Small logo on all printed DataFest advertisement materials
 * Company/organization name at the food table display
 * Small logo, link and short company profile on this website
 * Acknowledgements in the opening ceremony
 
 
-### Acknowledgements - up to $50 
+#### Acknowledgements - up to $50 
 * Small logo and link on this website
 * Acknowledgements in the opening ceremony
 
@@ -107,7 +108,7 @@ Money is helpful but so is your time! Spend an hour or two getting to know the s
 
 ### Student safety teams
 
-DataFest is open to non-Chico State students, which is a great opportunity for those in the North State region. However Campus policy states that doors must close at midnight. We value the safety of our students and participants and so will be forming a group of volunteers who are willing to help provide transportation or escort services for stuents returning to home or their cars after midnight.
+DataFest is open to non-Chico State students, which is a great opportunity for those in the North State region. However Chico State campus policy states that doors must close at midnight. We value the safety of our students and participants and so we are recruiting a group of volunteers who are willing to help provide transportation or escort services for students returning to home or to their cars after midnight.
 
 Contact Robin directly if you would like to be part of this safety coalition.  
 
@@ -118,5 +119,5 @@ Pens, note pads, USB drives, buttons... Students love these and they help make t
 
 ### Contact 
 
-For questions, please contact Robin Donatello, Data Science Coordinator at datascience@csuchchico.edu or 530-898-5767.
+For questions or more information on how you can support this amazing student event, please contact the Data Science Coordinator Robin Donatello at datascience@csuchchico.edu or 530-898-5767.
 

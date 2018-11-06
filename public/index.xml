@@ -62,9 +62,9 @@ Follow the following steps:
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
@@ -132,11 +132,7 @@ Session Title  Instructor: Helpers: Date: Time: Location: Register: Workshop web
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/schedule/</guid>
-      <description>Event prep All pre-workshop events are held in MLIB 442 unless otherwise noted. You are welcome to use any programming language you like, but we will host some pre-event workshops for Python and R.
-Throughout Spring 19. Specific schedule TBD.
-Event Weekend All events are @ Chico State Campus, Sylvesters 100. Doors will be open from 8am to 12 midnight.
-Friday, April 5, 2019 Welcome!
- 5pm - Registration 5:30pm - Kickoff presentation.</description>
+      <description>On your marks&amp;hellip;.  You are welcome to use any programming language you like, but we will host some pre-event workshops for Python, R, SAP Lumeria and possibly others. (Location and schedule TBD) We will also be hosting &amp;ldquo;get to meet your teammates&amp;rdquo; social events the week prior to the event (details TBD) Even Registration closes by February 1st 2019, or when we reach capacity. Whatever comes first.</description>
     </item>
     
     <item>
@@ -146,19 +142,9 @@ Friday, April 5, 2019 Welcome!
       
       <guid>/fundraising/</guid>
       <description>DataFest runs entirely on donations and so we need your support.
-There are three ways you can support DataFest at Chico State, either as an individual or as a business.
+There are three ways you can support DataFest at Chico State, either as an individual or as a business. 
 Please contact us if you have any questions on how to support DataFest.
-Please consider a financial contribution and, in particular, asking your employer to contribute. We are seeking $3,000 to supply food and event supplies. All monitary dontations are tax-deductible.</description>
-    </item>
-    
-    <item>
-      <title>Supporting Data Fest</title>
-      <link>/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/sponsors/</guid>
-      <description>As our event grows we will need more help from the North State Community to put this fabulous event on. How can you support DataFest at Chico State?
-Financial Contributions We welcome financial donations from individuals and businesses. Donations are used to provide food, supplies, caffeine and prizes. Students can only work on this data while on site, so feeding them is critical! Contact Robin Donatello, rdonatello@csuchico.edu for more information on how to give.</description>
+Please consider a financial contribution and, in particular, asking your employer to contribute.We are seeking $3,000 to supply food and event supplies. All monitary dontations are tax-deductible.</description>
     </item>
     
     <item>

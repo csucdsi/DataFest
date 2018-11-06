@@ -29,12 +29,12 @@ paginate = 10
     weight = 2
     
 [[menu.main]]
-    name = "Schedule of Events"
+    name = "Schedule"
     url  = "/schedule/"
     weight = 3
 
 [[menu.main]]
-    name = "Sponsors"
+    name = "Fundraising"
     url  = "/fundraising/"
     weight = 4
 

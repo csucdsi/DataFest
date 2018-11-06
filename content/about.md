@@ -26,28 +26,30 @@ We would love to have Masters students get involved as consultants during the ev
 
 *How large are the teams?*
 
-Teams can be made up of 2-5 students.
+Teams can be made up of 3-5 students. [[Register your team here]](https://goo.gl/forms/jlZ5FEE8EXuHdWJw1)
 
 *Do I have to compete in a team?*
 
-Yes, but if you don't have a team in mind, leave us your info and we'll match you with others in the same boat.
+Yes, but if you don't have a pre-formed team you can [[leave us your info here]](https://goo.gl/forms/NFDZ1IWExa7etkxf2) and we'll try to match you with others in the same boat. We will also be holding at least one team formation over pizza night prior to the event. 
 
 *What do I need to bring?*
 
 * A laptop with tools for data analysis (there is no limitation on which software you use) - with power charger
 * A water bottle
-* Enthusiasm for data
+* Enthusiasm for data! 
 
 *What are the rules of the competition?*
 
-* Teams must consist of 2-5 students. 
-* Team members can come and go as they please but all work has to be done on-site. A steady supply of food, beverage, and candy make it more inviting to stay.  
+* Teams must consist of 3-5 students. 
+* Team members can come and go as they please but all work has to be done on-site. A steady supply of food, beverages, and snacks make it more inviting to stay.  
 * It's a competition, but a friendly one, so collaboration between teams is not only allowed but highly encouraged. Official ASA DataFest consultants (grad students, faculty, data professionals, etc.) will also be around throughout the weekend to help with any questions you might have. However you can't have outside help.   
 
 *Do we have to stay the entire time?*
+
 No. You may come and go as you please. However, you are not allowed to work on the project except while you are on ASA DataFest grounds, and at least 3 members of your team must attend the introduction.
 
 *What can I win?*
+
 Fame, glory, prizes or some combination thereof... And you get a t-shirt!
 
 
@@ -69,14 +71,14 @@ For more on the code of conduct, please see the [ASA Meeting Code of Conduct](ht
 
 ### Need Help?
 
-Please speak with an event coordinator on site, or email Robin Donatello at rdonatello@csuchico.edu.
+Please speak with an event coordinator on site, email Robin Donatello at rdonatello@csuchico.edu, or send a message via the DataFest Slack channel (see the schedule of events for channel details.)
 
 If any attendee engages in harassing behavior, the event organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the organizers with a concise description of your grievance.)
 
 We welcome your feedback on this and every other aspect of ASA DataFest<small><sup>TM</sup></small> events, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
 
-The text above has been only slightly modified from Duke's DataFest website: https://www2.stat.duke.edu/datafest/coc/. Parts of above text is licensed CC BY-SA 4.0. Credit to rOpenSci and SRCCON. Also inspired by the Ada Initiative's "how to design a code of conduct for your community".
+_The text above has been only slightly modified from Duke's DataFest website: https://www2.stat.duke.edu/datafest/coc/. Parts of above text is licensed CC BY-SA 4.0. Credit to rOpenSci and SRCCON. Also inspired by the Ada Initiative's "how to design a code of conduct for your community"._
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> In case you haven't found the answer for your question please feel free to contact us. We will be happy to help you.
