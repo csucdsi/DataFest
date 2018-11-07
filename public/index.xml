@@ -88,17 +88,6 @@ At the conclusion of the competition, each team will have 5 minutes and 2 slides
     </item>
     
     <item>
-      <title>Code of Conduct</title>
-      <link>/coc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/coc/</guid>
-      <description>Code of Conduct goes here.
- In case you have any other concerns please feel free to contact us
- </description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -118,12 +107,26 @@ Session Title  Instructor: Helpers: Date: Time: Location: Register: Workshop web
     </item>
     
     <item>
-      <title>Past year events</title>
-      <link>/past/</link>
+      <title>Past Events</title>
+      <link>/past_events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/past/</guid>
-      <description></description>
+      <guid>/past_events/</guid>
+      <description>2018 - Indeed.com Our first year saw 12 undergraduate students from Applied Mathematics, Statistics, but also Computer Science, Construction Management, Civil Engineering, and Biology. The diversity of backgrounds and experiences was amazing. Many students were buzzing afterwards about how much fun they had and how much they learned that weekend.
+After two days of intense data wrangling, analysis, presentation design, interspersed with a lot of good free food and caffeine, each team presented their findings to a panel of judges consisting of both on and off campus professionals.</description>
+    </item>
+    
+    <item>
+      <title>Registration Opens in January</title>
+      <link>/register/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/register/</guid>
+      <description>Register as an individual - seeking a team We will be holding team formation social nights prior to the event.
+Link Forthcoming
+Register as an official Team Link Forthcoming
+Register as a visiting consultant Link Forthcoming
+Code of Conduct ASA DataFestTM at Chico State is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.</description>
     </item>
     
     <item>
@@ -153,24 +156,6 @@ Please consider a financial contribution and, in particular, asking your employe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/consultants/</guid>
-      <description>Roaming consultants are awesome</description>
-    </item>
-    
-    <item>
-      <title>Visiting Consultants</title>
-      <link>/judges/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/judges/</guid>
-      <description>Roaming consultants are awesome</description>
-    </item>
-    
-    <item>
-      <title>Visiting Consultants</title>
-      <link>/register/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/register/</guid>
       <description>Roaming consultants are awesome</description>
     </item>
     

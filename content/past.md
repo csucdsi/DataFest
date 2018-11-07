@@ -1,4 +1,0 @@
-+++
-title= "Past year events"
-
-+++

@@ -26,7 +26,7 @@ We would love to have Masters students get involved as consultants during the ev
 
 *How large are the teams?*
 
-Teams can be made up of 3-5 students. [[Register your team here]](https://goo.gl/forms/jlZ5FEE8EXuHdWJw1)
+Teams can be made up of 2-5 students. [[Register your team here]](https://goo.gl/forms/jlZ5FEE8EXuHdWJw1)
 
 *Do I have to compete in a team?*
 
@@ -40,7 +40,7 @@ Yes, but if you don't have a pre-formed team you can [[leave us your info here]]
 
 *What are the rules of the competition?*
 
-* Teams must consist of 3-5 students. 
+* Teams must consist of 2-5 students. 
 * Team members can come and go as they please but all work has to be done on-site. A steady supply of food, beverages, and snacks make it more inviting to stay.  
 * It's a competition, but a friendly one, so collaboration between teams is not only allowed but highly encouraged. Official ASA DataFest consultants (grad students, faculty, data professionals, etc.) will also be around throughout the weekend to help with any questions you might have. However you can't have outside help.   
 

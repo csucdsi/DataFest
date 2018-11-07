@@ -48,10 +48,6 @@
   </url>
   
   <url>
-    <loc>/coc/</loc>
-  </url>
-  
-  <url>
     <loc>/contact/</loc>
   </url>
   
@@ -96,7 +92,7 @@
   </url>
   
   <url>
-    <loc>/past/</loc>
+    <loc>/past_events/</loc>
   </url>
   
   <url>
@@ -136,6 +132,10 @@
   </url>
   
   <url>
+    <loc>/register/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
@@ -169,14 +169,6 @@
   
   <url>
     <loc>/consultants/</loc>
-  </url>
-  
-  <url>
-    <loc>/judges/</loc>
-  </url>
-  
-  <url>
-    <loc>/register/</loc>
   </url>
   
 </urlset>
