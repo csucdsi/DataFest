@@ -88,6 +88,16 @@ At the conclusion of the competition, each team will have 5 minutes and 2 slides
     </item>
     
     <item>
+      <title>About DataFest</title>
+      <link>/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faq/</guid>
+      <description>DataFest is a nationally-coordinated undergraduate competition in which teams of up to 5 students work over a weekend to extract insight from a rich and complex data set. Previous years’ data sets have included crime data from the LAPD, dating data from eHarmony, and energy use data from GridPoint. This year’s data set will be revealed at the opening of the event on Friday evening.
+At the conclusion of the competition, each team will have 5 minutes and 2 slides to make a presentation to a panel of judges.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -117,7 +127,7 @@ After two days of intense data wrangling, analysis, presentation design, intersp
     </item>
     
     <item>
-      <title>Registration Opens in January</title>
+      <title>Registration Opens February 1st, 2019</title>
       <link>/register/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -136,6 +146,15 @@ Code of Conduct ASA DataFestTM at Chico State is committed to providing a welcom
       
       <guid>/schedule/</guid>
       <description>On your marks&amp;hellip;.  You are welcome to use any programming language you like, but we will host some pre-event workshops for Python, R, SAP Lumeria and possibly others. (Location and schedule TBD) We will also be hosting &amp;ldquo;get to meet your teammates&amp;rdquo; social events the week prior to the event (details TBD) Even Registration closes by February 1st 2019, or when we reach capacity. Whatever comes first.</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/</guid>
+      <description>Data Fest would not be able to happen without the support of the following people and organizations Want to help? See our fundraising page for information on how you can help.       The Chico State Data Science Initiative handles all training, logistics, advertising, manpower and fundraising support. See more at http://datascience.csuchico.edu.     The American Statistical Association is the National coordinating organization of DataFest.</description>
     </item>
     
     <item>

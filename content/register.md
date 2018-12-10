@@ -1,5 +1,5 @@
 +++
-title= "Registration Opens in January"
+title= "Registration Opens February 1st, 2019"
 +++
 
 

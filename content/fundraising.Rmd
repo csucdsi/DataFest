@@ -25,7 +25,7 @@ We are seeking $3,000 to supply food and event supplies. All monitary dontations
 # fundraising objective
 z <- 3000
 # amount gathered
-y <- 350 
+y <- 850
 
 library(RColorBrewer)
 cols <- brewer.pal(11, "RdYlGn")
@@ -45,16 +45,16 @@ text(1, y=.8, paste0(round(y/z*100), "%"),  offset = 3)
 ### Donate online
 Go to the [Chico State Giving website](https://securelb.imodules.com/s/1751/wide.aspx?sid=1751&gid=2&pgid=405&cid=1058). 
 
-Choose "Other Designation" and write in "_Data Science Initiative Fund #XXXXX_"
+Choose "Other Designation" and write in "_Data Science Initiative Fund #200685300_"
 
 ### Donate by Check
 
-Please make out checks to Chico State and write in the memo field "_Data Science Initiative Fund #XXXXX_". It is very important that the memo field contain this note or the funds will not be credited to the DataFest account. Send checks to:
+Please make out checks to Chico State and write in the memo field "_Data Science Initiative Fund #200685300_". It is very important that the memo field contain this note or the funds will not be credited to the DataFest account. Send checks to:
 
-ASA DataFest c/o Robin Donatello
-CSU, Chico Department of Mathematics and Statistics
-181 Holt Hall
-400 West First Street
+ASA DataFest c/o Robin Donatello  
+CSU, Chico Department of Mathematics and Statistics  
+181 Holt Hall  
+400 West First Street 
 Chico, CA, 95929-525
 
 
