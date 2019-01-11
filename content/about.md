@@ -8,75 +8,13 @@ At the conclusion of the competition, each team will have 5 minutes and 2 slides
 
 The mission of DataFest is to expose undergraduate students to challenging questions with immediate real-world significance that can be addressed through data analysis. By working in teams, students with varying skill sets will combine their efforts and expand their collective data analysis horizons. Interaction among students, as well as with outside consultants will promote the sense that data analysis is a dynamic, engaging, and vibrant part of our society, as well as a realistic, practical, and fun career path.
 
----
 
-## FAQ
+### DataFest in the news: 
 
-*Is there a registration fee?*
+If you would like to write about or cover DataFest at Chico State in any way, please don't hesitate to contact us.
 
-No! This is a free event!
+* [DataFest Shows Spike in Growth, Provides Immersive Experience](http://magazine.amstat.org/blog/2017/09/01/datafest-2/) - AMSTAT News, September 1, 2017
+* [DataFest draws hundreds to solve stats challenges](http://www.dukechronicle.com/article/2015/03/datafest-draws-hundreds-solve-stats-challenges) - The Chronicle - March 23, 2015
+* [Big Data Goes to College](http://magazine.amstat.org/blog/2014/06/01/datafest/) - AMSTAT News - June 1, 2014
+* [The Students Most Likely to Take Our Jobs](http://fivethirtyeight.com/datalab/the-students-most-likely-to-take-our-jobs/) - FiveThirtyEight.com - May 2, 2014
 
-*Who is eligible to compete?*
-
-All undergraduate students from any school in the Northern California Region are eligible to compete.
-
-*What about MS students?*
-
-We would love to have Masters students get involved as consultants during the event.
-
-*How large are the teams?*
-
-Teams can be made up of 2-5 students.
-
-*Do I have to compete in a team?*
-
-Yes, but if you don't have a team in mind, leave us your info and we'll match you with others in the same boat.
-
-*What do I need to bring?*
-
-* A laptop with tools for data analysis (there is no limitation on which software you use) - with power charger
-* A water bottle
-* Enthusiasm for data
-
-*What are the rules of the competition?*
-
-* Teams must consist of 2-5 students. 
-* Team members can come and go as they please but all work has to be done on-site. A steady supply of food, beverage, and candy make it more inviting to stay.  
-* It's a competition, but a friendly one, so collaboration between teams is not only allowed but highly encouraged. Official ASA DataFest consultants (grad students, faculty, data professionals, etc.) will also be around throughout the weekend to help with any questions you might have. However you can't have outside help.   
-
-*Do we have to stay the entire time?*
-No. You may come and go as you please. However, you are not allowed to work on the project except while you are on ASA DataFest grounds, and at least 3 members of your team must attend the introduction.
-
-*What can I win?*
-Fame, glory, prizes or some combination thereof... And you get a t-shirt!
-
-
----
-
-## Code of Conduct
-
-ASA DataFest<small><sup>TM</sup></small> at Chico State is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, social activities, social media, and other online media. ASA DataFest<small><sup>TM</sup></small> participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers.
-
-This code of conduct applies to all participants, including organizers, mentors / VIP consultants, judges, and helpers and applies to all modes of interaction, both in-person and online, on ASA DataFest<small><sup>TM</sup></small> Community, and event specific Slack channels, and social media.
-
-ASA participants agree to:
-
-- Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any organizers in person.
-- Take care of each other. Alert a member of the organizers if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
-
-For more on the code of conduct, please see the [ASA Meeting Code of Conduct](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx).
-
-### Need Help?
-
-Please speak with an event coordinator on site, or email Robin Donatello at rdonatello@csuchico.edu.
-
-If any attendee engages in harassing behavior, the event organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the organizers with a concise description of your grievance.)
-
-We welcome your feedback on this and every other aspect of ASA DataFest<small><sup>TM</sup></small> events, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
-
-The text above has been only slightly modified from Duke's DataFest website: https://www2.stat.duke.edu/datafest/coc/. Parts of above text is licensed CC BY-SA 4.0. Credit to rOpenSci and SRCCON. Also inspired by the Ada Initiative's "how to design a code of conduct for your community".
-
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.

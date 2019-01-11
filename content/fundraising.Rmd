@@ -7,52 +7,128 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
 ```
 
-As our event grows we will need more help from the North State Community to put this fabulous event on. 
-How can you support DataFest at Chico State?
+**DataFest runs entirely on donations and so we need your support.**
 
+<<<<<<< HEAD
 ###Platinum 
 Contributors, please click [here] to upload a company bio, web-ready logo, and URL link.
 
 ### Financial Contributions
+=======
+**There are three ways you can support DataFest at Chico State, either as an individual or as a business. **
+>>>>>>> f29ce5a60a71070cd6f644e1d4b5f077e0835c31
 
-We welcome financial donations from individuals and businesses. Donations are used to provide food, supplies, event t-shirts, caffeine and prizes. 
+**Please [contact us](datascience@csuchico.edu) if you have any questions on how to support DataFest.**
+
+
+
+### Please consider a financial contribution and, in particular, asking your employer to contribute.
+We are seeking $3,000 to supply food and event supplies. All monitary dontations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [CSUC DSI](http://datascience.csuchico.edu) website. 
+
+<div class = "row">
+<div class = "col-md-6">
 
 ```{r}
 # fundraising objective
+<<<<<<< HEAD
 z <- 5000
+=======
+z <- 3000
+>>>>>>> f29ce5a60a71070cd6f644e1d4b5f077e0835c31
 # amount gathered
-y <- 200 
+y <- 850
 
 library(RColorBrewer)
 cols <- brewer.pal(11, "RdYlGn")
 
-par(oma=c(0,0,0,0), mar=c(0,0,2,0))
-symbols(1, thermometers = cbind(.5, 1, y/z), fg = cols[round(y/z*10)], inches=3.5, 
+par(oma=c(0,0,0,0), mar=c(0,0,1,0))
+symbols(1, thermometers = cbind(.5, 1, y/z), fg = cols[round(y/z*10)], inches=3, 
         xlab = NA, ylab = NA, yaxt='n', xaxt='n', bty='n',  
         main = paste("Funds raised as of", format(Sys.Date(), "%m-%d-%y")))
-text(1, y=1.4, paste0("$", y, "/", z))
-text(1, y=.8, paste0(y/z*100, "%"),  offset = 3)
+text(1, y=1.3, paste0("$", y, "/", z))
+text(1, y=.8, paste0(round(y/z*100), "%"),  offset = 3)
 ```
+</div>
+<div class = "col-md-6">
+
+</br></br></br>
+
+### Donate online
+Go to the [Chico State Giving website](https://securelb.imodules.com/s/1751/wide.aspx?sid=1751&gid=2&pgid=405&cid=1058). 
+
+Choose "Other Designation" and write in "_Data Science Initiative Fund #200685300_"
+
+### Donate by Check
+
+Please make out checks to Chico State and write in the memo field "_Data Science Initiative Fund #200685300_". It is very important that the memo field contain this note or the funds will not be credited to the DataFest account. Send checks to:
+
+ASA DataFest c/o Robin Donatello  
+CSU, Chico Department of Mathematics and Statistics  
+181 Holt Hall  
+400 West First Street 
+Chico, CA, 95929-525
 
 
-### Swag, giveaways, Prizes!!!
+</div>
+</div>
 
-Pens, note pads, USB drives, buttons... Students love these and they help make the event fun. If we get something special, we can give it away in a ``midnight raffle" to help keep the energy level high.
+### Giving Tiers
+Your contribution is very meaningful to us, so as a way to give back we have set up the following fundraising tiers. 
 
-### Donate a Meal
-Students can only work on this data while on site, so feeding them is critical! If you can't donate dollars directly, consider sponsoring a meal or snacks for a day. 
+#### Platiunum - above $1001 
+* Table for HR/recruitment for 2 hours on Saturday
+* Access to resume book of all DataFest participants. 
+* Large, prominently placed logo on all printed DataFest advertisement materials
+* Large logo, link and short company profile on this website
+* Company/organization name at the food table display
+* Acknowledgements in the opening ceremony (dedicated slide)
 
+#### Gold - above $501 
+* Access to resume book of all DataFest participants. 
+* Large logo on all printed DataFest advertisement materials
+* Large logo, link and short company profile on this website
+* Company/organization name at the food table display
+* Acknowledgements in the opening ceremony (dedicated slide)
+
+
+#### Silver - $251-$500 
+* Medium logo on all printed DataFest advertisement materials
+* Medium logo, link and short company profile on this website
+* Company/organization name at the food table display
+* Acknowledgements in the opening ceremony
+
+
+#### Bronze - $51-$250 
+* Small logo on all printed DataFest advertisement materials
+* Company/organization name at the food table display
+* Small logo, link and short company profile on this website
+* Acknowledgements in the opening ceremony
+
+
+#### Acknowledgements - up to $50 
+* Small logo and link on this website
+* Acknowledgements in the opening ceremony
+
+---
 
 ### Participate as a Consultant
 
-Spend an hour or two getting to know the students and offering your sage advice. 
-This is an excellent recruiting opportunity; you get to watch students working in teams, under pressure, striving to understand possibly the most complex data set they have encountered. 
-At other institutions, students have received internships and interviews that have led to full-time employment. 
-Success at DataFest requires that a team have a combination of computational, statistical, and human skills, as well as the ability to communicate clearly and extremely concisely.
+Money is helpful but so is your time! Spend an hour or two getting to know the students and offering your sage advice. This is an excellent recruiting opportunity; you get to watch students working in teams, under pressure, striving to understand possibly the most complex data set they have encountered. At other institutions, students have received internships and interviews that have led to full-time employment. Success at DataFest requires that a team have a combination of computational, statistical, and human skills, as well as the ability to communicate clearly and extremely concisely.
 
 [[Register here]](https://goo.gl/forms/vvGg3NegVX0qqTvf2) to sign up as a roaming consultant. 
 
+### Student safety teams
+
+DataFest is open to non-Chico State students, which is a great opportunity for those in the North State region. However Chico State campus policy states that doors must close at midnight. We value the safety of our students and participants and so we are recruiting a group of volunteers who are willing to help provide transportation or escort services for students returning to home or to their cars after midnight.
+
+Contact Robin directly if you would like to be part of this safety coalition.  
+
+### Swag, giveaways, Prizes!!!
+
+Pens, note pads, USB drives, buttons... Students love these and they help make the event fun. If we get something special, we can give it away in a ``late-night raffle" to help keep the energy level high.
+
+
 ### Contact 
 
-Contact Robin Donatello, rdonatello@csuchico.edu for more information on how your organization can help create a memorable weekend. 
+For questions or more information on how you can support this amazing student event, please contact the Data Science Coordinator Robin Donatello at datascience@csuchchico.edu or 530-898-5767.
 

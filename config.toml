@@ -27,22 +27,27 @@ paginate = 10
     name = "About"
     url  = "/about/"
     weight = 2
-    
+
 [[menu.main]]
-    name = "Schedule of Events"
-    url  = "/schedule/"
+    name = "Register"
+    url  = "/register/"
     weight = 3
 
 [[menu.main]]
-    name = "Sponsors"
-    url  = "/fundraising/"
+    name = "Supporting DataFest"
+    url  = "/Sponsors/"
     weight = 4
 
 [[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
-    weight = 5
+    name = "Schedule"
+    url  = "/schedule/"
+    weight = 6
 
+[[menu.main]]
+    name = "FAQ"
+    url  = "/faq/"
+    weight = 7
+    
 # Top bar social links menu
 
 [[menu.topbar]]
@@ -76,7 +81,7 @@ paginate = 10
     defaultDescription = "Data Fest at Chico State"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+   # googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
@@ -136,8 +141,8 @@ paginate = 10
 
 [params.carousel]
     enable = true
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
+    # All carousel items are defined in their own files 'data/carousel'.
+    # Images are kept under static/img/carousel
     # For more informtion take a look at the README.
 
 [params.features]
@@ -148,11 +153,11 @@ paginate = 10
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
-    title = "Prior Events"
-    subtitle = "stuff"
-    link_url = "#"
-    link_text = "Check other homepages"
+    icon = "fa fa-trophy"
+    #title = "Past Events at Chico"
+    #subtitle = "stuff"
+    link_url = "/past_events/"
+    link_text = "Past Events at Chico"
 
 
 [params.testimonials]
@@ -169,14 +174,14 @@ paginate = 10
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Our Sponsors"
-    subtitle = "Make this a link"
+    subtitle = "DataFest would not be able to run without the support from the following individuals and organizations. To learn how you can contribute check out our Sponsors page"
 
 
 
 #[params.recent_posts]
 #    enable = false
-#    title = "From our blog"
-#    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+#    title = "Current News
+#    subtitle = "You heard it here at least first."
 
 
 

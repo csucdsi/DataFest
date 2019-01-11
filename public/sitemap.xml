@@ -37,6 +37,10 @@
   </url>
   
   <url>
+    <loc>/faq/</loc>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
@@ -45,10 +49,6 @@
   <url>
     <loc>/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/coc/</loc>
   </url>
   
   <url>
@@ -96,7 +96,7 @@
   </url>
   
   <url>
-    <loc>/past/</loc>
+    <loc>/past_events/</loc>
   </url>
   
   <url>
@@ -136,6 +136,10 @@
   </url>
   
   <url>
+    <loc>/register/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
@@ -146,6 +150,10 @@
   </url>
   
   <url>
+    <loc>/sponsors/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
@@ -153,10 +161,6 @@
   
   <url>
     <loc>/fundraising/</loc>
-  </url>
-  
-  <url>
-    <loc>/sponsors/</loc>
   </url>
   
   <url>
@@ -173,14 +177,6 @@
   
   <url>
     <loc>/consultants/</loc>
-  </url>
-  
-  <url>
-    <loc>/judges/</loc>
-  </url>
-  
-  <url>
-    <loc>/register/</loc>
   </url>
   
 </urlset>

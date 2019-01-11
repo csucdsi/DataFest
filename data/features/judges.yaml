@@ -2,4 +2,4 @@ weight: 5
 name: "Friendly Competition"
 icon: "fa fa-gavel"
 description: "Each team will present their results to a panel of judges. Judges will select teams to win prizes for areas such as 'Best Insight', 'Best Visualization', and 'Best use of external data'."
-url: "/judges/"
+
