@@ -3,19 +3,19 @@ title= "Registration Opens February 1st, 2019"
 +++
 
 
-# Register as an individual - seeking a team
+
+## <img src="../img/team.png"> [Register as a Team](https://goo.gl/forms/oxP9I49UKF3uOmzo1)
+
+<br>
+
+## <img src="../img/lfg.png">  [Register as an individual - seeking a team](https://goo.gl/forms/IRbkTY0wf5RB3XXn2)
 We will be holding team formation social nights prior to the event. 
 
-Link Forthcoming
+<br>
+## <img src="../img/consultation.png">[Register as a visiting consultant](https://goo.gl/forms/12ZUzyDiKUk1j7C92)
 
-# Register as an official Team
-
-Link Forthcoming
-
-# Register as a visiting consultant
-
-
-Link Forthcoming
+<br>
+## <img src="../img/judge.png">[Register as an event judge](https://goo.gl/forms/H9YwkoPIPcDSETDK2)
 
 
 ---
@@ -33,3 +33,8 @@ ASA participants agree to:
 - Take care of each other. Alert a member of the organizers if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 
 For more on the code of conduct, please see the [ASA Meeting Code of Conduct](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx).
+
+---
+
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
