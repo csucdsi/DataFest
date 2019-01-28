@@ -1,5 +1,5 @@
 ---
-title: "Supporting Data Fest"
+title: "Supporting Data Fest in 3 ways"
 output: html_document
 ---
 
@@ -7,40 +7,13 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
 ```
 
-**DataFest runs entirely on donations and so we need your support.**
+### Financial Contributions
 
-**There are three ways you can support DataFest at Chico State, either as an individual or as a business. **
+We are seeking $5,000 to supply food and event supplies. All monitary dontations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [CSUC DSI](http://datascience.csuchico.edu) website. 
 
-**Please [contact us](datascience@csuchico.edu) if you have any questions on how to support DataFest.**
-
-
-
-### Please consider a financial contribution and, in particular, asking your employer to contribute.
-We are seeking $3,000 to supply food and event supplies. All monitary dontations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [CSUC DSI](http://datascience.csuchico.edu) website. 
 
 <div class = "row">
 <div class = "col-md-6">
-
-```{r}
-# fundraising objective
-z <- 3000
-# amount gathered
-y <- 850
-
-library(RColorBrewer)
-cols <- brewer.pal(11, "RdYlGn")
-
-par(oma=c(0,0,0,0), mar=c(0,0,1,0))
-symbols(1, thermometers = cbind(.5, 1, y/z), fg = cols[round(y/z*10)], inches=3, 
-        xlab = NA, ylab = NA, yaxt='n', xaxt='n', bty='n',  
-        main = paste("Funds raised as of", format(Sys.Date(), "%m-%d-%y")))
-text(1, y=1.3, paste0("$", y, "/", z))
-text(1, y=.8, paste0(round(y/z*100), "%"),  offset = 3)
-```
-</div>
-<div class = "col-md-6">
-
-</br></br></br>
 
 ### Donate online
 Go to the [Chico State Giving website](https://securelb.imodules.com/s/1751/wide.aspx?sid=1751&gid=2&pgid=405&cid=1058). 
@@ -57,12 +30,35 @@ CSU, Chico Department of Mathematics and Statistics
 400 West First Street 
 Chico, CA, 95929-525
 
+</div>
+<div class = "col-md-6">
+
+</br></br></br>
+
+```{r}
+# fundraising objective
+z <- 5000
+# amount gathered
+y <- 850
+library(RColorBrewer)
+cols <- brewer.pal(11, "RdYlGn")
+par(oma=c(0,0,0,0), mar=c(0,0,1,0))
+symbols(1, thermometers = cbind(.5, 1, y/z), fg = cols[round(y/z*10)], inches=3, 
+        xlab = NA, ylab = NA, yaxt='n', xaxt='n', bty='n',  
+        main = paste("Funds raised as of", format(Sys.Date(), "%m-%d-%y")))
+text(1, y=1.3, paste0("$", y, "/", z))
+text(1, y=.8, paste0(round(y/z*100), "%"),  offset = 3)
+```
+
 
 </div>
 </div>
+
 
 ### Giving Tiers
 Your contribution is very meaningful to us, so as a way to give back we have set up the following fundraising tiers. 
+
+Contributors, please click [here] to upload a company bio, web-ready logo, and URL link.
 
 #### Platiunum - above $1001 
 * Table for HR/recruitment for 2 hours on Saturday
