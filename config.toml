@@ -174,7 +174,7 @@ paginate = 10
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Our Sponsors"
-    subtitle = "DataFest would not be able to run without the support from the following individuals and organizations. To learn how you can contribute check out our Sponsors page"
+    subtitle = "DataFest would not be able to run without the support from the following individuals and organizations. To learn how you can contribute check the page on Supporting DataFest."
 
 
 
