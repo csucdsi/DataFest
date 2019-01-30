@@ -34,7 +34,7 @@ title= "Sponsors"
 </tr>
 
 <tr>
-  <td><img src="../img/clients/math_logo.jpg"></img></td>  
+  <td><img src="../img/clients/math_logo.png"></img></td>  
   <td> Chico State Math Club </td>
 </td>
 </tr>
