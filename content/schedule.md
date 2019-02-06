@@ -8,9 +8,10 @@ title= "Schedule of Events"
 
 # On your marks....
 
-* You are welcome to use any programming language you like, but we will host some pre-event workshops for Python, R, SAP Lumeria and possibly others.  (Location and schedule TBD)
+* You are welcome to use any programming language you like, but we will host some pre-event workshops for Python, R, SAP Lumeria and possibly others. 
+    - Most will be held in Tehama 116 during Community coding (TR 2-4pm)
 * We will also be hosting "get to meet your teammates" social events the week prior to the event (details TBD)
-* Even Registration closes by February 1st 2019, or when we reach capacity. Whatever comes first. 
+* Event Registration closes by March 22nd 2019, or when we reach capacity. Whatever comes first. 
 
 
 
