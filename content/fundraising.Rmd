@@ -61,7 +61,7 @@ Your contribution is very meaningful to us, so as a way to give back we have set
 
 Contributors, please email your company bio, and a web-ready logo to datascience@csuchico.edu. 
 
-#### Platiunum - above $1001 
+#### Platinum - above $1001 
 * Table for HR/recruitment for 2 hours on Saturday
 * Access to resume book of all DataFest participants. 
 * Large, prominently placed logo on all printed DataFest advertisement materials
@@ -77,7 +77,8 @@ Contributors, please email your company bio, and a web-ready logo to datascience
 * Acknowledgements in the opening ceremony (dedicated slide)
 
 
-#### Silver - $251-$500 
+#### Silver - $251-$500
+* Five minute presentation during the opening or closing session
 * Medium logo on all printed DataFest advertisement materials
 * Medium logo, link and short company profile on this website
 * Company/organization name at the food table display
