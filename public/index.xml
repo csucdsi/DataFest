@@ -78,6 +78,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title></title>
+      <link>/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/</guid>
+      <description>code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
       <title>About DataFest</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -154,7 +163,8 @@ Register as an event judge Code of Conduct ASA DataFestTM at Chico State is comm
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sponsors/</guid>
-      <description>Data Fest would not be able to happen without the support of the following people and organizations Want to help? See our fundraising page for information on how you can help.       The Chico State Data Science Initiative handles all training, logistics, advertising, manpower and fundraising support. See more at http://datascience.csuchico.edu.       The American Statistical Association is the National coordinating organization of DataFest.</description>
+      <description>Data Fest would not be able to happen without the support of the following people and organizations Want to help? See our fundraising page for information on how you can help. Gold Sponsors None yet :(
+Silver Sponsors      The American Statistical Association is the National coordinating organization of DataFest. They work hard to get the most interesting data possible. See more at http://www.amstat.org.     Chico State Math Club.</description>
     </item>
     
     <item>

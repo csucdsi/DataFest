@@ -6,8 +6,45 @@ title= "Sponsors"
 
 #### Want to help? See our [fundraising](../fundraising/) page for information on how you can help. 
 
+
 ----
 
+## Gold Sponsors
+
+None yet :( 
+
+---
+
+## Silver Sponsors
+
+<table border="0" align="center", border-spacing:5em; border-collapse:separte;>
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+
+<tbody>
+
+  <tr>
+    <td><img src="../img/clients/asa_logo.jpg"></img></td>
+    <td>The American Statistical Association is the National coordinating organization of DataFest. 
+                        They work hard to get the most interesting data possible. 
+                        See more at <a href="http://www.amstat.org">http://www.amstat.org</a>. </td>
+  </tr>
+  
+  <tr>
+    <td><img src="../img/clients/math_logo.png" style="width:50%"></img></td>
+    <td>Chico State Math Club. Supporting students in their pursuit of mathematical sciences for over 20 years.</td>
+  </tr>
+
+</tbody>
+</table>
+  
+<p>
+
+----
+
+## Bronze Sponsors
 
 <table border="0" align="center">
 <colgroup>
@@ -17,42 +54,36 @@ title= "Sponsors"
 
 <tbody>
 
-<tr>
-  <td align="left" markdown="span"><img src="../img/clients/DSI_Logo_Horizontal_Small.jpg" style="width:80%"></img></td>  
-  <td> The Chico State Data Science Initiative handles all training, logistics, advertising, manpower
-       and fundraising support. See more at <a href="http://datascience.csuchico.edu">http://datascience.csuchico.edu</a>. 
-  </td>
-<tr>
-
-<tr></tr>
-
-<tr>
-  <td align="left" markdown="span" ><img src="../img/clients/asa_logo.jpg"></img></td>  
-  <td> The American Statistical Association is the National coordinating organization of DataFest. 
-       They work hard to get the most interesting data possible. 
-       See more at <a href="http://www.amstat.org">http://www.amstat.org</a>. 
-  </td>
-</td>
-</tr>
-
-<tr>
-  <td align="left" markdown="span"><img src="../img/clients/CESIRlogo.png" style="width:60%"></img></td>  
-  <td> The Center for Enterprise Systems and Informatics Research (CESIR) helps equip tomorrow's IT professionals with the unique 
-       blend of resources, skills, and abilities needed to confidently and competently tackle important business challenges. 
-       Our vision is to “Empower students, faculty, and the community to thrive in the fourth industrial revolution era,” 
-       the age of robotics, AI, IoT, VR, 3D printing, autonomous vehicles, nano-biotech, quantum computing, etc.
-       See more at <a href="https://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml">https://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml</a>. 
-  </td>
-</td>
-</tr>
+  <tr>
+    <td align="left" markdown="span"><img src="../img/clients/pbs_logo.png" style="width:40%"></img></td>
+    <td>Employee owned lumberyard that has been serving home owners and contracters in Northern California since 1973.</td>
+  </tr>
+  
+  <tr>
+    <td align="left" markdown="span"><img src="../img/clients/DSI_Logo_Horizontal_Small.jpg" style="width:60%"></img></td>  
+    <td> The Chico State Data Science Initiative handles all training, logistics, advertising, manpower
+         and fundraising support. See more at <a href="http://datascience.csuchico.edu">http://datascience.csuchico.edu</a>. </td>
+  <tr>
 
 
-<tr>
-  <td align="left" markdown="span"><img src="../img/clients/math_logo.png" style="width:50%"></img></td>  
-  <td> Chico State Math Club </td>
-</tr>
+  <tr>
+    <td align="left" markdown="span"><img src="../img/clients/CESIRlogo.png" style="width:60%"></img></td>  
+    <td> The Center for Enterprise Systems and Informatics Research (CESIR) helps equip tomorrow's IT professionals with the unique 
+         blend of resources, skills, and abilities needed to confidently and competently tackle important business challenges. 
+         Our vision is to “Empower students, faculty, and the community to thrive in the fourth industrial revolution era,” 
+         the age of robotics, AI, IoT, VR, 3D printing, autonomous vehicles, nano-biotech, quantum computing, etc.
+         See more at <a href="https://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml">
+         https://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml</a>. </td>
+  </tr>
 
-</tr>
+</tbody>
+</table>
+  
+<p>
+
+----
+
+## Acknowledgements
 
 <!---
 <tr>
@@ -61,9 +92,3 @@ title= "Sponsors"
 </td>
 </tr>
 --->
-
-
-</tbody>
-</table>
-  
-<p>
