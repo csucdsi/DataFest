@@ -83,18 +83,27 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
          https://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml</a>. </td>
   </tr>
   
+  <tr><td height= "50"> </td> <td></td></tr>
+  
+  <tr>
+    <td align="left" markdown="span"><img src="../img/clients/pearson.png" style="width:50%"></img></td>  
+    <td> Pearson Educational Products </td>
+  </tr>
+  
+  <tr><td height= "50"> </td> <td></td></tr>
+  
   <tr>
     <td align="left" markdown="span"><img src="../img/clients/pbs_logo.png" style="width:30%"></img></td>
     <td>Employee owned lumberyard that has been serving home owners and contracters in Northern California since 1973.</td>
   </tr>
-  <tr></tr>
+  
+  <tr><td height= "50"> </td> <td></td></tr>
+  
   <tr>
     <td align="left" markdown="span"><img src="../img/clients/DSI_Logo_Horizontal_Small.jpg" style="width:50%"></img></td>  
     <td> The Chico State Data Science Initiative handles all training, logistics, advertising, manpower
          and fundraising support. See more at <a href="http://datascience.csuchico.edu">http://datascience.csuchico.edu</a>. </td>
   <tr>
-
-
 
 
 </tbody>
