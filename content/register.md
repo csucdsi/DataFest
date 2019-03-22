@@ -1,8 +1,21 @@
 +++
-title= "Register now!"
+title= "Registration Links"
 +++
 
+Registration for Teams & Participants now closed!
 
+We still need consultants and judges. 
+
+<br>
+## <img src="../img/consultation.png">[Register as a visiting consultant](https://goo.gl/forms/12ZUzyDiKUk1j7C92)
+
+<br>
+## <img src="../img/judge.png">[Register as an event judge](https://goo.gl/forms/H9YwkoPIPcDSETDK2)
+
+
+
+
+<!---
 
 ## <img src="../img/team.png"> [Register as a Team](https://goo.gl/forms/oxP9I49UKF3uOmzo1)
 
@@ -11,12 +24,7 @@ title= "Register now!"
 ## <img src="../img/lfg.png">  [Register as an individual - seeking a team](https://goo.gl/forms/IRbkTY0wf5RB3XXn2)
 We will be holding team formation social nights prior to the event. 
 
-<br>
-## <img src="../img/consultation.png">[Register as a visiting consultant](https://goo.gl/forms/12ZUzyDiKUk1j7C92)
-
-<br>
-## <img src="../img/judge.png">[Register as an event judge](https://goo.gl/forms/H9YwkoPIPcDSETDK2)
-
+--->
 
 ---
 
