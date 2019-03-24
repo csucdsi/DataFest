@@ -18,3 +18,17 @@ If you would like to write about or cover DataFest at Chico State in any way, pl
 * [Big Data Goes to College](http://magazine.amstat.org/blog/2014/06/01/datafest/) - AMSTAT News - June 1, 2014
 * [The Students Most Likely to Take Our Jobs](http://fivethirtyeight.com/datalab/the-students-most-likely-to-take-our-jobs/) - FiveThirtyEight.com - May 2, 2014
 
+----
+
+# Information / Guides
+
+## Code of Conduct
+
+## For Participants
+
+## For Consultants
+
+## For Judges
+
+
+

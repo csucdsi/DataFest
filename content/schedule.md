@@ -9,10 +9,18 @@ title= "Schedule of Events"
 # On your marks....
 
 * You are welcome to use any programming language you like, but we will host some pre-event workshops for Python, R, SAP Lumeria and possibly others. 
-    - Most will be held in Tehama 116 during Community coding (TR 2-4pm)
-* We will also be hosting "get to meet your teammates" social events the week prior to the event (details TBD)
-* Event Registration closes by March 22nd 2019, or when we reach capacity. Whatever comes first. 
+* Data Science Calendar of events https://csudsi.netlify.com/page/events/ 
 
+    - Thu 2-14 2-3pm: Spatial data analysis. 
+    - Tue 2-19 3-4pm: Managing data using SQL. Materials: https://csudsi.netlify.com/2019/02/13/2019-02-13-intro-sql/ 
+    - Tue 3-5 2-3pm: Strategies to manage big data
+    - Thu 3-28 2-3pm: Information Visualization
+    - Fri 3-29 1-2pm: Using SAP Lumeria for Data Visualization (Glenn 304)
+
+
+# Team Forming Event (Thu 3/28/19 6-7:30pm)
+* Still looking for group? Join us for pizza, to get to know each other, and form teams. 
+* Location TBD, but very likely Sylvesters Cafe. 
 
 
 # Get set..
@@ -32,7 +40,7 @@ All events are @ Chico State Campus
 * 5pm - Registration
 * 5:30pm - Kickoff presentation. Meet the data!
 * 6 - Dinner
-
+* Work until midnight
 
 ## Saturday, April 6, 2019  
 **Carry on!**  
@@ -44,6 +52,7 @@ All events are @ Chico State Campus
 * 11:30pm - Midnight snack & prize raffle    
   
 The Northern California Undergraduate Mathematics Conference Events will be going on this day in Holt Hall.  
+Choose Chico! Event for prospective students is also going on. We may have some visitors. 
   
 ## Sunday, April 7, 2019 
 **Wrap up!**  
