@@ -18,10 +18,12 @@ title= "Schedule of Events"
     - Fri 3-29 1-2pm: Using SAP Lumeria for Data Visualization (Glenn 304)
 
 
-# Team Forming Event (Thu 3/28/19 6-7:30pm)
-* Still looking for group? Join us for pizza, to get to know each other, and form teams. 
-* Location TBD, but very likely Sylvesters Cafe. 
+# Team Forming Event
+Still looking for group? Join us for pizza, to get to know each other, and form teams. 
 
+* Thu 3/28/19 
+* 6-7:30pm
+* Sylvesters Cafe
 
 # Get set..
 All events are @ Chico State Campus

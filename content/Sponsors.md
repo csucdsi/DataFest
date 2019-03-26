@@ -88,6 +88,13 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
   <tr><td height= "50"> </td> <td></td></tr>
   
   <tr>
+    <td align="left" markdown="span"><img src="../img/clients/enloe.png" style="width:50%"></img></td>  
+    <td> Enloe Medical Center </td>
+  </tr>
+  
+  <tr><td height= "50"> </td> <td></td></tr>
+  
+  <tr>
     <td align="left" markdown="span"><img src="../img/clients/pearson.png" style="width:50%"></img></td>  
     <td> Pearson Educational Products </td>
   </tr>
@@ -117,6 +124,29 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
 
 ## Acknowledgements
 
+
+<table border="0" align="center">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+
+<tbody>
+
+
+  <tr><td height= "50"> </td> <td></td></tr>
+  
+  <tr>
+    <td align="left" markdown="span"><img src="../img/clients/ChicostartWeb_Logo.png" style="width:30%"></img></td>
+    <td>Supporting and enriching Northern California's Entrepreneurial Ecosystem and providing startups the resources they need to succeed. </td>
+  </tr>
+  
+
+
+</tbody>
+</table>
+  
+  
 <!---
 <tr>
   <td align="center" markdown="span"><img src="../img/clients/asa_logo.jpg" alt="" border=3 height=100 width=100></img></td>  

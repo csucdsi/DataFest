@@ -41,7 +41,7 @@ Chico, CA, 95929-525
 # fundraising objective
 z <- 5000
 # amount gathered
-y <- 2750
+y <- 3150
 library(RColorBrewer)
 cols <- brewer.pal(11, "RdYlGn")
 par(oma=c(0,0,0,0), mar=c(0,0,1,0))
