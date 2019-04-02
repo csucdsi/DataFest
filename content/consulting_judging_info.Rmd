@@ -1,6 +1,11 @@
-+++
-title = "Consultant & Judge Info"
-+++
+---
+title: "Consultant & Judge Information"
+subtitle: https://chicodatafest.netlify.com/
+output:
+  html_document: default
+  pdf_document: default
+---
+
 
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
@@ -15,7 +20,7 @@ Throughout the weekend students will work at CSU, Chico's Selvester's Cafe. Ther
 
 ### When you get there
 
-Please check in at registration desk at Selvester's Cafe, and grab your badge and T-shirt (if you registered early) when you get in. It's helpful to students for instance, to be able to clearly identify consultants from participants. 
+Please check in at registration desk at Selvester's Cafe, and grab your badge and consultant T-shirt (if you registered early) when you get in. It's helpful to students for instance, to be able to clearly identify consultants from participants. Judges will get a notepad and judging rubric along with their badge. 
 
 ## Contact
 
@@ -26,7 +31,7 @@ If you need to contact an organizer at any point during the event, email Robin a
 
 <span style="color:red">Please note that this information is currently TOP SECRET!!!</span> We do not want it getting out to anybody until all other locations are done with their DataFest in later weeks.
 
-All **judges** will receive a link to a Box document containing information on the data. Please let Robin know if you have not received the invite. Any consultants who would like access to this document, please contact Robinto request access.
+All **judges** will receive a link to a Box document containing information on the data. Please let Robin know if you have not received the invite. Any consultants who would like access to this document, please contact Robin to request access.
 
 The data set itself will **not** be provided to any consultants. <span style="color:red">We request that all computers be left at home.</span>
 
@@ -38,7 +43,7 @@ On Friday night, students will be busy trying to make sense of the data. We expe
 
 This is a competition, but it is supposed to be friendly and collaborative, so don't worry about revealing any special knowledge. This is not an exam, and so if someone asks, please answer if you can, and don't worry about other teams over hearing. I'm hoping that, after the first evening, teams will be sharing basic technical advice on their own.
 
-All are welcomed to the presentations and award ceremony.
+Everyone is welcome to the presentations and award ceremony.
 
 ### A note about software
 
@@ -55,9 +60,11 @@ There are three prize categories:
 
 The latter category is meant to encourage students to find supporting information and/or data beyond what we give them.
 
-Teams will have 5 minutes (4 min presentation + 1 min Q&A) and 2 slides to make their case.
+An optional "Judges Choice" will be available to the judges to use if desired. 
 
-At least one helper will also be in the room with you to run the session, keep time, etc. You will also be given a judging pack including a rubric and note cards to help keep things straight as well as your badge. It’s strongly recommended that you make note of teams that are especially strong as you're watching the presentations so that the deliberation conversation can be as efficient as possible.
+Teams will have 5 minutes (4 min presentation + 1 min Q&A) and 2 slides to make their case. Some teams may also submit a 1 page writeup with their presentation. This paper will be printed out and provided to you before judging starts. 
+
+At least one helper will also be in the room with you to run the session, keep time, etc. You will also be given a judging pack including a rubric and notepad to help keep things straight when you pick up your badge. It’s strongly recommended that you make note of teams that are especially strong as you're watching the presentations so that the deliberation conversation can be as efficient as possible.
 
 ## Feedback
 

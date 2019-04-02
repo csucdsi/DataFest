@@ -2,8 +2,8 @@
 title: "Participant Info & Guidelines"
 subtitle: https://chicodatafest.netlify.com/
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
