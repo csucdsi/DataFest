@@ -61,6 +61,6 @@ Choose Chico! Event for prospective students is also going on. We may have some 
 **Wrap up!**  
  
 * 8am - Breakfast    
-* 12:30pm - Lunch on your own (with consultants?)
+* 1pm - Presentations due. Lunch on your own (with consultants?)
 * 2pm - Presentations and judges' deliberations    
 * 3:30pm - Award ceremony       
