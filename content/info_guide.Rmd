@@ -1,29 +1,24 @@
 ---
-title: "DataFest at CSU, Chico 2019 - Participant Info & Guidelines"
-subtitle: "https://chicodatafest.netlify.com/"
+title: "Participant Info & Guidelines"
+subtitle: https://chicodatafest.netlify.com/
 output:
-  html_document:
-    toc: true
-    toc_float: true
+  pdf_document: default
+  html_document: default
 ---
-
-```{r, echo=FALSE, message=FALSE}
-library(readr)
-library(dplyr)
-knitr::opts_chunk$set(echo=FALSE)
-```
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
 
+This is a long document, please take a moment to read over it carefully. 
+
 <!-- **Presentation upload link for Sunday:** INSERT PRESENTATION UPLOAD LINK (See [presentations](#presentations) for details.) -->
 
-## Location
+# Location
 
 DataFest 2019 @ CSU, Chico will start with registration and end with awards ceremony in  [Selvester's Cafe](https://www.csuchico.edu/aaspace/commonspaces/selv/index.shtml). In between, participants will work during the day and night at Selvester's Cafe. See the schedule for more detailed information for important events in between and their locations.
 
 ### Directions & Maps
 
-- Selvester's Cafe
+* Selvester's Cafe
     - Is in the center of campus, along the creek
     - For some reason it's labelled Selvester's Cafe-By-The-Creek
     - On a map: https://www.csuchico.edu/maps/campus/?id=1193#!ct/28514?mc/39.72979688502985,-121.84459609910849?z/18?lvl/0
@@ -31,16 +26,21 @@ DataFest 2019 @ CSU, Chico will start with registration and end with awards cere
 
 ### Transportation & Parking
 
-There is metered parking (free on Saturdays) on Citrus Ave and Legion
-Ave. There is additional free street parking near the Gateway Science
-Museum. Please don't park in the Bidwell Mansion parking lot or in the
-residential areas.
+* There is metered parking (free on weekends) on Citrus Ave and Legion Ave. 
+* There is additional free street parking near the Gateway Science Museum. 
+* Please don't park in the Bidwell Mansion parking lot or in the residential areas.
+* CSU, Chico offers some [further advice about parking](https://www.csuchico.edu/parking/wheretopark.shtml).
+* We ask that you carpool with teammates as parking on campus can be tricky.
+* Here is a map of [some parking spots](https://www.csuchico.edu/maps/campus/?id=1193#!ce/28506,32116,36245?ct/28506,36245,36247,36246,36473,36472,32115,32092?mc/39.72895946407476,-121.8430553376675?z/15?lvl/0) on campus.
 
-CSU, Chico offers some [further advice about parking](https://www.csuchico.edu/parking/wheretopark.shtml).
 
-We ask that you carpool with teammates as parking on campus can be tricky.
+## Who is at ASA DataFest @ Chico State 2019? 
 
-Here is a map of [some parking spots](https://www.csuchico.edu/maps/campus/?id=1193#!ce/28506,32116,36245?ct/28506,36245,36247,36246,36473,36472,32115,32092?mc/39.72895946407476,-121.8430553376675?z/15?lvl/0) on campus.
+- 46 participants in 11 teams!
+- 8 consultants
+- 4 judges
+
+You should receive an email from the DataFest organizers with your team information, this document as a PDF, and information on how to join our Slack workspace. Contact us if you have not received this information. 
 
 ## Schedule
 
@@ -52,28 +52,41 @@ You are of course free to come and go as you please throughout the event, but he
 
 - Friday sometime between 5-5:30pm - registration
 - Friday 5:30pm - kickoff
-- Saturday 5:30pm - group photo
-- Sunday 3pm - judging and awards ceremony
+- Saturday afternoon - group photo
+- Sunday 2pm - judging and awards ceremony
 
 Consultants will be available for help until midnight; you can work as late/early as you like. We recommend checking out the [Consultant schedule](INSERT LINK) to plan out your weekend.
 
 
-### Security & Access
+## Security & Access
 
-MOAR WORDZ
+Campus security will open the doors promptly at 8am Saturday and Sunday morning, and come to lock the doors at Midnight Friday & Saturday. It is not advised to leave materials in the building although it will be locked.  
 
-**Teams who are spotted in areas of the library other than The Edge after midnight will be disqualified from the competition.**
+**Teams who are spotted working in areas other than Sylvesters or after midnight will be disqualified from the competition.**
 
-## SOCIAL MEDIA
+# Social Media
 
-Follow us on social media and don’t hesitate to share the fun and thank our sponsors (except for the data provider, which we need to keep a secret for the time being).
+Did you know that, this year, DataFest will be held at over 30 universities around the world?
+DataFest takes place during a six-week window in the Spring, and different universities hold
+their event at different times.
 
-- Twitter: https://twitter.com/DukeDataFest, #datafestATduke
-- Facebook: https://www.facebook.com/ASADataFest
+An essential ingredient of Datafest is that the data be a surprise. There are several reasons for
+this. One is that it ensures that all teams start on an equal footing. Another is that, even if you
+research the organization that donated the data, you might still be totally unprepared for the
+context of the data (and maybe less prepared than had you known nothing!) Finally, it is simply
+more fun.
 
-We will use these channels for announcements throughout the event as well, so make sure that you're checking regularly.
+You are encouraged to share your excitement on social media and thank our sponsors. 
+The official Twitter hashtag is #datafest19. However...
 
-## Computing and supplies
+PLEASE KEEP THE SECRET UNTIL MAY 4, 7pm. Teams that leak the name or any information
+about the identify of the data donor will be disqualified!
+
+Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might
+reveal the data donor.
+
+
+# Computing and supplies
 
 We recommend that every member of the team bring a laptop, if possible. You might find it helpful to have a mix of PCs and Macs, since they have different strengths.
 
@@ -87,15 +100,13 @@ We will provide meals, snacks, and munchies. Feel free to bring anything additio
 
 RStudio is hosted on the cloud at https://rstudio.cloud/
 
-You can use a Python instance from [Google Colab](https://colab.research.google.com/)
+You can use a Python instance from Google Colab https://colab.research.google.com/
 
 Both of these options are accessible to anyone with a gmail account.
 
 ## Data
 
-At the end of the kickoff presentation you will be given three options to obtain the data:
-
-- Go to the registration desk at Selvester's Cafe and check out a USB stick containing the data. When you're done downloading the data off it please return it to the registration desk so that another team can use it.
+At the end of the kickoff presentation each team should send one member to the registration desk at Selvester's Cafe and check out a USB stick containing the data. When you're done downloading the data off it please return it to the registration desk so that another team can use it.
 
 ### Large data advice
 
@@ -104,19 +115,21 @@ The dataset you will be working with is quite large. If you type a variable name
 We strongly recommend you create a small data set that you can use to test things on. Then, if it works out, you can apply your procedure to the large dataset. Some procedures can take a frustratingly long time to run on large data sets, and so it will be comforting to know that your procedure works (because you tested it on a smaller data set) while you wait. We recommend taking a random sample of rows from the original data set, but there might be other approaches you find useful.
 
 
-## Presentations, judging, and awards
+# Presentations, judging, and awards
 
-### Presentations
+## Presentations
 
-Each team will have 4 minutes + 1 minute Q&A to present their findings to the judges. That’s exactly 4 minutes, not 4 minutes and a few additional seconds. Each team will be allowed at most three slides. Three! So at some point Saturday night or Sunday morning, you might want to set aside time to think about what you want the judges to know. The 4 minute presentation and 1 minute Q&A time limits will be strictly enforced. All team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).
+Each team will have 4 minutes + 1 minute Q&A to present their findings to the judges. That’s exactly 4 minutes, not 4 minutes and a few additional seconds. Each team will be allowed at most two slides. Two! So at some point Saturday night or Sunday morning, you might want to set aside time to think about what you want the judges to know. The 4 minute presentation and 1 minute Q&A time limits will be strictly enforced. All team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).
 
-Along with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.
+**Optional**
+
+Along with your presentation you are also allowed to turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges can refer to these during deliberation. You will upload these documents along with your presentation. Only 1 page will be printed. 
 
 #### Submitting your presentation
 
-At noon on Sunday all work must stop and you must upload your presentation and your write up to the Box folder at [INSERT LINK]. If you are having technical difficulty, you can ask a consultant for help. Consultants will be around to help.
+At 1pm on Sunday all work must stop and you must upload your presentation and your optional write up to the submission website linked at the top of this page (available starting Sunday AM). If you are having technical difficulty, you can ask a consultant for help. Consultants will be around to help.
 
-Teams who fail to upload their presentations and write-ups by 12:30pm on Sunday will not be eligible to have their presentations judged.
+Teams who fail to upload their presentations and write-ups by 1:0pm on Sunday will not be eligible to have their presentations judged.
 
 #### File naming
 
@@ -132,38 +145,16 @@ The files you’re submitting must be named in the following manner:
 
 Note that you will not have time to log on/off to your account before your presentation. We don’t want to restrict your creativity but it is your responsibility to make sure that your presentation works seamlessly before the judging session begins.
 
-### JUDGING
+## Judging
 
-Judging will happen in two rounds:
+The Judges will convene in a side room to deliberate and rank their nominations. 
+Three of these will be selected for the award categories listed below. 
+The judges also have the option to name a fourth winner as Judges' Pick.
 
-#### First Round of Judging
-
-Teams will be randomly assigned to 8 judging sessions (10 teams per session) where they will present their findings to a panel of two judges. Each judging panel will evaluate and score all teams in their session on three categories (insight, use of outside data, visualization) and nominate three teams to continue on to the next round of judging. They will also have the opportunity to nominate additional teams as honorable mentions or on other categories. These teams will be acknowledged at the awards ceremony, but will not be competing for awards in the final round.
-
-During the time participants will be transitioning from their first round judging rooms to Gross Hall 107 for final round, organizers will process scoring data from the judges. Scores will be normalized to scale judges' scoring, and top 10 teams will be selected to present their work in the final round of judging. These teams will be announced at 3pm in Gross Hall 107. **We will not be sending emails about these, so if your team was nominated to proceed to the next round, you must come to Gross Hall 107 to find out whether you will be presenting in the final round.**
-
-First round presentations and judging will be held at the following eight venues. On Saturday you will receive an email letting you know your room assignment.
-
-1. Edge Workshop Room
-1. Perkins 217
-1. Old Chem 116
-1. Social Psychology 130
-1. Gross Hall 103
-1. Gross Hall 107
-1. Gross Hall 270
-1. Gross Hall 330
-
-If you are unfamiliar with Duke's campus, you might want to check out your room assignment before 1pm on Sunday so that you are not late to your presentation. Helpers will be on hand to guide students from The Edge to these locations as well. All of these buildings are marked on [this map](https://drive.google.com/open?id=1hgcAY7z3Vhzs02ppZ22TY6q-GxQ&usp=sharing) as well.
-
-#### Final Round of Judging
-
-10 highest ranked out of the 24 teams that were nominated to proceed onto the next round of judging will present their work again to a new panel of five judges. Teams will give the same presentation as they gave before. Three of these will be selected for the award categories listed below. The judges also have the option to name a fourth winner as Judges’ Pick.
-
-Final round of judging will take place in Gross Hall 107 (same room as the kickoff).
 
 All are welcomed to the presentations and award ceremony.
 
-### Awards
+## Awards
 
 Awards will be given in three categories:
 
@@ -181,50 +172,38 @@ Winners will receive medals and books as well as one-year student memberships to
 
 #### Raffle prizes
 
-Throughout the event we will be giving out raffle prizes. Announcements for these will be shared on social media. Follow these channels to get a chance to win one of these sweet prizes! Winning will also require that you are on premises at the time a prize is announced.
+* Throughout the event we will be giving out raffle prizes. Announcements for these will be shared on social media or through Slack. Follow these channels to get a chance to win one of these sweet prizes! 
+* Winning will also require that you are on premises at the time a prize is announced.
 
 ##  Recruiting
 
 DataFest is a great recruiting opportunity for many employers, and surely they won’t miss it!
 
-Many of our sponsors are sponsoring the event so you can find out more about them.
+Many of our sponsors are attending the event so you can find out more about them. 
 
 Most of our consultants are coming from companies who are recruiting or at a minimum wanting to meet you, so chat with them, find out what they do, network.
 
 We will collect resumes and share them with some of our sponsors. Participation in the resume book is optional, but highly recommended. You will receive information about this during the event.
 
 
-## Rules
+# Rules
 
 - You can come and go as you please, but all work must be completed on premises.
 
-- Do not use any library space other than The Edge after midnight. Students found in other areas of the library after midnight will be disqualified from the competition.
+- Do not use any space other than Sylvesters, or work after midnight. Students found working in other areas or after midnight will be disqualified from the competition.
 
-- Do not share the name of the data source publicly or on social media before May 1st. There are many other upcoming DataFests around the country and we want to make sure the dataset remains a surprise for them.
+- You must follow the Code of Conduct. This can be found at https://chicodatafest.netlify.com/faq/ and printed at the event. 
 
-- Clicking on the download link for the dataset means that you agree to the following Non-Disclosure agreement from the data provider. You can freely share your results, presentations, findings, etc. as part of your digital portfolio, however you are not allowed to share the raw data with anyone outside of DataFest. At the end of DataFest, you must delete all data from thumb drives, hard drives, etc. The data are sensitive.
+- Do not share the name of the data source publicly or on social media before May 4th. There are many other upcoming DataFests around the country and we want to make sure the dataset remains a surprise for them.
 
-- At all times between 9am-12 (midnight) there will be a friendly consultants present. These are faculty, grad students, members of the Research Triangle Analysts Group, or other professionals with field specific knowledge on the dataset. They all have different areas of expertise, so if you get stuck on something and one consultant isn’t able to help, ask someone else later. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the consultants to write code for you, or do data management, etc. They are there to help point you in the right direction, but you're responsible for getting there on your own.
+- Before your team gets the data all members must have signed Non-Disclosure agreement on file at the registration desk. You can freely share your results, presentations, findings, etc. as part of your digital portfolio, however you are not allowed to share the raw data with anyone outside of DataFest. At the end of DataFest, you must delete all data from thumb drives, hard drives, etc. The data are sensitive.
 
-<!-- ## Who is at ASA DataFest @ Duke 2017? -->
+- As much as possible during the event there will be a friendly consultants present. These are faculty, grad students, or other professionals from our community. Not all will have field specific knowledge on the dataset. They all have different areas of expertise, so if you get stuck on something and one consultant isn’t able to help, ask someone else later. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the consultants to write code for you, or do data management, etc. They are there to help point you in the right direction, but you're responsible for getting there on your own.
 
-```{r load-data, message=FALSE, eval=FALSE} 
-participants <- read_csv("data/participants.csv")
-consultants <- read_csv("data/consultants.csv")
-judges <- read_csv("data/judges.csv")
-```
+- PLEASE KEEP THE SECRET UNTIL MAY 4, 7pm. Teams that leak the name or any information about the identify of the data donor will be disqualified! Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might reveal the data donor.
 
-```{r, eval=FALSE}
-n_participant <- nrow(participants)
-n_team <- length(unique(participants$team_name))
-n_consultant <- nrow(consultants)
-n_judges <- nrow(judges)
-```
+- Please do not tweet, hashtag, Facebook, snapchat, etc about the identify of the donor or the context of the data. This means you should refrain from any hints, explicit or implicit statements that might reveal the context of the data.
 
-- `r #n_participant` participants in `r #n_team` teams!
-- `r #n_consultant - 1` consultants
-- `r #n_judges` judges
+- Be careful about github repositories. Make sure yours is invisible to the outside world.
 
-<!-- ### Participants -->
 
-<!-- View the participant summary document for more on the participants. -->

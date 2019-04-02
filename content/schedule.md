@@ -16,6 +16,7 @@ title= "Schedule of Events"
     - Tue 3-5 2-3pm: Strategies to manage big data
     - Thu 3-28 2-3pm: Information Visualization
     - Fri 3-29 1-2pm: Using SAP Lumeria for Data Visualization (Glenn 304)
+    - Tue 4-2 2-4pm: DataFest Prep - Get the experience by playing with last year's DataFest data. 
 
 
 # Team Forming Event
@@ -31,7 +32,7 @@ All events are @ Chico State Campus
 * Sylvesters Cafe 100.  [[Google Maps]](https://www.google.com/maps/place/Selvester's+Cafe/@39.7301243,-121.8457567,19z/data=!4m5!3m4!1s0x808327a4d40ea4c7:0xe6abf565f265edc2!8m2!3d39.7300544!4d-121.8450969) 
 * Doors will be open from 8am to 12 midnight. 
 * Join our Slack team! (info TBD)
-* Emergency numbers are posted (location TBD)
+* Emergency numbers are posted at the front of the room. 
 
 ----
 # GO!
@@ -60,6 +61,6 @@ Choose Chico! Event for prospective students is also going on. We may have some 
 **Wrap up!**  
  
 * 8am - Breakfast    
-* 12pm - Lunch
-* 2:30pm - Presentations and judges' deliberations    
-* 3pm - Award ceremony       
+* 1pm - Lunch on your own (with consultants?)
+* 2pm - Presentations and judges' deliberations    
+* 3:30pm - Award ceremony       

@@ -1,11 +1,6 @@
----
-title: "Consultant & Judge Info"
-subtitle: "https://chicodatafest.netlify.com/"
-output: 
-  html_document: 
-    toc: true
-    toc_float: true
----
++++
+title = "Consultant & Judge Info"
++++
 
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
@@ -16,23 +11,24 @@ All information regarding the event can be found at https://chicodatafest.netlif
 
 ## Location
 
-Throughout the weekend students will work at CSU, Chico's [Selvester's Cafe](https://www.csuchico.edu/aaspace/commonspaces/selv/index.shtml).
+Throughout the weekend students will work at CSU, Chico's Selvester's Cafe. There are many places to park around campus and downtown. [Here is a link to an interactive map showing the cafe, and parking nearby.](https://www.csuchico.edu/maps/campus/?id=1193#!m/316229?ce/0,31642,28505?ct/28506,36245,36247,36246,36473,36472,32703,32116,32115,32092,32068,32015,31198?mc/39.730033800326076,-121.84518098831178?z/17?lvl/0)
 
 ### When you get there
 
-Please check in at registration desk at Selvester's Cafe, and grab your badge when you get in.  Badges are our way to identify the different participants.  It's helpful to students for instance, to be able to clearly identify judges and consultants.
+Please check in at registration desk at Selvester's Cafe, and grab your badge and T-shirt (if you registered early) when you get in. It's helpful to students for instance, to be able to clearly identify consultants from participants. 
 
 ## Contact
 
-If you need to contact an organizer at any point during the event, email Robin at rdonatello@csuchico.edu
+You are also welcome to join the event Slack workspace. The invitation link will be emailed along with your schedule
+If you need to contact an organizer at any point during the event, email Robin at rdonatello@csuchico.edu or PM her through Slack. 
 
 ## Data
 
 <span style="color:red">Please note that this information is currently TOP SECRET!!!</span> We do not want it getting out to anybody until all other locations are done with their DataFest in later weeks.
 
-All judges will receive a link to a Box document containing information on the data. Please let me know if you have not received the invite. Any consultants who would like access to this document, please email me to request access.
+All **judges** will receive a link to a Box document containing information on the data. Please let Robin know if you have not received the invite. Any consultants who would like access to this document, please contact Robinto request access.
 
-Once the event begins, the data will be available to judges and consultants via flash drive.
+The data set itself will **not** be provided to any consultants. <span style="color:red">We request that all computers be left at home.</span>
 
 ## Consultants
 
@@ -59,12 +55,12 @@ There are three prize categories:
 
 The latter category is meant to encourage students to find supporting information and/or data beyond what we give them.
 
-Teams will have 5 minutes (4 min presentation + 1 min Q&A) and 3 slides to make their case.
+Teams will have 5 minutes (4 min presentation + 1 min Q&A) and 2 slides to make their case.
 
 At least one helper will also be in the room with you to run the session, keep time, etc. You will also be given a judging pack including a rubric and note cards to help keep things straight as well as your badge. It’s strongly recommended that you make note of teams that are especially strong as you're watching the presentations so that the deliberation conversation can be as efficient as possible.
 
 ## Feedback
 
-ASA DataFest has become an annual event that is now being officially sponsored by the American Statistical Association and held at numerous locations with participation from a large number of universities. We hope to grow the event further in the coming years. With that in mind, please send me any advice or constructive criticisms that will help us improve this event in the future.
+ASA DataFest has become an annual event that is now being officially sponsored by the American Statistical Association and held at numerous locations with participation from a large number of universities. We hope to grow the event further in the coming years. With that in mind, please send us any advice or constructive criticisms that will help us improve this event in the future to datascience@csuchico.edu. 
 
 Our primary goal is to provide a rewarding experience for the undergraduates, an experience that sharpens their analytical skills and gives them some confidence that they can take what they learn here out into the real world.

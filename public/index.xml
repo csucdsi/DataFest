@@ -98,6 +98,30 @@ At the conclusion of the competition, each team will have 5 minutes and 2 slides
     </item>
     
     <item>
+      <title>Consultant &amp; Judge Info</title>
+      <link>/consulting_judging_info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/consulting_judging_info/</guid>
+      <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.
+General Event InfoAll information regarding the event can be found at https://chicodatafest.netlify.com/.
+LocationThroughout the weekend students will work at CSU, Chico’s Selvester’s Cafe.
+When you get therePlease check in at registration desk at Selvester’s Cafe, and grab your badge when you get in. Badges are our way to identify the different participants.</description>
+    </item>
+    
+    <item>
+      <title>Consultant &amp; Judge Info</title>
+      <link>/consulting_judging_info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/consulting_judging_info/</guid>
+      <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.
+General Event Info All information regarding the event can be found at https://chicodatafest.netlify.com/.
+Location Throughout the weekend students will work at CSU, Chico&amp;rsquo;s Selvester&amp;rsquo;s Cafe. There are many places to park around campus and downtown. Here is a link to an interactive map showing the cafe, and parking nearby.
+When you get there Please check in at registration desk at Selvester&amp;rsquo;s Cafe, and grab your badge and T-shirt (if you registered early) when you get in.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -107,13 +131,14 @@ At the conclusion of the competition, each team will have 5 minutes and 2 slides
     </item>
     
     <item>
-      <title>Free Workshops</title>
-      <link>/workshops/</link>
+      <title>Participant Info &amp; Guidelines</title>
+      <link>/info_guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/workshops/</guid>
-      <description> The following workshops will be hosted by the Data Science Initiative prior to DataFest weekend. Sessions will be recorded and video posted on the DSI website shortly after the workshop.
-Session Title  Instructor: Helpers: Date: Time: Location: Register: Workshop website:  </description>
+      <guid>/info_guide/</guid>
+      <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.
+This is a long document, please take a moment to read over it carefully.
+LocationDataFest 2019 @ CSU, Chico will start with registration and end with awards ceremony in Selvester’s Cafe. In between, participants will work during the day and night at Selvester’s Cafe. See the schedule for more detailed information for important events in between and their locations.</description>
     </item>
     
     <item>
@@ -124,6 +149,15 @@ Session Title  Instructor: Helpers: Date: Time: Location: Register: Workshop web
       <guid>/past_events/</guid>
       <description>2018 - Indeed.com Our first year saw 12 undergraduate students from Applied Mathematics, Statistics, but also Computer Science, Construction Management, Civil Engineering, and Biology. The diversity of backgrounds and experiences was amazing. Many students were buzzing afterwards about how much fun they had and how much they learned that weekend.
 After two days of intense data wrangling, analysis, presentation design, interspersed with a lot of good free food and caffeine, each team presented their findings to a panel of judges consisting of both on and off campus professionals.</description>
+    </item>
+    
+    <item>
+      <title>Presentation Submissions</title>
+      <link>/presentation_submissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/presentation_submissions/</guid>
+      <description>Allowed file formats  We very strongly recommend using PDF, Keynote, or PowerPoint. If using a web-based tool like GoogleDocs or Prezi, please export to PDF and upload the PDF as your submission.  Note that you will not have time to log on/off to your account before your presentation. We don’t want to restrict your creativity but it is your responsibility to make sure that your presentation works seamlessly before the judging session begins.</description>
     </item>
     
     <item>
@@ -146,7 +180,7 @@ Register as an event judge [Register as a Team](https://goo.gl/forms/oxP9I49UKF3
       
       <guid>/schedule/</guid>
       <description>On your marks&amp;hellip;.  You are welcome to use any programming language you like, but we will host some pre-event workshops for Python, R, SAP Lumeria and possibly others. Data Science Calendar of events https://csudsi.netlify.com/page/events/
- Thu 2-14 2-3pm: Spatial data analysis. Tue 2-19 3-4pm: Managing data using SQL. Materials: https://csudsi.netlify.com/2019/02/13/2019-02-13-intro-sql/ Tue 3-5 2-3pm: Strategies to manage big data Thu 3-28 2-3pm: Information Visualization Fri 3-29 1-2pm: Using SAP Lumeria for Data Visualization (Glenn 304)   Team Forming Event Still looking for group?</description>
+ Thu 2-14 2-3pm: Spatial data analysis. Tue 2-19 3-4pm: Managing data using SQL. Materials: https://csudsi.netlify.com/2019/02/13/2019-02-13-intro-sql/ Tue 3-5 2-3pm: Strategies to manage big data Thu 3-28 2-3pm: Information Visualization Fri 3-29 1-2pm: Using SAP Lumeria for Data Visualization (Glenn 304) Tue 4-2 2-4pm: DataFest Prep - Get the experience by playing with last year&amp;rsquo;s DataFest data.</description>
     </item>
     
     <item>
@@ -169,15 +203,6 @@ Donate onlineGo to the Chico State Giving website.
 Choose “Other Designation” and write in “Data Science Initiative Fund #200685300”
 
 Donate by CheckPlease make out checks to Chico State and write in the memo field “Data Science Initiative Fund #200685300”.</description>
-    </item>
-    
-    <item>
-      <title>Visiting Consultants</title>
-      <link>/consultants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/consultants/</guid>
-      <description>Roaming consultants are awesome</description>
     </item>
     
   </channel>

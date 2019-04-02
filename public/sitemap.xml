@@ -52,6 +52,14 @@
   </url>
   
   <url>
+    <loc>/consulting_judging_info/</loc>
+  </url>
+  
+  <url>
+    <loc>/consulting_judging_info/</loc>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
   </url>
   
@@ -59,10 +67,6 @@
     <loc>/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/workshops/</loc>
   </url>
   
   <url>
@@ -96,6 +100,10 @@
   </url>
   
   <url>
+    <loc>/info_guide/</loc>
+  </url>
+  
+  <url>
     <loc>/past_events/</loc>
   </url>
   
@@ -103,6 +111,10 @@
     <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/presentation_submissions/</loc>
   </url>
   
   <url>
@@ -173,10 +185,6 @@
     <loc>/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/consultants/</loc>
   </url>
   
 </urlset>
