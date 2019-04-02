@@ -2,8 +2,8 @@
 title: "Participant Info & Guidelines"
 subtitle: https://chicodatafest.netlify.com/
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
@@ -14,7 +14,7 @@ This is a long document, please take a moment to read over it carefully.
 
 # Location
 
-DataFest 2019 @ CSU, Chico will start with registration and end with awards ceremony in  [Selvester's Cafe](https://www.csuchico.edu/aaspace/commonspaces/selv/index.shtml). In between, participants will work during the day and night at Selvester's Cafe. See the schedule for more detailed information for important events in between and their locations.
+DataFest 2019 @ CSU, Chico will start with registration and end with awards ceremony in  [Selvester's Cafe](https://www.csuchico.edu/aaspace/commonspaces/selv/index.shtml). 
 
 ### Directions & Maps
 
@@ -46,16 +46,14 @@ You should receive an email from the DataFest organizers with your team informat
 
 The schedule is at https://chicodatafest.netlify.com/schedule/.
 
-Registration opens at 5:00pm on Friday at Selvester's Cafe.
+Registration opens at 5pm on Friday at Selvester's Cafe.
 
 You are of course free to come and go as you please throughout the event, but here are the times all team members should plan to be on premises:
 
-- Friday sometime between 5-5:30pm - registration
+- Friday 5-5:30pm - registration
 - Friday 5:30pm - kickoff
-- Saturday afternoon - group photo
+- Saturday afternoon - group photo. Firm time TBD. 
 - Sunday 2pm - judging and awards ceremony
-
-Consultants will be available for help until midnight; you can work as late/early as you like. We recommend checking out the [Consultant schedule](INSERT LINK) to plan out your weekend.
 
 
 ## Security & Access

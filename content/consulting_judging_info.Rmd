@@ -2,25 +2,41 @@
 title: "Consultant & Judge Information"
 subtitle: https://chicodatafest.netlify.com/
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
 
-## General Event Info 
+# General Event Info 
 
 All information regarding the event can be found at https://chicodatafest.netlify.com/.
 
-## Location
+### Location
 
 Throughout the weekend students will work at CSU, Chico's Selvester's Cafe. There are many places to park around campus and downtown. [Here is a link to an interactive map showing the cafe, and parking nearby.](https://www.csuchico.edu/maps/campus/?id=1193#!m/316229?ce/0,31642,28505?ct/28506,36245,36247,36246,36473,36472,32703,32116,32115,32092,32068,32015,31198?mc/39.730033800326076,-121.84518098831178?z/17?lvl/0)
+
+### Transportation & Parking
+
+* There is metered parking (free on weekends) on Citrus Ave and Legion Ave. 
+* There is additional free street parking near the Gateway Science Museum. 
+* Please don't park in the Bidwell Mansion parking lot or in the residential areas.
+* CSU, Chico offers some [further advice about parking](https://www.csuchico.edu/parking/wheretopark.shtml).
 
 ### When you get there
 
 Please check in at registration desk at Selvester's Cafe, and grab your badge and consultant T-shirt (if you registered early) when you get in. It's helpful to students for instance, to be able to clearly identify consultants from participants. Judges will get a notepad and judging rubric along with their badge. 
+
+
+# Who is at ASA DataFest @ Chico State 2019? 
+
+- 46 participants in 11 teams!
+- 8 consultants
+- 4 judges
+
+You should receive an email from the DataFest organizers with your team information, this document as a PDF, and information on how to join our Slack workspace. Contact us if you have not received this information. 
 
 ## Contact
 
@@ -35,7 +51,7 @@ All **judges** will receive a link to a Box document containing information on t
 
 The data set itself will **not** be provided to any consultants. <span style="color:red">We request that all computers be left at home.</span>
 
-## Consultants
+# Consulting
 
 The most important thing is to keep the mood light and encouraging! We suspect by sometime Saturday afternoon things might seem rather dire to some of the students.
 
@@ -49,6 +65,12 @@ Everyone is welcome to the presentations and award ceremony.
 
 Most students will use R or Python but we also expect many to use SAP, Matlab, SAS, Excel, JMP, etc. as well. If asked for support on a platform you’re not familiar with, simply stating so is sufficient. If asked for support on a platform you are familiar with, you are welcomed to assist at any capacity you feel comfortable/up to -- from talking through the approach at a high level to sitting down and coding with them.
 
+## Schedule
+The schedule is at https://chicodatafest.netlify.com/schedule/.
+
+Registration opens at 5:00pm on Friday. the data presentation starts at 5:30. All parties are welcome to attend this introduction to the data. 
+
+A more detailed schedule of consultant and coordinator hours can be found [in this Google document](https://docs.google.com/spreadsheets/d/1BA_FlTaCEctfSfXAAheNxecT38ykV2_xMJ6Ee92ek0g/edit?usp=sharing). If your schedule is incorrect (or you want to add more hours) please contact Robin directly. 
 
 ## Judging
 
