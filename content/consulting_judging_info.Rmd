@@ -36,20 +36,42 @@ Please check in at registration desk at Selvester's Cafe, and grab your badge an
 - 8 consultants
 - 4 judges
 
-You should receive an email from the DataFest organizers with your team information, this document as a PDF, and information on how to join our Slack workspace. Contact us if you have not received this information. 
+You should receive an email from the DataFest organizers with this document as a PDF, and information on how to join our Slack workspace. Contact us if you have not received this information. 
 
 ## Contact
 
 You are also welcome to join the event Slack workspace. The invitation link will be emailed along with your schedule
 If you need to contact an organizer at any point during the event, email Robin at rdonatello@csuchico.edu or PM her through Slack. 
 
-## Data
+# Data
 
 <span style="color:red">Please note that this information is currently TOP SECRET!!!</span> We do not want it getting out to anybody until all other locations are done with their DataFest in later weeks.
 
-All **judges** will receive a link to a Box document containing information on the data. Please let Robin know if you have not received the invite. Any consultants who would like access to this document, please contact Robin to request access.
+All **judges** will receive a link to a document containing information on the data. Please let Robin know if you have not received the invite. Any consultants who would like access to this document, please contact Robin to request access.
 
 The data set itself will **not** be provided to any consultants. <span style="color:red">We request that all computers be left at home.</span>
+
+## Social Media
+
+Did you know that, this year, DataFest will be held at over 30 universities around the world?
+DataFest takes place during a six-week window in the Spring, and different universities hold
+their event at different times.
+
+An essential ingredient of Datafest is that the data be a surprise. There are several reasons for
+this. One is that it ensures that all teams start on an equal footing. Another is that, even if you
+research the organization that donated the data, you might still be totally unprepared for the
+context of the data (and maybe less prepared than had you known nothing!) Finally, it is simply
+more fun.
+
+You are encouraged to share your excitement on social media and thank our sponsors. 
+The official Twitter hashtag is #datafest19. However...
+
+PLEASE KEEP THE SECRET UNTIL MAY 4, 7pm. Teams that leak the name or any information
+about the identify of the data donor will be disqualified!
+
+Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might
+reveal the data donor.
+
 
 # Consulting
 
@@ -68,7 +90,11 @@ Most students will use R or Python but we also expect many to use SAP, Matlab, S
 ## Schedule
 The schedule is at https://chicodatafest.netlify.com/schedule/.
 
-Registration opens at 5:00pm on Friday. the data presentation starts at 5:30. All parties are welcome to attend this introduction to the data. 
+Registration opens at 5:00pm on Friday. the data presentation starts at 5:30. Sunday presentations start at 2pm. 
+
+With 11 teams we expect this to take about an hour and a half. 
+
+All parties are welcome to attend this introduction to the data, and the judging event. 
 
 A more detailed schedule of consultant and coordinator hours can be found [in this Google document](https://docs.google.com/spreadsheets/d/1BA_FlTaCEctfSfXAAheNxecT38ykV2_xMJ6Ee92ek0g/edit?usp=sharing). If your schedule is incorrect (or you want to add more hours) please contact Robin directly. 
 
