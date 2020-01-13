@@ -2,9 +2,10 @@
 title= "Registration Links"
 +++
 
-Registration for Teams & Participants now closed!
+> Registration for 2020 starts late January. 
 
-We still need consultants and judges. 
+<!---
+
 
 <br>
 ## <img src="../img/consultation.png">[Register as a visiting consultant](https://goo.gl/forms/12ZUzyDiKUk1j7C92)
@@ -12,10 +13,6 @@ We still need consultants and judges.
 <br>
 ## <img src="../img/judge.png">[Register as an event judge](https://goo.gl/forms/H9YwkoPIPcDSETDK2)
 
-
-
-
-<!---
 
 ## <img src="../img/team.png"> [Register as a Team](https://goo.gl/forms/oxP9I49UKF3uOmzo1)
 

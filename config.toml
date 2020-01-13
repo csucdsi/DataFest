@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Data Fest 2019"
+title = "Data Fest 2020"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -102,7 +102,7 @@ paginate = 10
     email = "datascience@csuchico.edu"
 
     about_us = "<p>Data Fest is organized by the Data Science Initiative at Chico State. Learn more at <a href='http://datascience.csuchico.edu'>http://datascience.csuchico.edu</a></p>"
-    copyright = "Copyright (c) 2018 - 2019, CSUC DSI; all rights reserved."
+    copyright = "Copyright (c) 2018 - 2020, CSUC DSI; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -173,7 +173,7 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Sponsors"
+    title = "Our 2019 Sponsors"
     subtitle = "DataFest would not be able to run without the support from the following individuals and organizations. To learn how you can contribute check the page on Supporting DataFest."
 
 

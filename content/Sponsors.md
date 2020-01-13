@@ -9,7 +9,11 @@ title= "Sponsors"
 
 ----
 
-## Platinum Sponsors
+> Now recruiting sponsors for DataFest 2020
+
+<!---
+
+## Brontybyte Sponsors
 
 
 <table border="0" align="center", border-spacing:5em; border-collapse:separte;>
@@ -34,7 +38,7 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
 
 ---
 
-## Silver Sponsors
+## Exabyte Sponsors
 
 <table border="0" align="center", border-spacing:5em; border-collapse:separte;>
 <colgroup>
@@ -65,7 +69,35 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
 
 ----
 
-## Bronze Sponsors
+## Terabyte Sponsors
+
+<table border="0" align="center">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+
+<tbody>
+
+  
+  <tr>
+    <td align="left" markdown="span"><img src="../img/clients/enloe.png" style="width:50%"></img></td>  
+    <td> Enloe Medical Center </td>
+  </tr>
+  
+
+  <tr><td height= "50"> </td> <td></td></tr>
+
+</tbody>
+</table>
+  
+<p>
+
+
+
+----
+
+## Gigabyte Sponsors
 
 <table border="0" align="center">
 <colgroup>
@@ -120,7 +152,10 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
   
 <p>
 
+--->
+
 ----
+
 
 ## Acknowledgements
 
@@ -138,7 +173,7 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
   
   <tr>
     <td align="left" markdown="span"><img src="../img/clients/chicostart.png" style="width:30%"></img></td>
-    <td>Supporting and enriching Northern California's Entrepreneurial Ecosystem and providing startups the resources they need to succeed. Chicostart aided DataFest by providing advertisement, outreach and networking opportunities.</td>
+    <td>Supporting and enriching Northern California's Entrepreneurial Ecosystem and providing startups the resources they need to succeed. Chicostart aid DataFest by providing advertisement, outreach and networking opportunities.</td>
   </tr>
   
 

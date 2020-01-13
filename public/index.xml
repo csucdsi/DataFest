@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Fest 2019</title>
+    <title>Data Fest 2020</title>
     <link>/</link>
-    <description>Recent content on Data Fest 2019</description>
+    <description>Recent content on Data Fest 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
@@ -103,34 +103,10 @@ At the conclusion of the competition, each team will have 5 minutes and 2 slides
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/consulting_judging_info/</guid>
-      <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.
+      <description>Note: This document is being updated as the event approaches; any major updates will be clearly marked.
 General Event InfoAll information regarding the event can be found at https://chicodatafest.netlify.com/.
-LocationThroughout the weekend students will work at CSU, Chico’s Selvester’s Cafe. There are many places to park around campus and downtown. Here is a link to an interactive map showing the cafe, and parking nearby.
+LocationThroughout the weekend students will work in the event room on campus. There are many places to park around campus and downtown. Here is a link to an interactive map showing the cafe, and parking nearby.
 Transportation &amp;amp; ParkingThere is metered parking (free on weekends) on Citrus Ave and Legion Ave.</description>
-    </item>
-    
-    <item>
-      <title>Consultant &amp; Judge Information</title>
-      <link>/consulting_judging_info.knit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/consulting_judging_info.knit/</guid>
-      <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.
-General Event Info All information regarding the event can be found at https://chicodatafest.netlify.com/.
-Location Throughout the weekend students will work at CSU, Chico&amp;rsquo;s Selvester&amp;rsquo;s Cafe. There are many places to park around campus and downtown. Here is a link to an interactive map showing the cafe, and parking nearby.
-Transportation &amp;amp; Parking  There is metered parking (free on weekends) on Citrus Ave and Legion Ave.</description>
-    </item>
-    
-    <item>
-      <title>Consultant &amp; Judge Information</title>
-      <link>/consulting_judging_info.utf8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/consulting_judging_info.utf8/</guid>
-      <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.
-General Event Info All information regarding the event can be found at https://chicodatafest.netlify.com/.
-Location Throughout the weekend students will work at CSU, Chico&amp;rsquo;s Selvester&amp;rsquo;s Cafe. There are many places to park around campus and downtown. Here is a link to an interactive map showing the cafe, and parking nearby.
-Transportation &amp;amp; Parking  There is metered parking (free on weekends) on Citrus Ave and Legion Ave.</description>
     </item>
     
     <item>
@@ -150,8 +126,8 @@ Transportation &amp;amp; Parking  There is metered parking (free on weekends) on
       <guid>/info_guide/</guid>
       <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.
 This is a long document, please take a moment to read over it carefully.
-LocationDataFest 2019 @ CSU, Chico will start with registration and end with awards ceremony in Selvester’s Cafe.
-Directions &amp;amp; MapsSelvester’s CafeIs in the center of campus, along the creekFor some reason it’s labelled Selvester’s Cafe-By-The-CreekOn a map: https://www.</description>
+LocationDataFest 2020 @ CSU, Chico will start with registration and end with awards ceremony in ARTS 111.
+Directions &amp;amp; MapsThe Arts and Humanities building (ARTS)Is the first building on the left when entering campus by the roundabout.</description>
     </item>
     
     <item>
@@ -179,11 +155,8 @@ After two days of intense data wrangling, analysis, presentation design, intersp
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/register/</guid>
-      <description>Registration for Teams &amp;amp; Participants now closed!
-We still need consultants and judges.
-
-Register as a visiting consultant 
-Register as an event judge [Register as a Team](https://goo.gl/forms/oxP9I49UKF3uOmzo1) ## [Register as an individual - seeking a team](https://goo.gl/forms/IRbkTY0wf5RB3XXn2) We will be holding team formation social nights prior to the event. --- Code of Conduct ASA DataFestTM at Chico State is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.</description>
+      <description>Registration for 2020 starts late January.
+ [Register as a visiting consultant](https://goo.gl/forms/12ZUzyDiKUk1j7C92) ## [Register as an event judge](https://goo.gl/forms/H9YwkoPIPcDSETDK2) ## [Register as a Team](https://goo.gl/forms/oxP9I49UKF3uOmzo1) ## [Register as an individual - seeking a team](https://goo.gl/forms/IRbkTY0wf5RB3XXn2) We will be holding team formation social nights prior to the event. --- Code of Conduct ASA DataFestTM at Chico State is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.</description>
     </item>
     
     <item>
@@ -192,8 +165,8 @@ Register as an event judge [Register as a Team](https://goo.gl/forms/oxP9I49UKF3
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/schedule/</guid>
-      <description>On your marks&amp;hellip;.  You are welcome to use any programming language you like, but we will host some pre-event workshops for Python, R, SAP Lumeria and possibly others. Data Science Calendar of events https://csudsi.netlify.com/page/events/
- Thu 2-14 2-3pm: Spatial data analysis. Tue 2-19 3-4pm: Managing data using SQL. Materials: https://csudsi.netlify.com/2019/02/13/2019-02-13-intro-sql/ Tue 3-5 2-3pm: Strategies to manage big data Thu 3-28 2-3pm: Information Visualization Fri 3-29 1-2pm: Using SAP Lumeria for Data Visualization (Glenn 304) Tue 4-2 2-4pm: DataFest Prep - Get the experience by playing with last year&amp;rsquo;s DataFest data.</description>
+      <description>The 2020 schedule is tentative and subject to change.
+ On your marks&amp;hellip;.  You are welcome to use any programming language you like, but we will host some pre-event workshops for Python, R, SAP Lumeria and possibly others. Data Science Calendar of events https://csudsi.netlify.com/page/events/  Team Forming Event (T-2 weeks) Still looking for group? Join us for pizza, to get to know each other, and form teams.</description>
     </item>
     
     <item>
@@ -202,7 +175,8 @@ Register as an event judge [Register as a Team](https://goo.gl/forms/oxP9I49UKF3
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sponsors/</guid>
-      <description>Data Fest would not be able to happen without the support of the following people and organizations Want to help? See our fundraising page for information on how you can help. Platinum Sponsors      TThe world’s second-largest family-owned winery and fourth-largest overall, Trinchero Family Estates (TFE) comprises more than 50 award-winning wine and spirits brands distributed in nearly 50 countries around the globe. Founded in 1948—when Italian immigrant Mario Trinchero brought his young family from New York City to Napa Valley and purchased an abandoned Prohibition-era winery called Sutter Home in St.</description>
+      <description>Data Fest would not be able to happen without the support of the following people and organizations Want to help? See our fundraising page for information on how you can help.  Now recruiting sponsors for DataFest 2020
+      TThe world’s second-largest family-owned winery and fourth-largest overall, Trinchero Family Estates (TFE) comprises more than 50 award-winning wine and spirits brands distributed in nearly 50 countries around the globe.</description>
     </item>
     
     <item>

@@ -41,13 +41,13 @@ Chico, CA, 95929-525
 # fundraising objective
 z <- 5000
 # amount gathered
-y <- 3150
+y <- 1800
 library(RColorBrewer)
 cols <- brewer.pal(11, "RdYlGn")
 par(oma=c(0,0,0,0), mar=c(0,0,1,0))
 symbols(1, thermometers = cbind(.5, 1, y/z), fg = cols[round(y/z*10)], inches=3, 
         xlab = NA, ylab = NA, yaxt='n', xaxt='n', bty='n',  
-        main = paste("Funds raised as of", format(Sys.Date(), "%m-%d-%y")))
+        main = paste("Funds raised as of", format(Sys.Date(), "%m-%d-%Y")))
 text(1, y=1.3, paste0("$", y, "/", z))
 text(1, y=.8, paste0(round(y/z*100), "%"),  offset = 3)
 ```
@@ -61,40 +61,34 @@ Your contribution is very meaningful to us, so as a way to give back we have set
 
 Contributors, please email your company bio, and a web-ready logo to datascience@csuchico.edu. 
 
-#### Platinum - above $1001 
-* Table for HR/recruitment for 2 hours on Saturday
-* Access to resume book of all DataFest participants. 
+#### Brontobyte - $1500 
+* Dedicated Info table space for 2 hours on Saturday
 * Large, prominently placed logo on all printed DataFest advertisement materials
 * Large logo, link and short company profile on this website
 * Company/organization name at the food table display
 * Acknowledgements in the opening ceremony (dedicated slide)
 
-#### Gold - above $501 
-* Access to resume book of all DataFest participants. 
+#### Exabyte -  $1000 
+* Five minute presentation during the opening or closing session
 * Large logo on all printed DataFest advertisement materials
 * Large logo, link and short company profile on this website
 * Company/organization name at the food table display
 * Acknowledgements in the opening ceremony (dedicated slide)
 
 
-#### Silver - $251-$500
-* Five minute presentation during the opening or closing session
+#### Terabyte - $500
 * Medium logo on all printed DataFest advertisement materials
 * Medium logo, link and short company profile on this website
 * Company/organization name at the food table display
 * Acknowledgements in the opening ceremony
 
 
-#### Bronze - $51-$250 
+#### Gigabyte - $250 
 * Small logo on all printed DataFest advertisement materials
-* Company/organization name at the food table display
 * Small logo, link and short company profile on this website
+* Company/organization name at the food table display
 * Acknowledgements in the opening ceremony
 
-
-#### Acknowledgements - up to $50 
-* Small logo and link on this website
-* Acknowledgements in the opening ceremony
 
 ---
 

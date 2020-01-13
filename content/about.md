@@ -40,6 +40,7 @@ For more on the code of conduct, please see the [ASA Meeting Code of Conduct](ht
 
 If you would like to write about or cover DataFest at Chico State in any way, please don't hesitate to contact us.
 
+* [DataFest Competition Engages Students Across Disciplines](https://www.csuchico.edu/cob/news/datafest.shtml) - Chico State News, June 6, 2019
 * [DataFest Shows Spike in Growth, Provides Immersive Experience](http://magazine.amstat.org/blog/2017/09/01/datafest-2/) - AMSTAT News, September 1, 2017
 * [DataFest draws hundreds to solve stats challenges](http://www.dukechronicle.com/article/2015/03/datafest-draws-hundreds-solve-stats-challenges) - The Chronicle - March 23, 2015
 * [Big Data Goes to College](http://magazine.amstat.org/blog/2014/06/01/datafest/) - AMSTAT News - June 1, 2014

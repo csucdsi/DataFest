@@ -2,6 +2,7 @@
 title= "Past Data Fest Events"
 +++
 
+
 # 2018 - Indeed.com
 
 Our first year saw 12 undergraduate students from Applied Mathematics, Statistics, but also Computer Science, Construction Management, Civil Engineering, and Biology. The diversity of backgrounds and experiences was amazing. Many students were buzzing afterwards about how much fun they had and how much they learned that weekend.

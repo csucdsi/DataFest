@@ -8,7 +8,7 @@ output:
 
 
 
-**Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
+**Note: This document is being updated as the event approaches; any major updates will be clearly marked.**
 
 # General Event Info 
 
@@ -16,7 +16,7 @@ All information regarding the event can be found at https://chicodatafest.netlif
 
 ### Location
 
-Throughout the weekend students will work at CSU, Chico's Selvester's Cafe. There are many places to park around campus and downtown. [Here is a link to an interactive map showing the cafe, and parking nearby.](https://www.csuchico.edu/maps/campus/?id=1193#!m/316229?ce/0,31642,28505?ct/28506,36245,36247,36246,36473,36472,32703,32116,32115,32092,32068,32015,31198?mc/39.730033800326076,-121.84518098831178?z/17?lvl/0)
+Throughout the weekend students will work in the event room on campus. There are many places to park around campus and downtown. [Here is a link to an interactive map showing the cafe, and parking nearby.](https://www.csuchico.edu/maps/campus/?id=1193#!m/316229?ce/0,31642,28505?ct/28506,36245,36247,36246,36473,36472,32703,32116,32115,32092,32068,32015,31198?mc/39.730033800326076,-121.84518098831178?z/17?lvl/0)
 
 ### Transportation & Parking
 
@@ -27,16 +27,23 @@ Throughout the weekend students will work at CSU, Chico's Selvester's Cafe. Ther
 
 ### When you get there
 
-Please check in at registration desk at Selvester's Cafe, and grab your badge and consultant T-shirt (if you registered early) when you get in. It's helpful to students for instance, to be able to clearly identify consultants from participants. Judges will get a notepad and judging rubric along with their badge. 
+Please check in at registration desk, and grab your badge and consultant T-shirt (if you registered early) when you get in. It's helpful to students for instance, to be able to clearly identify consultants from participants. Judges will get a notepad and judging rubric along with their badge. 
 
 
-# Who is at ASA DataFest @ Chico State 2019? 
+
+# Who is at ASA DataFest @ Chico State 2020? 
+
+> TBD
+
+<!---
 
 - 46 participants in 11 teams!
 - 8 consultants
 - 4 judges
 
 You should receive an email from the DataFest organizers with this document as a PDF, and information on how to join our Slack workspace. Contact us if you have not received this information. 
+
+--->
 
 ## Contact
 
@@ -58,15 +65,14 @@ DataFest takes place during a six-week window in the Spring, and different unive
 their event at different times.
 
 An essential ingredient of Datafest is that the data be a surprise. There are several reasons for
-this. One is that it ensures that all teams start on an equal footing. Another is that, even if you
-research the organization that donated the data, you might still be totally unprepared for the
+this. One is that it ensures that all teams start on an equal footing. Another is that, even if you research the organization that donated the data, you might still be totally unprepared for the
 context of the data (and maybe less prepared than had you known nothing!) Finally, it is simply
 more fun.
 
 You are encouraged to share your excitement on social media and thank our sponsors. 
-The official Twitter hashtag is #datafest19. However...
+The official Twitter hashtag is #ASADatafest However...
 
-PLEASE KEEP THE SECRET UNTIL MAY 4, 7pm. Teams that leak the name or any information
+PLEASE KEEP THE SECRET UNTIL MAY 4th! Teams that leak the name or any information
 about the identify of the data donor will be disqualified!
 
 Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might
@@ -88,6 +94,10 @@ Everyone is welcome to the presentations and award ceremony.
 Most students will use R or Python but we also expect many to use SAP, Matlab, SAS, Excel, JMP, etc. as well. If asked for support on a platform you’re not familiar with, simply stating so is sufficient. If asked for support on a platform you are familiar with, you are welcomed to assist at any capacity you feel comfortable/up to -- from talking through the approach at a high level to sitting down and coding with them.
 
 ## Schedule
+
+> The 2020 schedule is TBD
+
+<!---
 The schedule is at https://chicodatafest.netlify.com/schedule/.
 
 Registration opens at 5:00pm on Friday. the data presentation starts at 5:30. Sunday presentations start at 2pm. 
@@ -97,6 +107,8 @@ With 11 teams we expect this to take about an hour and a half.
 All parties are welcome to attend this introduction to the data, and the judging event. 
 
 A more detailed schedule of consultant and coordinator hours can be found [in this Google document](https://docs.google.com/spreadsheets/d/1BA_FlTaCEctfSfXAAheNxecT38ykV2_xMJ6Ee92ek0g/edit?usp=sharing). If your schedule is incorrect (or you want to add more hours) please contact Robin directly. 
+
+--->
 
 ## Judging
 

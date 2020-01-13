@@ -2,8 +2,8 @@
 title: "Participant Info & Guidelines"
 subtitle: https://chicodatafest.netlify.com/
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
@@ -14,15 +14,15 @@ This is a long document, please take a moment to read over it carefully.
 
 # Location
 
-DataFest 2019 @ CSU, Chico will start with registration and end with awards ceremony in  [Selvester's Cafe](https://www.csuchico.edu/aaspace/commonspaces/selv/index.shtml). 
+DataFest 2020 @ CSU, Chico will start with registration and end with awards ceremony in [ARTS 111 ](https://www.csuchico.edu/aaspace/commonspaces/arts/index.shtml). 
 
 ### Directions & Maps
 
-* Selvester's Cafe
-    - Is in the center of campus, along the creek
-    - For some reason it's labelled Selvester's Cafe-By-The-Creek
+* The Arts and Humanities building (ARTS)
+    - Is the first building on the left when entering campus by the roundabout. 
+    - Is right behind and next to Madison Bear Garden
     - On a map: https://www.csuchico.edu/maps/campus/?id=1193#!ct/28514?mc/39.72979688502985,-121.84459609910849?z/18?lvl/0
-
+    
 
 ### Transportation & Parking
 
@@ -34,19 +34,25 @@ DataFest 2019 @ CSU, Chico will start with registration and end with awards cere
 * Here is a map of [some parking spots](https://www.csuchico.edu/maps/campus/?id=1193#!ce/28506,32116,36245?ct/28506,36245,36247,36246,36473,36472,32115,32092?mc/39.72895946407476,-121.8430553376675?z/15?lvl/0) on campus.
 
 
-## Who is at ASA DataFest @ Chico State 2019? 
+## Who is at ASA DataFest @ Chico State 2020? 
 
+> TBD
+
+<!---
 - 46 participants in 11 teams!
 - 8 consultants
 - 4 judges
 
 You should receive an email from the DataFest organizers with your team information, this document as a PDF, and information on how to join our Slack workspace. Contact us if you have not received this information. 
+--->
 
 ## Schedule
 
+> This is the 2019 schedule. 2020 will be very similar. 
+
 The schedule is at https://chicodatafest.netlify.com/schedule/.
 
-Registration opens at 5pm on Friday at Selvester's Cafe.
+Registration opens at 5pm on Friday. 
 
 You are of course free to come and go as you please throughout the event, but here are the times all team members should plan to be on premises:
 
@@ -71,15 +77,14 @@ DataFest takes place during a six-week window in the Spring, and different unive
 their event at different times.
 
 An essential ingredient of Datafest is that the data be a surprise. There are several reasons for
-this. One is that it ensures that all teams start on an equal footing. Another is that, even if you
-research the organization that donated the data, you might still be totally unprepared for the
+this. One is that it ensures that all teams start on an equal footing. Another is that, even if you research the organization that donated the data, you might still be totally unprepared for the
 context of the data (and maybe less prepared than had you known nothing!) Finally, it is simply
 more fun.
 
 You are encouraged to share your excitement on social media and thank our sponsors. 
-The official Twitter hashtag is #datafest19. However...
+The official Twitter hashtag is #ASAdatafest. However...
 
-PLEASE KEEP THE SECRET UNTIL MAY 4, 7pm. Teams that leak the name or any information
+PLEASE KEEP THE SECRET UNTIL MAY 4!. Teams that leak the name or any information
 about the identify of the data donor will be disqualified!
 
 Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might
@@ -100,13 +105,12 @@ We will provide meals, snacks, and munchies. Feel free to bring anything additio
 
 RStudio is hosted on the cloud at https://rstudio.cloud/
 
-You can use a Python instance from Google Colab https://colab.research.google.com/
+You can use a Python instance from Google Colab https://colab.research.google.com/ or on binder https://mybinder.org/ 
 
-Both of these options are accessible to anyone with a gmail account.
 
 ## Data
 
-At the end of the kickoff presentation each team should send one member to the registration desk at Selvester's Cafe and check out a USB stick containing the data. When you're done downloading the data off it please return it to the registration desk so that another team can use it.
+At the end of the kickoff presentation each team should send one member to the registration desk and check out a USB stick containing the data. When you're done downloading the data off it please return it to the registration desk so that another team can use it.
 
 ### Large data advice
 
@@ -166,7 +170,6 @@ These are listed in no particular order.
 
 The judges also have the option to name a fourth winner as Judges' Pick.
 
-Award ceremony will take place in Selvester's Cafe.
 
 Winners will receive medals and books as well as one-year student memberships to the American Statistical Association. See http://www.amstat.org/membership/ for membership benefits.
 
@@ -200,7 +203,7 @@ We will collect resumes and share them with some of our sponsors. Participation 
 
 - As much as possible during the event there will be a friendly consultants present. These are faculty, grad students, or other professionals from our community. Not all will have field specific knowledge on the dataset. They all have different areas of expertise, so if you get stuck on something and one consultant isn’t able to help, ask someone else later. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the consultants to write code for you, or do data management, etc. They are there to help point you in the right direction, but you're responsible for getting there on your own.
 
-- PLEASE KEEP THE SECRET UNTIL MAY 4, 7pm. Teams that leak the name or any information about the identify of the data donor will be disqualified! Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might reveal the data donor.
+- PLEASE KEEP THE SECRET UNTIL MAY 4. Teams that leak the name or any information about the identify of the data donor will be disqualified! Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might reveal the data donor.
 
 - Please do not tweet, hashtag, Facebook, snapchat, etc about the identify of the donor or the context of the data. This means you should refrain from any hints, explicit or implicit statements that might reveal the context of the data.
 
