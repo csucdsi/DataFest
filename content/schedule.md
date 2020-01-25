@@ -23,10 +23,12 @@ title= "Schedule of Events"
     - Tue 4-2 2-4pm: DataFest Prep - Get the experience by playing with last year's DataFest data. 
 --->
 
-# Team Forming Event (T-2 weeks)
+# Team Forming Event (T-2 weeks) _Specific Date/time TBD_
 Still looking for group? Join us for pizza, to get to know each other, and form teams. 
 
-_Date/time TBD_
+
+We are grateful to [Chico Start](https://chicostart.com/) for letting us hold this event in their offices in Downtown Chico. 
+
 
 # Get set..
 All events are @ Chico State Campus

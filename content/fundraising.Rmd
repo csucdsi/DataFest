@@ -61,7 +61,7 @@ Your contribution is very meaningful to us, so as a way to give back we have set
 
 Contributors, please email your company bio, and a web-ready logo to datascience@csuchico.edu. 
 
-#### Brontobyte - $1500 
+#### Brontobyte - $2000 
 * Dedicated Info table space for 2 hours on Saturday
 * Large, prominently placed logo on all printed DataFest advertisement materials
 * Large logo, link and short company profile on this website
