@@ -2,7 +2,7 @@
 title= "Registration Links"
 +++
 
-> Registration for 2020 starts late January. 
+> Registration for 2020 starts February 1st. 
 
 <!---
 
