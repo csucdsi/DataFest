@@ -2,26 +2,22 @@
 title= "Registration Links"
 +++
 
-> Registration for 2020 starts February 1st. 
+> Registration for 2020 is open!!!
 
-<!---
-
-
-<br>
-## <img src="../img/consultation.png">[Register as a visiting consultant](https://goo.gl/forms/12ZUzyDiKUk1j7C92)
-
-<br>
-## <img src="../img/judge.png">[Register as an event judge](https://goo.gl/forms/H9YwkoPIPcDSETDK2)
-
-
-## <img src="../img/team.png"> [Register as a Team](https://goo.gl/forms/oxP9I49UKF3uOmzo1)
+## <img src="../img/team.png"> [Register as a Team](https://forms.gle/ZtKPYvpzJtc6AnPd7)
 
 <br>
 
-## <img src="../img/lfg.png">  [Register as an individual - seeking a team](https://goo.gl/forms/IRbkTY0wf5RB3XXn2)
+## <img src="../img/lfg.png">  [Register as an individual - seeking a team](https://forms.gle/PrADGiffwNLW3CnS7)
 We will be holding team formation social nights prior to the event. 
 
---->
+<br>
+## <img src="../img/consultation.png">[Register as a visiting consultant](https://forms.gle/VYb8JrTs4oF8TTB96)
+
+<br>
+## <img src="../img/judge.png">[Register as an event judge](https://forms.gle/g5KCwVPPFqM9xwvo9)
+
+
 
 ---
 
