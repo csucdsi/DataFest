@@ -28,10 +28,10 @@ paginate = 10
     url  = "/about/"
     weight = 2
 
-#[[menu.main]]
-#    name = "Register"
-#    url  = "/register/"
-#    weight = 3
+[[menu.main]]
+    name = "Register"
+    url  = "/register/"
+    weight = 3
 
 [[menu.main]]
     name = "Supporting DataFest"

@@ -2,8 +2,6 @@
 title= "Registration Links"
 +++
 
-> Registration for 2020 is open!!!
-
 ## <img src="../img/team.png"> [Register as a Team](https://forms.gle/ZtKPYvpzJtc6AnPd7)
 
 <br>
