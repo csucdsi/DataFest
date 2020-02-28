@@ -2,14 +2,27 @@
 title= "Sponsors"
 +++
 
-### Data Fest would not be able to happen without the support of the following people and organizations
+# Giving Day is Wednesday March 4th! 
 
-#### Want to help? See our [fundraising](../fundraising/) page for information on how you can help. 
+###  https://app.mobilecause.com/vf/chicodatafest
+
+Gifts up to $750 matched dollar-for-dollar! 
+
+We are excited to share that ChicoStart is matching up to $500 and SAP Hosting Center has offered to match an additional $250 in dollar-for-dollar matching funds - let's make sure not to leave any of that money on the table! Every $5-10 helps! 
 
 
 ----
 
-<center> <span style='font-size: 24pt;'> >>Now recruiting sponsors for DataFest 2020<< </span></center>
+### Data Fest would not be able to happen without the support of the following people and organizations
+
+#### Want to help? 
+
+Please see our [fundraising](../fundraising/) page for information on how you can help. 
+
+
+----
+
+<center> <span style='font-size: 30pt;'> -->>DataFest 2020 sponsors<<-- </span></center>
 
 <!---
 
@@ -82,14 +95,23 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
 
   
   <tr>
-    <td align="left" markdown="span"><img src="../img/clients/chicostart.png" style="width:30%"></img></td>
-    <td>Supporting and enriching Northern California's Entrepreneurial Ecosystem and providing startups the resources they need to succeed. Chicostart aid DataFest by providing advertisement, outreach and networking opportunities.</td>
+    <td align="center" markdown="span"><img src="../img/clients/chicostart.png" style="width:30%"></img></td>
+    <td>Supporting and enriching Northern California's Entrepreneurial Ecosystem and providing startups the resources they need to succeed. Our platform includes shared office amenities, mentoring, workshops, internships, tech talks, student to business projects, entrepreneurial events, think tanks, satellite office programs and anything else that helps our core mission of helping startups succeed. <a href ="https://chicostart.com/">https://chicostart.com/</a></td>
   </tr>
   
 
 
   <tr><td height= "50"> </td> <td></td></tr>
 
+  <tr>
+    <td align="center" markdown="span"><img src="../img/clients/RConsortium_Vertical_Pantone.png" style="width:30%"></img></td>
+    <td>Supporting the R community, the R Foundation and organzations developing, maintaining, and distributing R software. 
+    The central mission of the R Consortium is to work with and provide support to the R Foundation and to the key organizations developing, maintaining, distributing and using R software through the identification, development and implementation of infrastructure projects. Learn more about them at <a href ="https://www.r-consortium.org/">https://www.r-consortium.org/</a>
+    </td>
+  </tr>
+  
+  
+  
 </tbody>
 </table>
   
@@ -101,7 +123,7 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
     <td> Enloe Medical Center </td>
   </tr>
 
-
+--->
 ----
 
 ## Gigabyte Sponsors
@@ -115,7 +137,7 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
 <tbody>
 
   <tr>
-    <td align="left" markdown="span"><img src="../img/clients/CESIRlogo.png" style="width:50%"></img></td>  
+    <td align="center" markdown="span"><img src="../img/clients/CESIRlogo.png" style="width:50%"></img></td>  
     <td> The Center for Enterprise Systems and Informatics Research (CESIR) helps equip tomorrow's IT professionals with the unique 
          blend of resources, skills, and abilities needed to confidently and competently tackle important business challenges. 
          Our vision is to “Empower students, faculty, and the community to thrive in the fourth industrial revolution era,” 
@@ -124,6 +146,7 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
          https://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml</a>. </td>
   </tr>
   
+<!---
   <tr><td height= "50"> </td> <td></td></tr>
   
   <tr>
@@ -139,19 +162,14 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
   </tr>
   
   <tr><td height= "50"> </td> <td></td></tr>
-  
+--->
+
   <tr>
-    <td align="left" markdown="span"><img src="../img/clients/pbs_logo.png" style="width:30%"></img></td>
-    <td>Employee owned lumberyard that has been serving home owners and contracters in Northern California since 1973.</td>
+    <td align="center" markdown="span"><img src="../img/clients/pbs_logo.png" style="width:30%"></img></td>
+    <td>Employee owned lumberyard that has been serving home owners and contracters in Northern California since 1973. Learn what they have to offer at <a href="https://www.paylessbuildingsupply.com/">https://www.paylessbuildingsupply.com/</a>
+    </td>
   </tr>
   
-  <tr><td height= "50"> </td> <td></td></tr>
-  
-  <tr>
-    <td align="left" markdown="span"><img src="../img/clients/DSI_Logo_Horizontal_Small.jpg" style="width:50%"></img></td>  
-    <td> The Chico State Data Science Initiative handles all training, logistics, advertising, manpower
-         and fundraising support. See more at <a href="http://datascience.csuchico.edu">http://datascience.csuchico.edu</a>. </td>
-  <tr>
 
 
 </tbody>
@@ -179,15 +197,19 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
   <tr><td height= "50"> </td> <td></td></tr>
   
   <tr>
-    <td align="left" markdown="span"><img src="../img/clients/chicostart.png" style="width:30%"></img></td>
-    <td>Supporting and enriching Northern California's Entrepreneurial Ecosystem and providing startups the resources they need to succeed. Chicostart aid DataFest by providing advertisement, outreach and networking opportunities.</td>
+    <td align="center" markdown="span"><img src="../img/clients/stoble.png" style="width:30%"></img></td>
+    <td>Stoble Coffee will be on site to help keep students caffinated throughout the event! Check them out at <a href="https://www.stobleco.com/">https://www.stobleco.com/</a>
+    </td>
   </tr>
   
-
+  <tr><td height= "50"> </td> <td></td></tr>
+  
+ 
 
 </tbody>
 </table>
   
+  <br>
   
 <!---
 <tr>
