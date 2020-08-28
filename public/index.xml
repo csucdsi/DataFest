@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Fest 2020</title>
+    <title>Data Fest 2021</title>
     <link>/</link>
-    <description>Recent content on Data Fest 2020</description>
+    <description>Recent content on Data Fest 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
@@ -18,8 +18,8 @@
       
       <guid>/blog/2015/10/10/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
+▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@
       
       <guid>/blog/2015/10/02/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
     <item>
@@ -124,10 +124,10 @@ LocationThroughout the weekend students will work in the event room on campus. 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/info_guide/</guid>
-      <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.
+      <description>Plans for DataFest 2021 are being developed.
+Note: This document may be updated as the event approaches; any major updates will be clearly marked.
 This is a long document, please take a moment to read over it carefully.
-LocationDataFest 2020 @ CSU, Chico will start with registration and end with awards ceremony in ARTS 111.
-Directions &amp;amp; MapsThe Arts and Humanities building (ARTS)Is the first building on the left when entering campus by the roundabout.</description>
+LocationTransportation &amp;amp; ParkingThere is metered parking (free on weekends) on Citrus Ave and Legion Ave.There is additional free street parking near the Gateway Science Museum.Please don’t park in the Bidwell Mansion parking lot or in the residential areas.</description>
     </item>
     
     <item>
@@ -154,11 +154,9 @@ Directions &amp;amp; MapsThe Arts and Humanities building (ARTS)Is the first
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/register/</guid>
-      <description>Register as a Team 
-Register as an individual - seeking a team We will be holding team formation social nights prior to the event.
-
-Register as a visiting consultant 
-Register as an event judge Code of Conduct ASA DataFestTM at Chico State is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.</description>
+      <description>Registration for DataFest 2021 will open in January 2021
+ Register as a Team Register as an individual - seeking a team We will be holding team formation social nights prior to the event.
+ Code of Conduct ASA DataFestTMat Chico State is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.</description>
     </item>
     
     <item>
@@ -167,7 +165,7 @@ Register as an event judge Code of Conduct ASA DataFestTM at Chico State is comm
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/schedule/</guid>
-      <description>The 2020 schedule is tentative and subject to change.
+      <description>The 2021 schedule is tentative and subject to change.
  On your marks&amp;hellip;.  You are welcome to use any programming language you like, but we will host some pre-event workshops for Python, R, SAP Lumeria and possibly others. Data Science Calendar of events https://csudsi.netlify.com/page/events/  Team Forming Event (T-2 weeks) Specific Date/time TBD Still looking for group? Join us for pizza, to get to know each other, and form teams.</description>
     </item>
     
@@ -177,9 +175,9 @@ Register as an event judge Code of Conduct ASA DataFestTM at Chico State is comm
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sponsors/</guid>
-      <description>Giving Day is Wednesday March 4th! https://app.mobilecause.com/vf/chicodatafest Gifts up to $750 matched dollar-for-dollar!
-We are excited to share that ChicoStart is matching up to $500 and SAP Hosting Center has offered to match an additional $250 in dollar-for-dollar matching funds - let&amp;rsquo;s make sure not to leave any of that money on the table! Every $5-10 helps!
-Data Fest would not be able to happen without the support of the following people and organizations Want to help?</description>
+      <description> This page has not been updated to reflect 2021 fundraising efforts yet
+  Data Fest would not be able to happen without the support of the following people and organizations Want to help? Please see our fundraising page for information on how you can help.
+ Terabyte Sponsors  Gigabyte Sponsors  Acknowledgements   </description>
     </item>
     
     <item>

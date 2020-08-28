@@ -6,7 +6,7 @@ title= "Schedule of Events"
     <link rel="stylesheet" href="style.css" />
 </html>
 
-> The 2020 schedule is tentative and subject to change. 
+> The 2021 schedule is tentative and subject to change. 
 
 
 # On your marks....
@@ -41,7 +41,7 @@ All events are @ Chico State Campus
 ----
 # GO!
 
-## Friday, April 17, 2020  
+## Friday, ? , 2021     
 **Welcome!**  
  
 * 5pm - Registration
@@ -49,7 +49,7 @@ All events are @ Chico State Campus
 * 6 - Dinner
 * Work until midnight
 
-## Saturday, April 18, 2020    
+## Saturday, ? , 2021    
 **Carry on!**  
 
 * 8am - Breakfast    
@@ -58,7 +58,7 @@ All events are @ Chico State Campus
 * 6:00pm - Dinner    
 * 11:30pm - Midnight snack & prize raffle    
 
-## Sunday, April 19, 2020  
+## Sunday, ?, 2021  
 **Wrap up!**  
  
 * 8am - Breakfast    

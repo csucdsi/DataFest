@@ -2,14 +2,7 @@
 title= "Sponsors"
 +++
 
-# Giving Day is Wednesday March 4th! 
-
-###  https://app.mobilecause.com/vf/chicodatafest
-
-Gifts up to $750 matched dollar-for-dollar! 
-
-We are excited to share that ChicoStart is matching up to $500 and SAP Hosting Center has offered to match an additional $250 in dollar-for-dollar matching funds - let's make sure not to leave any of that money on the table! Every $5-10 helps! 
-
+> This page has not been updated to reflect 2021 fundraising efforts yet
 
 ----
 
@@ -22,7 +15,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 
 ----
 
-<center> <span style='font-size: 30pt;'> -->>DataFest 2020 sponsors<<-- </span></center>
+<center> <span style='font-size: 30pt;'> -->>DataFest 2021 sponsors<<-- </span></center>
 
 <!---
 

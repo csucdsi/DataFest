@@ -6,6 +6,8 @@ output:
   pdf_document: default
 ---
 
+> Plans for DataFest 2021 are being developed. 
+
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
 
 This is a long document, please take a moment to read over it carefully. 
@@ -14,7 +16,9 @@ This is a long document, please take a moment to read over it carefully.
 
 # Location
 
-DataFest 2020 @ CSU, Chico will start with registration and end with awards ceremony in [ARTS 111 ](https://www.csuchico.edu/aaspace/commonspaces/arts/index.shtml). 
+<!---
+
+DataFest 2021 @ CSU, Chico will start with registration and end with awards ceremony in [ARTS 111 ](https://www.csuchico.edu/aaspace/commonspaces/arts/index.shtml). 
 
 ### Directions & Maps
 
@@ -23,6 +27,7 @@ DataFest 2020 @ CSU, Chico will start with registration and end with awards cere
     - Is right behind and next to Madison Bear Garden
     - On a map: https://www.csuchico.edu/maps/campus/?id=1193#!ct/28514?mc/39.72979688502985,-121.84459609910849?z/18?lvl/0
     
+--->
 
 ### Transportation & Parking
 
@@ -34,7 +39,7 @@ DataFest 2020 @ CSU, Chico will start with registration and end with awards cere
 * Here is a map of [some parking spots](https://www.csuchico.edu/maps/campus/?id=1193#!ce/28506,32116,36245?ct/28506,36245,36247,36246,36473,36472,32115,32092?mc/39.72895946407476,-121.8430553376675?z/15?lvl/0) on campus.
 
 
-## Who is at ASA DataFest @ Chico State 2020? 
+## Who is at ASA DataFest @ Chico State 2021? 
 
 > TBD
 
@@ -48,7 +53,7 @@ You should receive an email from the DataFest organizers with your team informat
 
 ## Schedule
 
-> This is the 2019 schedule. 2020 will be very similar. 
+> This is the 2019 schedule. 2021 will be very similar. 
 
 The schedule is at https://chicodatafest.netlify.com/schedule/.
 

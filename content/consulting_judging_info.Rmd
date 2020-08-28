@@ -31,7 +31,7 @@ Please check in at registration desk, and grab your badge and consultant T-shirt
 
 
 
-# Who is at ASA DataFest @ Chico State 2020? 
+# Who is at ASA DataFest @ Chico State 2021? 
 
 > TBD
 
@@ -95,7 +95,7 @@ Most students will use R or Python but we also expect many to use SAP, Matlab, S
 
 ## Schedule
 
-> The 2020 schedule is TBD
+> The 2021 schedule is TBD
 
 <!---
 The schedule is at https://chicodatafest.netlify.com/schedule/.

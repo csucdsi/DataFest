@@ -2,6 +2,8 @@
 title= "Registration Links"
 +++
 
+> Registration for DataFest 2021 will open in January 2021
+
 ## <img src="../img/team.png"> [Register as a Team](https://forms.gle/ZtKPYvpzJtc6AnPd7)
 
 <br>
