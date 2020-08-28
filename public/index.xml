@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Fest 2021</title>
+    <link>/</link>
+    <description>Recent content on Data Fest 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>/blog/2015/10/10/migrate-from-jekyll/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/2015/10/10/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
+▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Linked post</title>
+      <link>/blog/2015/10/02/linked-post/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/2015/10/02/linked-post/</guid>
+      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
+menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+    </item>
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>/blog/2015/09/17/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/2015/09/17/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/blog/2015/07/23/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/blog/2015/07/23/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>/blog/2015/06/24/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/2015/06/24/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>About DataFest</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>DataFest is a nationally-coordinated undergraduate competition in which teams of up to 5 students work over a weekend to extract insight from a rich and complex data set. Previous years’ data sets have included crime data from the LAPD, dating data from eHarmony, and energy use data from GridPoint. This year’s data set will be revealed at the opening of the event on Friday evening.
+At the conclusion of the competition, each team will have 5 minutes and 2 slides to make a presentation to a panel of judges.</description>
+    </item>
+    
+    <item>
+      <title>About DataFest</title>
+      <link>/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faq/</guid>
+      <description>DataFest is a nationally-coordinated undergraduate competition in which teams of up to 5 students work over a weekend to extract insight from a rich and complex data set. Previous years’ data sets have included crime data from the LAPD, dating data from eHarmony, and energy use data from GridPoint. This year’s data set will be revealed at the opening of the event on Friday evening.
+At the conclusion of the competition, each team will have 5 minutes and 2 slides to make a presentation to a panel of judges.</description>
+    </item>
+    
+    <item>
+      <title>Consultant &amp; Judge Information</title>
+      <link>/consulting_judging_info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/consulting_judging_info/</guid>
+      <description>Note: This document is being updated as the event approaches; any major updates will be clearly marked.
+General Event InfoAll information regarding the event can be found at https://chicodatafest.netlify.com/.
+LocationThroughout the weekend students will work in the event room on campus. There are many places to park around campus and downtown. Here is a link to an interactive map showing the cafe, and parking nearby.
+Transportation &amp;amp; ParkingThere is metered parking (free on weekends) on Citrus Ave and Legion Ave.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Questions? Please feel free to contact us.</description>
+    </item>
+    
+    <item>
+      <title>Participant Info &amp; Guidelines</title>
+      <link>/info_guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/info_guide/</guid>
+      <description>Plans for DataFest 2021 are being developed.
+Note: This document may be updated as the event approaches; any major updates will be clearly marked.
+This is a long document, please take a moment to read over it carefully.
+LocationTransportation &amp;amp; ParkingThere is metered parking (free on weekends) on Citrus Ave and Legion Ave.There is additional free street parking near the Gateway Science Museum.Please don’t park in the Bidwell Mansion parking lot or in the residential areas.</description>
+    </item>
+    
+    <item>
+      <title>Past Data Fest Events</title>
+      <link>/past_events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/past_events/</guid>
+      <description>2019 - Canadian Womens Rugby We had 48 students from 6 different schools register as 12 teams. The diversity of the student majors was remarkable. This year we had representation from Mathematics &amp;amp; Statistics (35%), Computer Science (26%), Business (28%) and Other majors (17%). In the end, six teams presented their findings. Each team had five minutes and a maximum of two slides (one team created a video presentation) to present findings to a panel of judges.</description>
+    </item>
+    
+    <item>
+      <title>Presentation Submissions</title>
+      <link>/presentation_submissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/presentation_submissions/</guid>
+      <description>Allowed file formats  We very strongly recommend using PDF, Keynote, or PowerPoint. If using a web-based tool like GoogleDocs or Prezi, please export to PDF and upload the PDF as your submission.  Note that you will not have time to log on/off to your account before your presentation. We don’t want to restrict your creativity but it is your responsibility to make sure that your presentation works seamlessly before the judging session begins.</description>
+    </item>
+    
+    <item>
+      <title>Registration Links</title>
+      <link>/register/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/register/</guid>
+      <description>Registration for DataFest 2021 will open in January 2021
+ Register as a Team Register as an individual - seeking a team We will be holding team formation social nights prior to the event.
+ Code of Conduct ASA DataFestTMat Chico State is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.</description>
+    </item>
+    
+    <item>
+      <title>Schedule of Events</title>
+      <link>/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/</guid>
+      <description>The 2021 schedule is tentative and subject to change.
+ On your marks&amp;hellip;.  You are welcome to use any programming language you like, but we will host some pre-event workshops for Python, R, SAP Lumeria and possibly others. Data Science Calendar of events https://csudsi.netlify.com/page/events/  Team Forming Event (T-2 weeks) Specific Date/time TBD Still looking for group? Join us for pizza, to get to know each other, and form teams.</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/</guid>
+      <description> This page has not been updated to reflect 2021 fundraising efforts yet
+ Our #CatsGaveBack $499 during Giving Day 2020! Thank you to all our amazing donors!
+ Data Fest would not be able to happen without the support of the following people and organizations Want to help? Please see our fundraising page for information on how you can help.
+ Terabyte Sponsors  Gigabyte Sponsors  Acknowledgements   </description>
+    </item>
+    
+    <item>
+      <title>Supporting Data Fest in 3 ways</title>
+      <link>/fundraising/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fundraising/</guid>
+      <description>Financial ContributionsWe are seeking $5,000 to supply food and event supplies. All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the CSUC DSI website.
+Donate onlineGo to the Chico State Giving website.
+Choose “Other Designation” and write in “Data Science Initiative Fund #200685300”
+
+Donate by CheckPlease make out checks to Chico State and write in the memo field “Data Science Initiative Fund #200685300”.</description>
+    </item>
+    
+  </channel>
+</rss>

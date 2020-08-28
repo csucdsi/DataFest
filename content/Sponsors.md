@@ -181,6 +181,7 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
 
 ## Acknowledgements
 
+<!---
 
 <table border="0" align="center">
 <colgroup>
@@ -208,7 +209,7 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
   
   <br>
   
-<!---
+
 <tr>
   <td align="center" markdown="span"><img src="../img/clients/asa_logo.jpg" alt="" border=3 height=100 width=100></img></td>  
   <td> CSU, Chico Provost & Vice President for Academic Affairs <br />
