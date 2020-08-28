@@ -2,7 +2,11 @@
 title= "Sponsors"
 +++
 
+
 > This page has not been updated to reflect 2021 fundraising efforts yet
+
+Our #CatsGaveBack $499 during Giving Day 2020! Thank you to all our amazing donors!
+
 
 ----
 
@@ -190,8 +194,8 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
   <tr><td height= "50"> </td> <td></td></tr>
   
   <tr>
-    <td align="center" markdown="span"><img src="../img/clients/stoble.png" style="width:30%"></img></td>
-    <td>Stoble Coffee will be on site to help keep students caffinated throughout the event! Check them out at <a href="https://www.stobleco.com/">https://www.stobleco.com/</a>
+    <td align="center" markdown="span"><img src="../img/clients/StobleLogo.png" style="width:30%"></img></td>
+    <td>Stoble Coffee will be on site to help keep students caffinated throughout the event! Stoble is a transparent specialty coffee roaster in Chico, working to bring people and their ideas together. Currently under construction on a coffee shop and coworking space coming to downtown Chico this summer. Check out their coffee site <a href="https://www.stobleco.com/">https://www.stobleco.com/</a> and coworking site: <a href="https://www.stobleworkplace.com/">https://www.stobleworkplace.com/</a>
     </td>
   </tr>
   
