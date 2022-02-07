@@ -2,7 +2,7 @@
 title= "Registration Links"
 +++
 
-> Registration for DataFest 2021 will open in January 2021
+> Registration for DataFest 2022 will open in February 2022
 
 ## <img src="../img/team.png"> [Register as a Team](https://forms.gle/ZtKPYvpzJtc6AnPd7)
 

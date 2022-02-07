@@ -6,7 +6,7 @@ title= "Schedule of Events"
     <link rel="stylesheet" href="style.css" />
 </html>
 
-> The 2021 schedule is tentative and subject to change. 
+> The 2022 schedule is tentative and subject to change. 
 
 
 # On your marks....
@@ -41,7 +41,7 @@ All events are @ Chico State Campus
 ----
 # GO!
 
-## Friday, ? , 2021     
+## Friday, ? , 2022     
 **Welcome!**  
  
 * 5pm - Registration
@@ -49,7 +49,7 @@ All events are @ Chico State Campus
 * 6 - Dinner
 * Work until midnight
 
-## Saturday, ? , 2021    
+## Saturday, ? , 2022    
 **Carry on!**  
 
 * 8am - Breakfast    
@@ -58,7 +58,7 @@ All events are @ Chico State Campus
 * 6:00pm - Dinner    
 * 11:30pm - Midnight snack & prize raffle    
 
-## Sunday, ?, 2021  
+## Sunday, ?, 2022  
 **Wrap up!**  
  
 * 8am - Breakfast    
