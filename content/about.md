@@ -12,6 +12,9 @@ The mission of DataFest is to expose undergraduate students to challenging quest
 
 # Information / Guides
 
+## COVID-19 rules
+
+
 
 ## For Participants
 [See our guide for participants](/info_guide). 

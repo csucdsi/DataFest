@@ -1,5 +1,5 @@
 +++
-title= "Sponsors"
+title= "2022 Sponsors"
 +++
 
 Our #CatsGaveBack $499 during Giving Day 2020! Thank you to all our amazing donors!
@@ -15,8 +15,6 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 
 
 ----
-
-<center> <span style='font-size: 30pt;'> -->>DataFest 2022 sponsors<<-- </span></center>
 
 <!---
 

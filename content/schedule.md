@@ -6,8 +6,6 @@ title= "Schedule of Events"
     <link rel="stylesheet" href="style.css" />
 </html>
 
-> The 2022 schedule is tentative and subject to change. 
-
 
 # On your marks....
 
