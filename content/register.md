@@ -2,20 +2,20 @@
 title= "Registration Links"
 +++
 
-> Registration for DataFest 2021 will open in January 2021
+> Registration for DataFest 2022 is open until March 11th, 2022
 
-## <img src="../img/team.png"> [Register as a Team](https://forms.gle/ZtKPYvpzJtc6AnPd7)
+## <img src="../img/team.png"> [Register as a Team](https://forms.gle/FHMDqYcrtbEPr71s6)
 
 <br>
 
-## <img src="../img/lfg.png">  [Register as an individual - seeking a team](https://forms.gle/PrADGiffwNLW3CnS7)
+## <img src="../img/lfg.png">  [Register as an individual - seeking a team](https://forms.gle/PHJpeJBbopJWVuEU9)
 We will be holding team formation social nights prior to the event. 
 
 <br>
-## <img src="../img/consultation.png">[Register as a visiting consultant](https://forms.gle/VYb8JrTs4oF8TTB96)
+## <img src="../img/consultation.png">[Register as a visiting consultant](https://forms.gle/Q76cuUePtQkUsa8p6)
 
 <br>
-## <img src="../img/judge.png">[Register as an event judge](https://forms.gle/g5KCwVPPFqM9xwvo9)
+## <img src="../img/judge.png">[Register as an event judge](https://forms.gle/s3dRs813h8fWnjudA)
 
 
 
