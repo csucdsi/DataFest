@@ -24,7 +24,7 @@ The files you’re submitting must be named in the following manner:
 
 #### This link will deactivate at 1pm on Sunday. 
 
-> TBD for 2020
+> TBD for 2022
 
 <!---
 <script src="https://csuchico.app.box.com/upload-widget/embed.js?folderID=71880096713&height=420&isDescriptionFieldShown=0&isEmailRequired=0&title=Submit%20File(s)%20to%20Submissions&token=uyyq1gfzmd0hn47q4p8ljuv2hp0sxo2f&width=385" type="text/javascript"></script>

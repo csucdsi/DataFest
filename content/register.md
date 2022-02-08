@@ -1,8 +1,7 @@
 +++
-title= "Registration Links"
+title= "Registration open until March 11th"
 +++
 
-> Registration for DataFest 2022 is open until March 11th, 2022
 
 ## <img src="../img/team.png"> [Register as a Team](https://forms.gle/FHMDqYcrtbEPr71s6)
 
@@ -12,9 +11,11 @@ title= "Registration Links"
 We will be holding team formation social nights prior to the event. 
 
 <br>
+
 ## <img src="../img/consultation.png">[Register as a visiting consultant](https://forms.gle/Q76cuUePtQkUsa8p6)
 
 <br>
+
 ## <img src="../img/judge.png">[Register as an event judge](https://forms.gle/s3dRs813h8fWnjudA)
 
 

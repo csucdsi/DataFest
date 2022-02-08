@@ -6,7 +6,7 @@ output:
   pdf_document: default
 ---
 
-> Plans for DataFest 2021 are being developed. 
+> Plans for DataFest 2022 are being developed. 
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
 
@@ -16,32 +16,26 @@ This is a long document, please take a moment to read over it carefully.
 
 # Location
 
-<!---
 
-DataFest 2021 @ CSU, Chico will start with registration and end with awards ceremony in [ARTS 111 ](https://www.csuchico.edu/aaspace/commonspaces/arts/index.shtml). 
+DataFest 2022 @ CSU, Chico will start with registration and end with awards ceremony in [Sylvesters Cafe by the Creek ](https://www.csuchico.edu/maps/campus/?id=1193#!m/316229). 
 
-### Directions & Maps
 
-* The Arts and Humanities building (ARTS)
-    - Is the first building on the left when entering campus by the roundabout. 
-    - Is right behind and next to Madison Bear Garden
-    - On a map: https://www.csuchico.edu/maps/campus/?id=1193#!ct/28514?mc/39.72979688502985,-121.84459609910849?z/18?lvl/0
-    
---->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d608.8540435785778!2d-121.84547060132826!3d39.729947394051585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808327a4d40ea4c7%3A0xe6abf565f265edc2!2sSelvester&#39;s%20Cafe!5e0!3m2!1sen!2sus!4v1644349467021!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 
 ### Transportation & Parking
 
 * There is metered parking (free on weekends) on Citrus Ave and Legion Ave. 
 * There is additional free street parking near the Gateway Science Museum. 
 * Please don't park in the Bidwell Mansion parking lot or in the residential areas.
-* CSU, Chico offers some [further advice about parking](https://www.csuchico.edu/parking/wheretopark.shtml).
+* Chico State offers some [further advice about parking](https://www.csuchico.edu/parking/wheretopark.shtml).
 * We ask that you carpool with teammates as parking on campus can be tricky.
 * Here is a map of [some parking spots](https://www.csuchico.edu/maps/campus/?id=1193#!ce/28506,32116,36245?ct/28506,36245,36247,36246,36473,36472,32115,32092?mc/39.72895946407476,-121.8430553376675?z/15?lvl/0) on campus.
 
 
-## Who is at ASA DataFest @ Chico State 2021? 
+## Who is at ASA DataFest @ Chico State 2022? 
 
-> TBD
+> [Registration](register.html) is now open!
 
 <!---
 - 46 participants in 11 teams!
@@ -52,8 +46,6 @@ You should receive an email from the DataFest organizers with your team informat
 --->
 
 ## Schedule
-
-> This is the 2019 schedule. 2021 will be very similar. 
 
 The schedule is at https://chicodatafest.netlify.com/schedule/.
 
@@ -67,7 +59,7 @@ You are of course free to come and go as you please throughout the event, but he
 - Sunday 2pm - Presentations to Judges and awards ceremony
 
 ## Food & Caffeine
-Our goal is to keep you fed & caffinated all weekend long. Check the Schedule for mealtimes. 
+Our goal is to keep you fed & caffeinated all weekend long. Check the Schedule for mealtimes. 
 
 ## Security & Access
 
@@ -77,23 +69,15 @@ Campus security will open the doors promptly at 8am Saturday and Sunday morning,
 
 # Social Media
 
-Did you know that, this year, DataFest will be held at over 30 universities around the world?
-DataFest takes place during a six-week window in the Spring, and different universities hold
-their event at different times.
+Did you know that, this year, DataFest will be held at over 30 universities around the world? DataFest takes place during a six-week window in the Spring, and different universities hold their event at different times.
 
-An essential ingredient of Datafest is that the data be a surprise. There are several reasons for
-this. One is that it ensures that all teams start on an equal footing. Another is that, even if you research the organization that donated the data, you might still be totally unprepared for the
-context of the data (and maybe less prepared than had you known nothing!) Finally, it is simply
-more fun.
+An essential ingredient of Datafest is that the data be a surprise. There are several reasons for this. One is that it ensures that all teams start on an equal footing. Another is that, even if you research the organization that donated the data, you might still be totally unprepared for the context of the data (and maybe less prepared than had you known nothing!) Finally, it is simply more fun.
 
-You are encouraged to share your excitement on social media and thank our sponsors. 
-The official Twitter hashtag is #ASAdatafest. However...
+You are encouraged to share your excitement on social media and thank our sponsors. The official Twitter hashtag is #ASAdatafest. However...
 
-PLEASE KEEP THE SECRET UNTIL MAY 4!. Teams that leak the name or any information
-about the identify of the data donor will be disqualified!
+PLEASE KEEP THE SECRET UNTIL MAY 4!. Teams that leak the name or any information about the identify of the data donor will be disqualified!
 
-Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might
-reveal the data donor.
+Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might reveal the data donor.
 
 
 # Computing and supplies
@@ -180,7 +164,7 @@ Winners will receive medals and books as well as one-year student memberships to
 
 #### Raffle prizes
 
-* Throughout the event we will be giving out raffle prizes. Announcements for these will be shared on social media or through Slack. Follow these channels to get a chance to win one of these sweet prizes! 
+* Throughout the event we will be giving out raffle prizes. Announcements for these will be shared on social media or through Discord. Follow these channels to get a chance to win one of these sweet prizes! 
 * Winning will also require that you are on premises at the time a prize is announced.
 
 ##  Recruiting

@@ -102,7 +102,7 @@ paginate = 10
     email = "datascience@csuchico.edu"
 
     about_us = "<p>Data Fest is organized by the Data Science Initiative at Chico State. Learn more at <a href='http://datascience.csuchico.edu'>http://datascience.csuchico.edu</a></p>"
-    copyright = "Copyright (c) 2018 - 2020, CSUC DSI; all rights reserved."
+    copyright = "Copyright (c) 2018 - 2022, CSUC DSI; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -111,7 +111,7 @@ paginate = 10
     logo_small = "img/logo-small.png"
     address = """<p><strong>Data Science Initiative</strong>
         <br>attn: Robin Donatello
-        <br>Holt Hall 181
+        <br>Holt Hall 101
         <br>400 West First Street
         <br>California State University, Chico
         <br>Chico
@@ -175,7 +175,7 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our 2021 Sponsors"
+    title = "Our 2022 Sponsors"
     subtitle = "DataFest would not be able to run without the support from the following individuals and organizations. To learn how you can contribute check the page on Supporting DataFest."
 
 

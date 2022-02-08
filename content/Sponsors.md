@@ -2,9 +2,6 @@
 title= "Sponsors"
 +++
 
-
-> This page has not been updated to reflect 2021 fundraising efforts yet
-
 Our #CatsGaveBack $499 during Giving Day 2020! Thank you to all our amazing donors!
 
 
@@ -19,7 +16,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 
 ----
 
-<center> <span style='font-size: 30pt;'> -->>DataFest 2021 sponsors<<-- </span></center>
+<center> <span style='font-size: 30pt;'> -->>DataFest 2022 sponsors<<-- </span></center>
 
 <!---
 
@@ -96,7 +93,7 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
     <td>Supporting and enriching Northern California's Entrepreneurial Ecosystem and providing startups the resources they need to succeed. Our platform includes shared office amenities, mentoring, workshops, internships, tech talks, student to business projects, entrepreneurial events, think tanks, satellite office programs and anything else that helps our core mission of helping startups succeed. <a href ="https://chicostart.com/">https://chicostart.com/</a></td>
   </tr>
   
-
+<!----
 
   <tr><td height= "50"> </td> <td></td></tr>
 
@@ -107,7 +104,7 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
     </td>
   </tr>
   
-  
+--->
   
 </tbody>
 </table>
@@ -159,7 +156,6 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
   </tr>
   
   <tr><td height= "50"> </td> <td></td></tr>
---->
 
   <tr>
     <td align="center" markdown="span"><img src="../img/clients/pbs_logo.png" style="width:30%"></img></td>
@@ -167,6 +163,7 @@ Today, Trinchero Family Estates remains deeply rooted in Napa Valley, encompassi
     </td>
   </tr>
   
+--->
 
 
 </tbody>

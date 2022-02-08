@@ -6,7 +6,7 @@ title= "Schedule of Events"
     <link rel="stylesheet" href="style.css" />
 </html>
 
-> The 2021 schedule is tentative and subject to change. 
+> The 2022 schedule is tentative and subject to change. 
 
 
 # On your marks....
@@ -26,30 +26,31 @@ title= "Schedule of Events"
 # Team Forming Event (T-2 weeks) _Specific Date/time TBD_
 Still looking for group? Join us for pizza, to get to know each other, and form teams. 
 
-
+<!---
 We are grateful to [Chico Start](https://chicostart.com/) for letting us hold this event in their offices in Downtown Chico. 
+--->
 
 
 # Get set..
 All events are @ Chico State Campus
 
-* ARTS 111 (https://www.csuchico.edu/maps/campus/?id=1193#!ct/28514?mc/39.72979688502985,-121.84459609910849?z/18?lvl/0)
+* [Sylvesters Cafe by the Creek ](https://www.csuchico.edu/maps/campus/?id=1193#!m/316229)
 * Doors will be open from 8am to 12 midnight. 
-* Join our Slack team! (info TBD)
+* Join our Discord Server! (info TBD)
 * Emergency numbers are posted at the front of the room. 
 
 ----
 # GO!
 
-## Friday, ? , 2021     
+## Friday, April 1st, 2022     
 **Welcome!**  
  
 * 5pm - Registration
 * 5:30pm - Kickoff presentation. Meet the data!
 * 6 - Dinner
-* Work until midnight
+* Room open until midnight
 
-## Saturday, ? , 2021    
+## Saturday, April 2nd, 2022    
 **Carry on!**  
 
 * 8am - Breakfast    
@@ -58,10 +59,11 @@ All events are @ Chico State Campus
 * 6:00pm - Dinner    
 * 11:30pm - Midnight snack & prize raffle    
 
-## Sunday, ?, 2021  
+## Sunday, April 3rd, 2022  
 **Wrap up!**  
  
 * 8am - Breakfast    
 * 1pm - Presentations due. Lunch on your own (with consultants?)
 * 2pm - Presentations and judges' deliberations    
 * 3:30pm - Award ceremony       
+
