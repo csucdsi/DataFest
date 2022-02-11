@@ -3,7 +3,7 @@ title= "Registration open until March 11th"
 +++
 
 
-## <img src="../img/team.png"> [Register as a Team](https://forms.gle/FHMDqYcrtbEPr71s6)
+## <img src="../img/team.png"> [Register as a Team](https://forms.gle/Dja3yBHvaWf7ThAeA)
 
 <br>
 
