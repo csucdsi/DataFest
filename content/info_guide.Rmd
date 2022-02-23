@@ -32,6 +32,35 @@ DataFest 2022 @ CSU, Chico will start with registration and end with awards cere
 * We ask that you carpool with teammates as parking on campus can be tricky.
 * Here is a map of [some parking spots](https://www.csuchico.edu/maps/campus/?id=1193#!ce/28506,32116,36245?ct/28506,36245,36247,36246,36473,36472,32115,32092?mc/39.72895946407476,-121.8430553376675?z/15?lvl/0) on campus.
 
+### Lodging
+
+Hotels listed for less than approximately $100 per night are starred (\*).
+
+#### Within 1 mile
+
+* [Hotel Diamond](https://www.hoteldiamondchico.com/)
+* [University Inn Chico\*](http://chicouniversityinn.com/)
+* [Quality Inn](https://www.choicehotels.com/california/chico/quality-inn-hotels/cab92)
+* [Heritage Inn Express\*](http://www.heritageinnchicohotel.com/)
+* [Americas Best Value Inn](https://www.redlion.com/americas-best-value-inn/ca/chico/americas-best-value-inn-chico)
+* [Goodman House Historic Inn](https://www.goodmanhouse.net/)
+
+#### Within 2 miles
+
+* [Rodeway Inn](https://www.choicehotels.com/california/chico/rodeway-inn-hotels/cad75)
+
+#### Within 3 miles
+
+* [Oxford Suites](https://www.oxfordsuiteschico.com/)
+* [Holiday Inn](https://www.ihg.com/holidayinnexpress/hotels/us/en/chico/cical/hoteldetail)
+* [Courtyard by Marriott](https://www.marriott.com/en-us/hotels/ciccy-courtyard-chico/overview/)
+* [Residence Inn by Marriott](https://www.marriott.com/en-us/hotels/cicri-residence-inn-chico/overview/)
+* [Best Western Heritage Inn](https://www.bestwestern.com/en_US/book/hotel-rooms.05444.html)
+* [Motel 6 Chico\*](https://www.motel6.com/en/home/motels.ca.chico.9346.html)
+* [Super 8](https://www.wyndhamhotels.com/super-8/chico-california/super-8-chico/overview)
+* [DoubleTree by Hilton](https://www.hilton.com/en/hotels/cicccdt-doubletree-chico/)
+* [Town House Motel\*](https://www.townhousemotelchio.us/)
+
 
 ## Who is at ASA DataFest @ Chico State 2022? 
 
