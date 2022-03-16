@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
 
 We are seeking $4,000 to supply food and event supplies. All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [Chico State DSI](http://datascience.csuchico.edu) website. 
 
-> First time in 2022 we are fundraising for stretch goals of travel support for out of town students. We want to extend this event to students from all other colleges in the North State, CSU and community colleges but recogize that travel can be a barrier. We are seeking another $2400 to provide 12 students (2-3 teams) $200 in travel support for the weekend. 
+> First time in 2022 we are fundraising for stretch goals of travel support for out of town students. We want to extend this event to students from all other colleges in the North State, CSU and community colleges but recogize that travel can be a barrier. We are fundraising for another $2400 to provide 12 students (2-3 teams) $200 in travel support for the weekend. 
 
 <div class = "row">
 <div class = "col-md-6">
@@ -25,7 +25,7 @@ Choose "Other Designation" and write in "_Data Science Initiative Fund #20068530
 
 ### Donate by Check
 
-Please make out checks to Chico State and write in the memo field "_Data Science Initiative Fund #200685300_". It is very important that the memo field contain this note or the funds will not be credited to the DataFest account. Send checks to:
+Please make out checks to Chico State and write in the memo field "_Data Science Initiative Fund #200685300_". Checks can be mailed to:
 
 ASA DataFest c/o Robin Donatello  
 CSU, Chico Department of Mathematics and Statistics  
@@ -42,15 +42,21 @@ Chico, CA, 95929-525
 # fundraising objective
 z <- 4000
 # amount gathered
-y <- 2894
+y <- 5044
+# pct
+pct <- y/z
+
+
 library(RColorBrewer)
+library(scales)
 cols <- brewer.pal(11, "RdYlGn")
 par(oma=c(0,0,0,0), mar=c(0,0,1,0))
-symbols(1, thermometers = cbind(.5, 1, y/z), fg = cols[round(y/z*10)], inches=3, 
+symbols(1, thermometers = cbind(.5, 1, min(1, pct)), 
+        fg = cols[min(11, round(pct*10))], inches=3, 
         xlab = NA, ylab = NA, yaxt='n', xaxt='n', bty='n',  
         main = paste("Funds raised as of", format(Sys.Date(), "%m-%d-%Y")))
-text(1, y=1.3, paste0("$", y, "/", z))
-text(1, y=.8, paste0(round(y/z*100), "%"),  offset = 3)
+text(1, y=1.3, paste0(dollar(y), "/", dollar(z)))
+text(1, y=.9*pct, percent(pct),  offset = 3)
 ```
 
 </div>

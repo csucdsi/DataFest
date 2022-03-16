@@ -96,6 +96,12 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
         https://www.csuchico.edu/cob/students/beyond-classroom/center-for-entrepreneurship/index.shtml</a></td>
   </tr>
   
+  <tr><td height= "50"> </td> <td></td></tr>
+    
+  <tr>
+    <td><img src="../img/clients/math_logo.png" style="width:40%"></img></td>
+    <td>Chico State Math Club. Supporting students in their pursuit of mathematical sciences for over 20 years.</td>
+  </tr>
 </tbody>
 </table>
   
@@ -144,7 +150,13 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 </colgroup>
 
   <tbody>
+    <tr>
+    <td><img src="../img/clients/DSI_Logo_Horizontal_Small.jpg" style="width:60%"></img></td>
+    <td> The Data Science Initiative at Chico State aims to be a hub of DS information and resources for campus and community. Our vision is to foster a data-empowered society working within a culture of open science. See more at <a href="https://www.csuchico.edu/datascience">https://www.csuchico.edu/datascience</a>. </td>
+  </tr>
   
+  <tr><td height= "50"> </td> <td></td></tr>
+    
    <tr>
     <td><img src="../img/clients/asa_logo.jpg" style="width:60%"></img></td>
     <td>The American Statistical Association is the National coordinating organization of DataFest. 

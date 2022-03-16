@@ -1,5 +1,5 @@
 +++
-title= "Registration open until March 11th"
+title= "Registration open until March 20th"
 +++
 
 
@@ -8,7 +8,7 @@ title= "Registration open until March 11th"
 <br>
 
 ## <img src="../img/lfg.png">  [Register as an individual - seeking a team](https://forms.gle/PHJpeJBbopJWVuEU9)
-We will be holding team formation social nights prior to the event. 
+We will be holding a team formation and Data Sneak peek on Friday 3/25. Be sure to sign up here for that event. https://forms.gle/SyL834h9aM4YmjXz7 
 
 <br>
 

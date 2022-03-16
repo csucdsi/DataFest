@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://chicodatafest.netlify.app"
 title = "Data Fest 2022"
 theme = "hugo-universal-theme"
 languageCode = "en-us"

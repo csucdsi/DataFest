@@ -7,7 +7,6 @@ output:
 ---
 
 
-
 **Note: This document is being updated as the event approaches; any major updates will be clearly marked.**
 
 # General Event Info 

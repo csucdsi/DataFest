@@ -6,7 +6,6 @@ output:
   pdf_document: default
 ---
 
-> Plans for DataFest 2022 are being developed. 
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
 
