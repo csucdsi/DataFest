@@ -130,7 +130,15 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
          https://www.csuchico.edu/cob/students/beyond-classroom/cesir.shtml</a>. </td>
   </tr>
   
-
+  <tr><td height= "50"> </td> <td></td></tr>
+    
+  <tr>
+    <td align="center" markdown="span"><img src="../img/clients/pbs_logo.png" style="width:30%"></img></td>
+    <td>Employee owned lumberyard that has been serving home owners and contracters in Northern California since 1973. Learn what they have to offer at <a href="https://www.paylessbuildingsupply.com/">https://www.paylessbuildingsupply.com/</a>
+    </td>
+  </tr>
+  
+  
 </tbody>
 </table>
   
@@ -162,6 +170,14 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
     <td>The American Statistical Association is the National coordinating organization of DataFest. 
         They work hard to get the most interesting data possible. 
         See more at <a href="http://www.amstat.org">http://www.amstat.org</a>. </td>
+  </tr>
+  
+  <tr><td height= "50"> </td> <td></td></tr>
+   
+  <tr>
+    <td align="center" markdown="span"><img src="../img/clients/StobleLogo.png" style="width:30%"></img></td>
+    <td>Stoble Coffee has generously donated tasty coffee to help keep all of us going throughout the event! Stoble is a transparent specialty coffee roaster in Chico, working to bring people and their ideas together. Check out their coffee site <a href="https://www.stobleco.com/">https://www.stobleco.com/</a> and coworking site: <a href="https://www.stobleworkplace.com/">https://www.stobleworkplace.com/</a>
+    </td>
   </tr>
   
     
