@@ -118,11 +118,21 @@ You might want to bring some favorite statistical or computational reference boo
 
 We will provide meals, snacks, and munchies. Feel free to bring anything additional you might want.
 
-### Cloud computing resources for DataFest
 
-RStudio is hosted on the cloud at https://rstudio.cloud/
+## Software
 
-You can use a Python instance from Google Colab https://colab.research.google.com/ or on binder https://mybinder.org/ 
+DataFest is software agnostic. If you can analyze and visualize data with it, it's welcome. We have compiled some brief resources that may be of help. 
+
+### R 
+
+* New to R? Check out Chico's short course [Intro to R](https://norcalbiostat.github.io/MATH130/). All material is avaiable freely from this site. 
+* R cheat sheats: https://www.rstudio.com/resources/cheatsheets/
+* RStudio is hosted on the cloud at https://rstudio.cloud/
+
+### Python
+
+* You can use a Python instance from Google Colab https://colab.research.google.com/ or on binder https://mybinder.org/ 
+
 
 
 ## Data
