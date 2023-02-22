@@ -1,22 +1,18 @@
 +++
-title= "Registration open until March 20th"
+title= "Registration open until March 31st"
 +++
 
 
-## <img src="../img/team.png"> [Register as a Team](https://forms.gle/Dja3yBHvaWf7ThAeA)
+## <img src="../img/team.png"> [Register as a Undergraduate Student](https://forms.gle/QYemZbHRoxhU749i9)
 
 <br>
 
-## <img src="../img/lfg.png">  [Register as an individual - seeking a team](https://forms.gle/PHJpeJBbopJWVuEU9)
-We will be holding a team formation and Data Sneak peek on Friday 3/25. Be sure to sign up here for that event. https://forms.gle/SyL834h9aM4YmjXz7 
+
+## <img src="../img/consultation.png">[Register as a visiting consultant](https://forms.gle/y3447NaGdxs2iAg49)
 
 <br>
 
-## <img src="../img/consultation.png">[Register as a visiting consultant](https://forms.gle/Q76cuUePtQkUsa8p6)
-
-<br>
-
-## <img src="../img/judge.png">[Register as an event judge](https://forms.gle/s3dRs813h8fWnjudA)
+## <img src="../img/judge.png">[Register as an event judge](https://forms.gle/ENqDFhfd6tfSpjQ27)
 
 
 

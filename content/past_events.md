@@ -2,6 +2,8 @@
 title= "Past Data Fest Events"
 +++
 
+# 2022 - TBD
+
 
 # 2019 - Canadian Womens Rugby
 We had 48 students from 6 different schools register as 12 teams. The diversity of the student majors was remarkable. This year we had representation from Mathematics & Statistics (35%), Computer Science (26%), Business (28%) and Other majors (17%). In the end, six teams presented their findings. Each team had five minutes and a maximum of two slides (one team created a video presentation) to present findings to a panel of judges. 

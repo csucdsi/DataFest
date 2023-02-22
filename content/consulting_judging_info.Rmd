@@ -6,12 +6,13 @@ output:
   pdf_document: default
 ---
 
+# Updates for 2023 in process
 
 **Note: This document is being updated as the event approaches; any major updates will be clearly marked.**
 
 # General Event Info 
 
-All information regarding the event can be found at https://chicodatafest.netlify.com/.
+All information regarding the event can be found at https://norcaldatafest.netlify.com/.
 
 ### Location
 

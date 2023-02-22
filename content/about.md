@@ -14,10 +14,7 @@ The mission of DataFest is to expose undergraduate students to challenging quest
 
 # Information / Guides
 
-## COVID-19 rules
-
-This will be an in person event. All participants, organizers, guests, judges and ANYONE else involved must properly wear a mask the entire time or be asked to leave. 
-
+> These pages are being updated for 2023. 
 
 
 

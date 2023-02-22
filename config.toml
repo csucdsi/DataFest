@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Data Fest 2022"
+title = "Data Fest 2023"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -78,7 +78,7 @@ paginate = 10
     viewMorePostLink = "/blog/"
     author = "Robin Donatello"
     defaultKeywords = ["data"]
-    defaultDescription = "Data Fest at Chico State"
+    defaultDescription = "NorCal Data Fest"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -102,7 +102,7 @@ paginate = 10
     email = "datascience@csuchico.edu"
 
     about_us = "<p>Data Fest is organized by the Data Science Initiative at Chico State. Learn more at <a href='http://datascience.csuchico.edu'>http://datascience.csuchico.edu</a></p>"
-    copyright = "Copyright (c) 2018 - 2022, CSUC DSI; all rights reserved."
+    copyright = "Copyright (c) 2018 - 2023, CSUC DSI; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -159,7 +159,7 @@ paginate = 10
     #title = "Past Events at Chico"
     #subtitle = "stuff"
     link_url = "/past_events/"
-    link_text = "Past Events at Chico"
+    link_text = "Past Events"
 
 
 [params.testimonials]
