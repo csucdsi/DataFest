@@ -6,7 +6,15 @@ title= "Schedule of Events"
     <link rel="stylesheet" href="style.css" />
 </html>
 
-# Updates for 2023 in process
+
+Registration sign in starts at 5pm on Friday. 
+
+You are of course free to come and go as you please throughout the event, but here are the times all team members should plan to be on premises:
+
+- Friday 5-5:30pm - registration & kickoff session
+- Saturday afternoon - group photo. Exact time to be announced via Discord 
+- Sunday 1pm - Presentation submissions due
+- Sunday 2pm - Presentations to Judges and awards ceremony
 
 # On your marks....
 

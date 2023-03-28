@@ -4,6 +4,10 @@ title= "Past Data Fest Events"
 
 # 2022 - TBD
 
+# 2022 - Elm City Stories
+
+The 2022 DataFest challenge came from the Play2Prevent lab at the Yale Center for Health & Learning Games in the Yale School of Medicine. DataFest participants analyzed data from Elm City Stories, an educational video game designed for middle and high school students. The goal of the game was to prevent negative health outcomes in young, at-risk adolescents by helping teens to increase perception of risk and to develop skills for predicting and understanding future consequences of actions. The DataFest challenge was to characterize, measure and display patterns of play within the game that the researchers could then use to make connections to real-life behavior.[_Description credit to OSU Datafest page_](https://data-analytics.osu.edu/datafest/previous-datafests)
+
 
 # 2019 - Canadian Womens Rugby
 We had 48 students from 6 different schools register as 12 teams. The diversity of the student majors was remarkable. This year we had representation from Mathematics & Statistics (35%), Computer Science (26%), Business (28%) and Other majors (17%). In the end, six teams presented their findings. Each team had five minutes and a maximum of two slides (one team created a video presentation) to present findings to a panel of judges. 
