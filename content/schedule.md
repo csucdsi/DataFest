@@ -6,6 +6,7 @@ title= "Schedule of Events"
     <link rel="stylesheet" href="style.css" />
 </html>
 
+<!---
 
 Registration sign in starts at 5pm on Friday. 
 
@@ -18,7 +19,6 @@ You are of course free to come and go as you please throughout the event, but he
 
 # On your marks....
 
-<!---
 
 * You are welcome to use any programming language you like, but we will host some pre-event workshops for Python, R, SAP Lumeria and possibly others. 
 * Data Science Calendar of events https://csudsi.netlify.com/page/events/ 
@@ -32,49 +32,48 @@ You are of course free to come and go as you please throughout the event, but he
     - Tue 4-2 2-4pm: DataFest Prep - Get the experience by playing with last year's DataFest data. 
 --->
 
-## Team Forming Event and Sneak peek at the Data! 
-### March 25th, 4-5pm Butte 109 (Chico), Shasta Hall 145 (Sac State) and on Zoom (Info to be shared via email)
+## Team Forming Event! 
 
-Still looking for group? Join us for tacos, to get to know each other, and form teams.
+Still looking for group? Join us for pizza, to get to know each other, and form teams.
 
-Have a team? You'll still want to join so you can get some very important information about the data. This year is special and you'll get some information this Friday that'll let you get acquainted with the data generating mechanism before the event weekend. 
+## Sac State
+* Join the Sac State Data Science Club meeting on 4/7 at 3-4pm Bryton Hall 208
 
-This meeting will be held via zoom and in person on both campuses, and will be recorded. 
 
-# Get set..
-All events are @ Chico State Campus
+## Chico
+* 1 week before the event
+* Time TBD 5-6. 
 
-* [Sylvesters Cafe by the Creek ](https://www.csuchico.edu/maps/campus/?id=1193#!m/316229)
-* Doors will be open from 8am to 12 midnight. 
-* Join our Discord Server: https://discord.gg/tzcB4MJadW ! DM @Dr.D to be added to the private DataFest channels. Please remember that all info regarding the data stays within these channels. 
-    - We'll also set you up with your own team channel so you can share code, images, discussion etc with each other. 
-* Emergency numbers are posted at the front of the room. 
+
+Can't make an in person event? Stay tuned. We'll have a team sign up spreadsheet for you to add your name and information to find yourself some partners. 
 
 ----
 # GO!
 
-## Friday, April 1st, 2022     
+## Friday, April 14th, 2023     
 **Welcome!**  
  
 * 5pm - Registration sign in. 
 * 5:30pm - Kickoff presentation. Meet the data!
-* 6 - Dinner: **Woodstocks**
-* Room open until midnight
+* 6 - Dinner
+* Room open until 10pm
 
-## Saturday, April 2nd, 2022    
+> Note that the doors lock at 5pm so make sure someone can let you back in!
+
+## Saturday, April 15th, 2023    
 **Carry on!**  
 
 * 8am - Breakfast    
-* 12:30pm - Lunch: **Konas**  
-* 5:30pm - Group photo    
-* 6:00pm - Dinner: **Bootleg BBQ**
-* 11:30pm - Midnight snack & prize raffle    
+* 12pm - Lunch
+* 6:00pm - Dinner
+* Room open until 10pm  
 
-## Sunday, April 3rd, 2022  
+## Sunday, April 16th, 2023  
 **Wrap up!**  
  
 * 8am - Breakfast    
-* 1pm - Presentations due. Lunch on your own 
-* 2pm - Presentations and judges' deliberations    
-* 3:30pm - Award ceremony       
+* 10am - Presentations due. 
+* 10:30-12 - Presentations and judges' deliberations    
+* 12-12:30pm - Award ceremony & Lunch      
+
 
