@@ -53,7 +53,6 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 <p>
 
 ----
---->
 
 
 ## Terabyte Sponsors
@@ -147,7 +146,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 
 
 ----
-
+--->
 
 ## Acknowledgements
 
@@ -164,6 +163,13 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   </tr>
   
   <tr><td height= "50"> </td> <td></td></tr>
+  
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/lgpcappiello/DataFest/master/content/DS_SacState_logo.png style="width:60%"></img></td>
+    <td> The Data Science Club at Sacramento State is open to all students who are interested in data science. </td>
+  </tr>
+  
+  <tr><td height= "50"> </td> <td></td></tr>
     
    <tr>
     <td><img src="../img/clients/asa_logo.jpg" style="width:60%"></img></td>
@@ -174,12 +180,13 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   
   <tr><td height= "50"> </td> <td></td></tr>
    
+ <!--- 
   <tr>
     <td align="center" markdown="span"><img src="../img/clients/StobleLogo.png" style="width:30%"></img></td>
     <td>Stoble Coffee has generously donated tasty coffee to help keep all of us going throughout the event! Stoble is a transparent specialty coffee roaster in Chico, working to bring people and their ideas together. Check out their coffee site <a href="https://www.stobleco.com/">https://www.stobleco.com/</a> and coworking site: <a href="https://www.stobleworkplace.com/">https://www.stobleworkplace.com/</a>
     </td>
   </tr>
-  
+ ---> 
     
   </tbody>
 </table>
