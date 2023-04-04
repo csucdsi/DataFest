@@ -12,10 +12,21 @@ The mission of DataFest is to expose undergraduate students to challenging quest
 
 ----
 
-# Information / Guides (2023)
+# Who is at ASA DataFest @ Sacramento State 2023? 
 
-* [Participant Guide](/info_guide_sac). 
-* [For Consultants & Judges](/consulting_judging_info). 
+- 30 participants
+- 8 consultants
+- 4 organizers
+- 3 judges
+
+> [Registration](register.html) is still open!
+
+
+# Helpful Guides
+_Updated for 2023._
+
+* [For Participants](/info_guide_sac) 
+* [For Consultants & Judges](/consulting_judging_info)
 
 
 # FAQ
