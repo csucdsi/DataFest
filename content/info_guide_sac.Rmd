@@ -39,21 +39,6 @@ Hotels listed for less than approximately $100 per night are starred (\*).
 [Hampton Inn & Suites Sacramento at CSUS](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=SACSUHX)
 [Comfort Inn & Suites Sacramento - University Area](https://www.choicehotels.com/california/sacramento/comfort-inn-hotels/ca644)
 
-## Who is at ASA DataFest @ Sacramento State 2023? 
-
-> [Registration](register.html) is now open!
-
-- 30 participants
-- 8 consultants
-- 3 judges
-
-<!---
-- 35 participants in 2 pre-formed teams (more to come on Friday 3/25)!
-- 11 consultants
-- 3 judges
-
---->
-
 
 ## Food & Caffeine
 Our goal is to keep you fed & caffeinated all weekend long. Check the Schedule for mealtimes. 
@@ -62,13 +47,13 @@ Our goal is to keep you fed & caffeinated all weekend long. Check the Schedule f
 
 # Social Media
 
-Did you know that, this year, DataFest will be held at over 70 universities around the world? DataFest takes place during a six-week window in the Spring, and different universities hold their event at different times.
+Did you know that, this year, DataFest will be held at [over 70 universities around the world](https://ww2.amstat.org/education/datafest/participants.cfm)? DataFest takes place during a six-week window in the Spring, and different universities hold their event at different times.
 
 An essential ingredient of Datafest is that the data be a surprise. There are several reasons for this. One is that it ensures that all teams start on an equal footing. Another is that, even if you research the organization that donated the data, you might still be totally unprepared for the context of the data (and maybe less prepared than had you known nothing!) Finally, it is simply more fun.
 
 You are encouraged to share your excitement on social media and thank our sponsors. The official Twitter hashtag is #ASAdatafest23. However...
 
-PLEASE KEEP THE SECRET UNTIL [DATE]!. Teams that leak the name or any information about the identify of the data donor will be disqualified!
+PLEASE KEEP THE SECRET UNTIL April 29th!. Teams that leak the name or any information about the identify of the data donor will be disqualified!
 
 Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might reveal the data donor.
 
@@ -150,7 +135,7 @@ We will collect resumes and share them with some of our sponsors. Participation 
 
 - You must follow the Code of Conduct. This can be found at https://norcaldatafest.netlify.com/faq/ and printed at the event. 
 
-- Do not share the name of the data source publicly or on social media before May 4th. There are many other upcoming DataFests around the country and we want to make sure the dataset remains a surprise for them.
+- Do not share the name of the data source publicly or on social media before April 29th. There are many other upcoming DataFests around the country and we want to make sure the dataset remains a surprise for them.
 
 - Before your team gets the data all members must have signed Non-Disclosure agreement on file at the registration desk. You can freely share your results, presentations, findings, etc. as part of your digital portfolio, however you are not allowed to share the raw data with anyone outside of DataFest. At the end of DataFest, you must delete all data from thumb drives, hard drives, etc. The data are sensitive.
 

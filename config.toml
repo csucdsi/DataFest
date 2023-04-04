@@ -27,34 +27,28 @@ paginate = 10
     name = "Schedule"
     url  = "/schedule/"
     weight = 2
-
-
+    
+[[menu.main]]
+    name = "Info"
+    url  = "/about/"
+    weight = 3
+    
 [[menu.main]]
     name = "Register"
     url  = "/register/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Sponsors"
-    url  = "/Sponsors/"
-    weight = 4
+    url  = "/sponsors/"
+    weight = 5
 
 [[menu.main]]
     name = "Resources"
     url  = "/resources/"
-    weight = 5
-
-
-[[menu.main]]
-    name = "FAQ"
-    url  = "/faq/"
     weight = 6
 
-[[menu.main]]
-    name = "About"
-    url  = "/about/"
-    weight = 7
-    
+
 # Top bar social links menu
 
 [[menu.topbar]]
@@ -108,7 +102,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "datascience@csuchico.edu"
 
-    about_us = "<p>Data Fest is organized by the Data Science Initiative at Chico State. Learn more at <a href='http://datascience.csuchico.edu'>http://datascience.csuchico.edu</a></p>"
+    about_us = "<p>The NorCal Data Fest is organized by the Data Science Initiative at Chico State and the Data Science Club at Sacramento State. Learn more at <a href='http://datascience.csuchico.edu'>http://datascience.csuchico.edu</a></p>"
     copyright = "Copyright (c) 2018 - 2023, CSUC DSI; all rights reserved."
 
     # Format dates with Go's time formatting
