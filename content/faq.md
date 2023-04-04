@@ -2,8 +2,6 @@
 title = "About DataFest"
 +++
 
-# Updates for 2023 in process
-
 DataFest is a nationally-coordinated undergraduate competition in which teams of up to 5 students work over a weekend to extract insight from a rich and complex data set. Previous years’ data sets have included crime data from the LAPD, dating data from eHarmony, and energy use data from GridPoint. This year’s data set will be revealed at the opening of the event on Friday evening. 
 
 At the conclusion of the competition, each team will have 5 minutes and 2 slides to make a presentation to a panel of judges. Judges will select teams to win prizes for areas such as “Best Insight”, "Best Visualization", "Best use of external data", and one judges's personal favorite "Best Garbage Detection". 
@@ -28,11 +26,11 @@ We would love to have Masters students get involved as consultants during the ev
 
 *How large are the teams?*
 
-Teams can be made up of 2-5 students. [[Register your team here]](https://goo.gl/forms/jlZ5FEE8EXuHdWJw1)
+Teams can be made up of 2-5 students. [[Register your team here]](https://forms.gle/zDPFx5toc81x5FAy6)
 
 *Do I have to compete in a team?*
 
-Yes, but if you don't have a pre-formed team you can [[leave us your info here]](https://goo.gl/forms/NFDZ1IWExa7etkxf2) and we'll try to match you with others in the same boat. We will also be holding at least one team formation over pizza night prior to the event. 
+Yes, but if you don't have a pre-formed team you can [[leave us your info here]](https://forms.gle/M2crKHFtBDg8Ja43A) and we'll try to match you with others in the same boat. We will also be holding at least one team formation event prior to DataFest. 
 
 *What do I need to bring?*
 
@@ -54,12 +52,11 @@ No. You may come and go as you please. However, you are not allowed to work on t
 
 Fame, glory, prizes or some combination thereof... And you get a t-shirt!
 
-
 ---
 
 ## Code of Conduct
 
-ASA DataFest<small><sup>TM</sup></small> at Chico State is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, social activities, social media, and other online media. ASA DataFest<small><sup>TM</sup></small> participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers.
+NorCal ASA DataFest<small><sup>TM</sup></small> is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, social activities, social media, and other online media. ASA DataFest<small><sup>TM</sup></small> participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers.
 
 This code of conduct applies to all participants, including organizers, mentors / VIP consultants, judges, and helpers and applies to all modes of interaction, both in-person and online, on ASA DataFest<small><sup>TM</sup></small> Community, and event specific Slack channels, and social media.
 
