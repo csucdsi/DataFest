@@ -12,14 +12,16 @@ The mission of DataFest is to expose undergraduate students to challenging quest
 
 ----
 
+<!----
 # Who is at ASA DataFest @ Sacramento State 2023? 
 
 - 30 participants
 - 8 consultants
 - 4 organizers
 - 3 judges
+---->
 
-> [Registration](register.html) is still open!
+> [Registration](register.html) Opens in January 2024
 
 
 # Helpful Guides
@@ -45,11 +47,11 @@ _Updated for 2023._
 
 **How large are the teams?**
 
-* Teams can be made up of 2-5 students. [[Register your team here]](https://forms.gle/zDPFx5toc81x5FAy6)
+* Teams can be made up of 2-5 students. [[Register your team here-TBD]]() 
 
 **Do I have to compete in a team?**
 
-* Yes, but if you don't have a pre-formed team you can [[leave us your info here]](https://forms.gle/M2crKHFtBDg8Ja43A) and we'll try to match you with others in the same boat. We will also be holding at least one team formation event prior to DataFest. 
+* Yes, but if you don't have a pre-formed team you can [[leave us your info here-TBD]]() and we'll try to match you with others in the same boat. We will also be holding at least one team formation event prior to DataFest. 
 
 **What do I need to bring?**
 
