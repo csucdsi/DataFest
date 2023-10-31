@@ -1,5 +1,5 @@
 +++
-title= "2023 Sponsors"
+title= "2024 Sponsors"
 +++
 
 
@@ -28,8 +28,8 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   <tr><td height= "50"> </td> <td></td></tr>
   
   <tr>
-    <td><img src="../img/clients/DS_SacState_logo.png style="width:60%"></img></td>
-    <td> The Data Science Club at Sacramento State is open to all students who are interested in data science. </td>
+    <td><img src="../img/clients/PENDING style="width:60%"></img></td>
+    <td> The Data Science Club at Chico State is open to all students who are interested in data science. </td>
   </tr>
   
   <tr><td height= "50"> </td> <td></td></tr>
