@@ -34,41 +34,31 @@ You are of course free to come and go as you please throughout the event, but he
 
 ## Team Forming Event! 
 
-Still looking for group? Join us for pizza, to get to know each other, and form teams.
+Don't have a pre-formed team? Chico State Data Science Club will host a team formation event one week prior to DataFest
 
-## Sac State
-* Join the Sac State Data Science Club meeting on 4/7 at 3-4pm Bryton Hall 208
-
-
-## Chico
-* 1 week before the event
-* Time TBD 5-6. 
-
-
-Can't make an in person event? Stay tuned. We'll have a team sign up spreadsheet for you to add your name and information to find yourself some partners. 
 
 ----
 # GO!
 
-## Friday, April 14th, 2023     
+## Friday, April 12th, 2024
 **Welcome!**  
  
 * 5pm - Registration sign in. 
 * 5:30pm - Kickoff presentation. Meet the data!
 * 6 - Dinner
-* Room open until 10pm
+* Room open until 12 midnight
 
 > Note that the doors lock at 5pm so make sure someone can let you back in!
 
-## Saturday, April 15th, 2023    
+## Saturday, April 13th, 2024    
 **Carry on!**  
 
 * 8am - Breakfast    
 * 12pm - Lunch
 * 6:00pm - Dinner
-* Room open until 10pm  
+* Room open  until 12 midnight 
 
-## Sunday, April 16th, 2023  
+## Sunday, April 14th, 2024  
 **Wrap up!**  
  
 * 8am - Breakfast    
