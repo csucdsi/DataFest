@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Data Fest 2023"
+title = "Data Fest 2024"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -103,7 +103,7 @@ paginate = 10
     email = "datascience@csuchico.edu"
 
     about_us = "<p>The NorCal Data Fest is organized by the Data Science Initiative at Chico State and the Data Science Club at Sacramento State. Learn more at <a href='http://datascience.csuchico.edu'>http://datascience.csuchico.edu</a></p>"
-    copyright = "Copyright (c) 2018 - 2023, CSUC DSI; all rights reserved."
+    copyright = "Copyright (c) 2018 - 2024, CSUC DSI; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

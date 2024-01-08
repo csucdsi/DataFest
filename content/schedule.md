@@ -34,7 +34,7 @@ You are of course free to come and go as you please throughout the event, but he
 
 ## Team Forming Event! 
 
-Don't have a pre-formed team? Chico State Data Science Club will host a team formation event one week prior to DataFest
+Don't have a pre-formed team? Stay tuned for a team formation event one week prior to DataFest
 
 
 ----
@@ -48,7 +48,6 @@ Don't have a pre-formed team? Chico State Data Science Club will host a team for
 * 6 - Dinner
 * Room open until 12 midnight
 
-> Note that the doors lock at 5pm so make sure someone can let you back in!
 
 ## Saturday, April 13th, 2024    
 **Carry on!**  

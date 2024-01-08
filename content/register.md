@@ -1,19 +1,18 @@
 +++
-title= "Registration open until March 31st"
+title= "Registration open until March 29, 2024"
 +++
 
 
-## <img src="../img/team.png"> [Register as a Undergraduate Student](https://forms.gle/QYemZbHRoxhU749i9)
+## <img src="../img/team.png"> [Register as a Undergraduate Student Participant](https://forms.gle/QYemZbHRoxhU749i9)
 
 <br>
 
 
-## <img src="../img/consultation.png">[Register as a visiting consultant](https://forms.gle/y3447NaGdxs2iAg49)
+## [Register as a helper](https://forms.gle/tmXJdqTNNLJSunbw7) 
 
-<br>
-
-## <img src="../img/judge.png">[Register as an event judge](https://forms.gle/ENqDFhfd6tfSpjQ27)
-
+* This could be as a roaming consultant <img src="../img/consultation.png"> 
+* A Presentation Judge <img src="../img/judge.png">
+* Or just a general helper (e.g. setup/breakdown, food runs etc) 
 
 
 ---
