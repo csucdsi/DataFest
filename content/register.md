@@ -3,7 +3,7 @@ title= "Registration open until March 29, 2024"
 +++
 
 
-## <img src="../img/team.png"> [Register as a Undergraduate Student Participant](https://forms.gle/QYemZbHRoxhU749i9)
+## <img src="../img/team.png"> [Register as a Undergraduate Student Participant](https://forms.gle/NhJSSe6GNVooocucA)
 
 <br>
 
