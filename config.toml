@@ -22,33 +22,32 @@ paginate = 10
     name = "Home"
     url  = "/"
     weight = 1
-    
+
 [[menu.main]]
-    name = "Schedule"
-    url  = "/schedule/"
-    weight = 2
-    
-[[menu.main]]
-    name = "Info"
+    name = "About"
     url  = "/about/"
-    weight = 3
-    
+    weight = 2
+
 [[menu.main]]
     name = "Register"
     url  = "/register/"
+    weight = 3
+
+[[menu.main]]
+    name = "Supporting DataFest"
+    url  = "/Sponsors/"
+    weight = 3
+
+[[menu.main]]
+    name = "Schedule"
+    url  = "/schedule/"
     weight = 4
 
 [[menu.main]]
-    name = "Sponsors"
-    url  = "/sponsors/"
+    name = "FAQ"
+    url  = "/faq/"
     weight = 5
-
-[[menu.main]]
-    name = "Resources"
-    url  = "/resources/"
-    weight = 6
-
-
+    
 # Top bar social links menu
 
 [[menu.topbar]]
@@ -79,7 +78,7 @@ paginate = 10
     viewMorePostLink = "/blog/"
     author = "Robin Donatello"
     defaultKeywords = ["data"]
-    defaultDescription = "NorCal Data Fest"
+    defaultDescription = "Data Fest at Chico State"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -102,8 +101,8 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "datascience@csuchico.edu"
 
-    about_us = "<p>The NorCal Data Fest is organized by the Data Science Initiative at Chico State and the Data Science Club at Sacramento State. Learn more at <a href='http://datascience.csuchico.edu'>http://datascience.csuchico.edu</a></p>"
-    copyright = "Copyright (c) 2018 - 2024, CSUC DSI; all rights reserved."
+    about_us = "<p>Data Fest is organized by the Data Science Initiative at Chico State. Learn more at <a href='http://datascience.csuchico.edu'>http://datascience.csuchico.edu</a></p>"
+    copyright = "Copyright (c) 2018 - 2022, CSUC DSI; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -160,7 +159,7 @@ paginate = 10
     #title = "Past Events at Chico"
     #subtitle = "stuff"
     link_url = "/past_events/"
-    link_text = "Past Events"
+    link_text = "Past Events at Chico"
 
 
 [params.testimonials]
@@ -176,7 +175,7 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our 2024 Sponsors"
+    title = "Our 2022 Sponsors"
     subtitle = "DataFest would not be able to run without the support from the following individuals and organizations. To learn how you can contribute check the page on Supporting DataFest."
 
 

@@ -2,16 +2,18 @@
 title: "Supporting Data Fest in 3 ways"
 output: html_document
 ---
-# Updates for 2023 in process
+
+# Updates for 2024 in process
 ```{r setup, include=FALSE, echo=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
 ```
 
 ### Financial Contributions
 
-Feeding and supporting students all weekend can be expensive! All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [Chico State DSI](http://datascience.csuchico.edu) website. 
+Participants are only allowed to work on this project while on site, so our biggest need is making sure they are well fed and caffeinated! Our fundraising goal is $5000 which will be spent entirely on food, t-shirts, collaboration supplies such as notepads, whiteboard markers, portable whiteboards, student travel support and prizes for the winners. 
 
-> First time in 2023 we are fundraising for travel support to send Chico State & Butte College students down to Sacramento for this event. Since the inclusion of Sacramento State as a hosting site, we are proud to extend this event to students from all colleges in the North State. However we recogize that travel can be a barrier to many students. We seek to raise $1200 to provide 8 students (3 teams) with hotel rooms and fuel assistance for the weekend. 
+All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [Chico State DSI](http://datascience.csuchico.edu) website. 
+
 
 <div class = "row">
 <div class = "col-md-6">

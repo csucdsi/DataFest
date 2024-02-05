@@ -21,11 +21,11 @@ The mission of DataFest is to expose undergraduate students to challenging quest
 - 3 judges
 ---->
 
-> [Registration](register.html) Open now!
+> [Registration](https://norcaldatafest.netlify.app/register/) Open now!
 
 
 # Helpful Guides
-_Updated for 2023._
+_Updated for 2024._
 
 * [For Participants](/info_guide_chico) 
 * [For Consultants & Judges](/consulting_judging_info)
@@ -43,15 +43,15 @@ _Updated for 2023._
 
 **What about MS students?**
 
-* We would love to have Masters students get involved as [consultants or helpers](https://forms.gle/uTopbYrfwHUfJA1t9) during the event.
+* We would love to have Masters students get involved as [consultants or helpers](https://norcaldatafest.netlify.app/register/) during the event.
 
 **How large are the teams?**
 
-* Teams can be made up of 2-5 students. [[Register your team here-TBD]]() 
+* Teams can be made up of 2-5 students.
 
 **Do I have to compete in a team?**
 
-* Yes, but if you don't have a pre-formed team you can [[leave us your info here-TBD]]() and we'll try to match you with others in the same boat. We will also be holding at least one team formation event prior to DataFest. 
+* Yes, but if you don't have a pre-formed team you can add yourself to a 'looking for group' list. The link is provided after you register. We will also be holding at least one team formation event prior to DataFest. 
 
 **What do I need to bring?**
 
