@@ -16,7 +16,7 @@ This is a long document, please take a moment to read over it carefully.
 # Location
 
 
-DataFest 2022 @ CSU, Chico will start with registration and end with awards ceremony in [Sylvesters Cafe by the Creek ](https://www.csuchico.edu/maps/campus/?id=1193#!m/316229). 
+DataFest 2024 @ CSU, Chico will start with registration and end with awards ceremony in [Sylvesters Cafe by the Creek ](https://www.csuchico.edu/maps/campus/?id=1193#!m/316229). 
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d608.8540435785778!2d-121.84547060132826!3d39.729947394051585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808327a4d40ea4c7%3A0xe6abf565f265edc2!2sSelvester&#39;s%20Cafe!5e0!3m2!1sen!2sus!4v1644349467021!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -61,14 +61,14 @@ Hotels listed for less than approximately $100 per night are starred (\*).
 * [Town House Motel\*](https://www.townhousemotelchio.us/)
 
 
-## Who is at ASA DataFest @ Chico State 2022? 
+## Who is at ASA DataFest @ Chico State 2024? 
 
 <!---
 
 > [Registration](register.html) is now open!
 --->
 
-- 35 participants in 2 pre-formed teams (more to come on Friday 3/25)!
+- 35 participants in 2 pre-formed teams (more to come on Friday 4/12)!
 - 11 consultants
 - 3 judges
 
@@ -160,7 +160,7 @@ Along with your presentation you are also allowed to turn in a one-page write-up
 
 At 1pm on Sunday all work must stop and you must upload your presentation and your optional write up to the submission website linked at the top of this page (available starting Sunday AM). If you are having technical difficulty, you can ask a consultant for help. Consultants will be around to help.
 
-Teams who fail to upload their presentations and write-ups by 1:0pm on Sunday will not be eligible to have their presentations judged.
+Teams who fail to upload their presentations and write-ups by 1:00pm on Sunday will not be eligible to have their presentations judged.
 
 #### File naming
 
