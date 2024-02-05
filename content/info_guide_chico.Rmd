@@ -1,9 +1,6 @@
 ---
 title: "Participant Info & Guidelines"
-subtitle: https://chicodatafest.netlify.com/
-output:
-  html_document: default
-  pdf_document: default
+output: html_document
 ---
 
 
@@ -60,22 +57,22 @@ Hotels listed for less than approximately $100 per night are starred (\*).
 * [DoubleTree by Hilton](https://www.hilton.com/en/hotels/cicccdt-doubletree-chico/)
 * [Town House Motel\*](https://www.townhousemotelchio.us/)
 
-
+<!---
 ## Who is at ASA DataFest @ Chico State 2024? 
 
-<!---
+
 
 > [Registration](register.html) is now open!
---->
+
 
 - 35 participants in 2 pre-formed teams (more to come on Friday 4/12)!
 - 11 consultants
 - 3 judges
-
+--->
 
 ## Schedule
 
-The schedule is at https://chicodatafest.netlify.com/schedule/.
+The schedule is at https://norcaldatafest.netlify.com/schedule/.
 
 Registration sign in starts at 5pm on Friday. 
 
@@ -101,7 +98,7 @@ Did you know that, this year, DataFest will be held at over 70 universities arou
 
 An essential ingredient of Datafest is that the data be a surprise. There are several reasons for this. One is that it ensures that all teams start on an equal footing. Another is that, even if you research the organization that donated the data, you might still be totally unprepared for the context of the data (and maybe less prepared than had you known nothing!) Finally, it is simply more fun.
 
-You are encouraged to share your excitement on social media and thank our sponsors. The official Twitter hashtag is #ASAdatafest22. However...
+You are encouraged to share your excitement on social media and thank our sponsors. The official Twitter hashtag is #ASAdatafest24. However...
 
 PLEASE KEEP THE SECRET UNTIL MAY 4!. Teams that leak the name or any information about the identify of the data donor will be disqualified!
 
@@ -132,7 +129,7 @@ DataFest is software agnostic. If you can analyze and visualize data with it, it
 ### Python
 
 * You can use a Python instance from Google Colab https://colab.research.google.com/ or on binder https://mybinder.org/ 
-
+* New to Python? Check out Chico's short course [Intro to Python](https://roualdes.github.io/MATH131/intro.html). All material is avaiable freely from this site. 
 
 
 ## Data
