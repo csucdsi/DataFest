@@ -30,7 +30,7 @@ Teams can be made up of 2-5 students. [[Register your team here]](https://forms.
 
 *Do I have to compete in a team?*
 
-Yes, but if you don't have a pre-formed team you can [[leave us your info here]](https://forms.gle/M2crKHFtBDg8Ja43A) and we'll try to match you with others in the same boat. We will also be holding at least one team formation event prior to DataFest. 
+Yes, but if you don't have a pre-formed team you can [[leave us your info here]](https://docs.google.com/spreadsheets/d/1krf5bhp_LxuOaWDG7KQ4U6DbQ_U-3O0RM1xxxjutN9Y/edit#gid=0) and we'll try to match you with others in the same boat. We will also be holding at least one team formation event prior to DataFest. 
 
 *What do I need to bring?*
 
