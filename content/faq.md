@@ -26,7 +26,7 @@ We would love to have Masters students get involved as consultants during the ev
 
 *How large are the teams?*
 
-Teams can be made up of 2-5 students. [[Register your team here]](https://forms.gle/zDPFx5toc81x5FAy6)
+Teams can be made up of 2-5 students. [[Register your team here]](https://forms.gle/RAf3fP3SaSRJyJ6Y6)
 
 *Do I have to compete in a team?*
 
