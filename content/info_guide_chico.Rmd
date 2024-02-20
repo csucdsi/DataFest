@@ -219,7 +219,7 @@ We will collect resumes and share them with some of our sponsors. Participation 
 
 - Do not use any space other than Sylvesters, or work after midnight. Students found working in other areas or after midnight will be disqualified from the competition.
 
-- You must follow the Code of Conduct. This can be found at https://chicodatafest.netlify.com/faq/ and printed at the event. 
+- You must follow the Code of Conduct. This can be found at https://norcaldatafest.netlify.app/faq/ and printed at the event. 
 
 - Do not share the name of the data source publicly or on social media before May 4th. There are many other upcoming DataFests around the country and we want to make sure the dataset remains a surprise for them.
 
