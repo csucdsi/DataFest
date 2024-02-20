@@ -45,7 +45,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
  
  <tr>
     <td align="center" markdown="span"><img src="../img/clients/cs_logo_stacked.png" style="width:30%"></img></td>
-    <td>Supporting and enriching Northern California's Entrepreneurial Ecosystem and providing startups the resources they need to succeed. Our platform includes shared office amenities, mentoring, workshops, internships, tech talks, student to business projects, entrepreneurial events, think tanks, satellite office programs and anything else that helps our core mission of helping startups succeed. 
+    <td>ChicoSTART is an Accelerated by California Innovation Hub representing 20+ counties in the North State. We support and enrich Northern California’s entrepreneurial & tech ecosystem by providing startups the resources they need to start, grow and thrive. 
         <a href ="https://chicostart.com/">https://chicostart.com/</a></td>
   </tr>
   
@@ -53,7 +53,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 
   <tr>
     <td align="center" markdown="span"><img src="../img/clients/gt_logo_stacked.png" style="width:30%"></img></td>
-    <td> We are an industry lead partnership between tech and entrepreneur industry leaders and supporting community organizations modeled after the Next Gen Sector Partnerships Powered by Build with Ferguson.
+    <td> GrowTECH: Together we grow, support, and connect the thriving tech and entrepreneurial hub in Chico and Northern California.
         <a href ="https://growtech.io//">https://growtech.io/</a></td>
   </tr>
   
