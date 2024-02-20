@@ -6,35 +6,17 @@ title= "Supporting Data Fest in 3 ways"
     <link rel="stylesheet" href="style.css" />
 </html>
 
-<style>
-  img{
-    max-width: 100%;
-  }
-  td{
-    padding-right: 20px;
-    padding-bottom: 5px;
-  }
-  td.pic{
-    width: 30%
-  }
-  td.bio{
-    width: 60%
-  }
-</style>
 
 
-
-### Financial Contributions
+## Financial Contributions
 
 Participants are only allowed to work on this project while on site, so our biggest need is making sure they are well fed and caffeinated! Our fundraising goal is $4000 which will be spent entirely on food, t-shirts, collaboration supplies such as notepads, whiteboard markers, portable whiteboards, student travel support and prizes for the winners. 
 
 All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [Chico State DSI](http://datascience.csuchico.edu) website. 
 
 
-<table>
-<tr>
-  <td class=td.bio></td>
-  ### Donate online
+
+### Donate online
 
 Go to the [Chico State Giving website](https://securelb.imodules.com/s/1751/wide.aspx?sid=1751&gid=2&pgid=405&cid=1058). 
 
@@ -49,10 +31,6 @@ CSU, Chico Department of Mathematics and Statistics
 101 Holt Hall  
 400 West First Street 
 Chico, CA, 95929-525
-
-  <td class=td.pic><img src="../img/funding_meter.png"></td>
-</tr>
-</table>
 
 
 ### Giving Tiers
@@ -94,7 +72,7 @@ Contributors, please email your company bio, and a web-ready logo to datascience
 
 ---
 
-### Participate as a Consultant
+## Participate as a Consultant
 
 Money is helpful but so is your time! Spend an hour or two getting to know the students and offering your sage advice. This is an excellent recruiting opportunity; you get to watch students working in teams, under pressure, striving to understand possibly the most complex data set they have encountered. At other institutions, students have received internships and interviews that have led to full-time employment. Success at DataFest requires that a team have a combination of computational, statistical, and human skills, as well as the ability to communicate clearly and extremely concisely.
 
@@ -104,10 +82,13 @@ DataFest is open to non-Chico State students, which is a great opportunity for t
 
 Email us if you would like to be part of this safety coalition.  
 
-### Swag, giveaways, Prizes!!!
+---
+
+## Swag, giveaways, Prizes!!!
 
 Pens, note pads, USB drives, buttons... Students love these and they help make the event fun. If we get something special, we can give it away in a "late-night raffle" to help keep the energy level high.
 
+---
 
 ### Contact 
 
