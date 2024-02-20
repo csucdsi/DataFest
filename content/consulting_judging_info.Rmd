@@ -12,39 +12,53 @@ All information regarding the event can be found at https://norcaldatafest.netli
 
 ### Location
 
-Throughout the weekend students will work in the event room on campus. There are many places to park around campus. [Here is a link to an interactive map showing the event location and recommended parking.](https://www.google.com/maps/d/u/0/edit?mid=1T37DrPBRhMhvMuvecZpQqAjh7Ilq63c&usp=sharing) 
-
 <!---
 
-Throughout the weekend students will work in the event room on campus. There are many places to park around campus and downtown. [Here is a link to an interactive map showing the cafe, and parking nearby.](https://www.csuchico.edu/maps/campus/?id=1193#!m/316229?ce/0,31642,28505?ct/28506,36245,36247,36246,36473,36472,32703,32116,32115,32092,32068,32015,31198?mc/39.730033800326076,-121.84518098831178?z/17?lvl/0)
+Throughout the weekend students will work in the event room on campus. There are many places to park around campus. [Here is a link to an interactive map showing the event location and recommended parking.](https://www.google.com/maps/d/u/0/edit?mid=1T37DrPBRhMhvMuvecZpQqAjh7Ilq63c&usp=sharing) 
 
 --->
 
+Throughout the weekend students will work in the event room on campus. There are many places to park around campus and downtown. [Here is a link to an interactive map showing the cafe, and parking nearby.](https://www.csuchico.edu/maps/campus/?id=1193#!m/316229?ce/0,31642,28505?ct/28506,36245,36247,36246,36473,36472,32703,32116,32115,32092,32068,32015,31198?mc/39.730033800326076,-121.84518098831178?z/17?lvl/0)
+
+
+
 ### Transportation & Parking
+
+<!---
 
 * Parking Structure I provides the easiest access to Eureka Hall. [Click here for a map.](https://www.google.com/maps/d/u/0/edit?mid=1T37DrPBRhMhvMuvecZpQqAjh7Ilq63c&usp=sharing) 
 * Day parking is available for a small fee using the [PayByPhone app](https://www.paybyphone.com/drivers/how-it-works#step2). All student parking spaces double as day-use spaces for visitors.
 
-<!---
+--->
+
 * There is metered parking (free on weekends) on Citrus Ave and Legion Ave. 
 * There is additional free street parking near the Gateway Science Museum. 
 * Please don't park in the Bidwell Mansion parking lot or in the residential areas.
-* CSU, Chico offers some [further advice about parking](https://www.csuchico.edu/parking/wheretopark.shtml).
---->
+* CSU, Chico offers some [further advice about parking](https://www.csuchico.edu/parking/where-to-park/where.shtml).
+
 
 ### When you get there
 
 Please check in at registration desk, and grab your name tag and t-shirt (if you registered early) when you get in. It's helpful to students to be able to clearly identify consultants from participants. Judges will get a notepad and judging rubric along with their badge. 
 
+<!---
 # Who is at ASA DataFest @ Sacramento State 2023? 
 
 - 30 participants 
 - 8 consultants
 - 3 judges
 
+--->
+
 ## Contact
 
+<!---
+
 You are also welcome to join the event [Discord server](https://discord.gg/3Y33x6REXC). Your point of contact is Lauren Cappiello. Contact Lauren on Discord or via email at cappiello@csus.edu. Judges and consultants will receive additional contact information via email during the week leading up to the event. 
+--->
+
+Judges and consultants will receive additional contact information via email during the week leading up to the event. 
+
 
 # Data
 
