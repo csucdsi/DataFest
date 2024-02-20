@@ -6,6 +6,22 @@ title= "Supporting Data Fest in 3 ways"
     <link rel="stylesheet" href="style.css" />
 </html>
 
+<style>
+  img{
+    max-width: 100%;
+  }
+  td{
+    padding-right: 20px;
+    padding-bottom: 5px;
+  }
+  td.pic{
+    width: 30%
+  }
+  td.bio{
+    width: 60%
+  }
+</style>
+
 
 
 ### Financial Contributions
@@ -15,15 +31,14 @@ Participants are only allowed to work on this project while on site, so our bigg
 All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [Chico State DSI](http://datascience.csuchico.edu) website. 
 
 
-<div class = "row">
-<div class = "col-md-6">
+<table>
+<tr>
+  <td class=td.bio></td>
+  ### Donate online
 
-### Donate online
 Go to the [Chico State Giving website](https://securelb.imodules.com/s/1751/wide.aspx?sid=1751&gid=2&pgid=405&cid=1058). 
 
 Choose "Other Designation" and write in "_Data Science Initiative Fund #200685300_"
-
-<br>
 
 ### Donate by Check
 
@@ -35,16 +50,9 @@ CSU, Chico Department of Mathematics and Statistics
 400 West First Street 
 Chico, CA, 95929-525
 
-</div>
-<div class = "col-md-6">
-
-</br>
-
-<img src="../img/funding_meter.png">
-
-
-</div>
-</div>
+  <td class=td.pic><img src="../img/funding_meter.png"></td>
+</tr>
+</table>
 
 
 ### Giving Tiers
