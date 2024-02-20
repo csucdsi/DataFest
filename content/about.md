@@ -5,9 +5,9 @@ title = "About DataFest"
 
 <style>
 .button {
-  background-color: #04AA6D; 
+  background-color: #9D2235; 
   border: none;
-  color: #75787B;
+  color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
