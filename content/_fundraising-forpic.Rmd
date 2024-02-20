@@ -1,0 +1,33 @@
+---
+title: "Supporting Data Fest in 3 ways"
+output: html_document
+---
+
+This page just generates the image to be added to the md file. 
+
+```{r}
+# fundraising objective
+z <- 4000
+# amount gathered
+y <- 1950
+# pct
+pct <- y/z
+
+library(RColorBrewer)
+library(scales)
+png("static/img/funding_meter.png")
+cols <- brewer.pal(11, "RdYlGn")
+par(oma=c(0,0,0,0), mar=c(0,0,1,0))
+symbols(1, thermometers = cbind(.5, 1, min(1, pct)), 
+        fg = cols[min(11, round(pct*10))], inches=3, 
+        xlab = NA, ylab = NA, yaxt='n', xaxt='n', bty='n',  
+        main = paste("Funds raised as of", format(Sys.Date(), "%m-%d-%Y")))
+text(1, y=1.3, paste0(dollar(y), "/", dollar(z)))
+text(1, y=.9*pct, percent(pct),  offset = 3)
+dev.off()
+```
+
+</div>
+</div>
+
+

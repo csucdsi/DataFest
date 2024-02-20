@@ -1,12 +1,12 @@
----
-title: "Supporting Data Fest in 3 ways"
-output: html_document
----
++++
+title= "Supporting Data Fest in 3 ways"
++++
 
-# Updates for 2024 in process
-```{r setup, include=FALSE, echo=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
-```
+<html>
+    <link rel="stylesheet" href="style.css" />
+</html>
+
+
 
 ### Financial Contributions
 
@@ -40,26 +40,8 @@ Chico, CA, 95929-525
 
 </br>
 
-```{r}
-# fundraising objective
-z <- 4000
-# amount gathered
-y <- 1950
-# pct
-pct <- y/z
+<img src="../img/funding_meter.png">
 
-
-library(RColorBrewer)
-library(scales)
-cols <- brewer.pal(11, "RdYlGn")
-par(oma=c(0,0,0,0), mar=c(0,0,1,0))
-symbols(1, thermometers = cbind(.5, 1, min(1, pct)), 
-        fg = cols[min(11, round(pct*10))], inches=3, 
-        xlab = NA, ylab = NA, yaxt='n', xaxt='n', bty='n',  
-        main = paste("Funds raised as of", format(Sys.Date(), "%m-%d-%Y")))
-text(1, y=1.3, paste0(dollar(y), "/", dollar(z)))
-text(1, y=.9*pct, percent(pct),  offset = 3)
-```
 
 </div>
 </div>
@@ -122,4 +104,3 @@ Pens, note pads, USB drives, buttons... Students love these and they help make t
 ### Contact 
 
 For questions or more information on how you can support this amazing student event, please contact the Data Science Coordinator Robin Donatello at datascience@csuchchico.edu or 530-898-5767.
-
