@@ -28,12 +28,37 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   <tr><td height= "50"> </td> <td></td></tr>
   
   <tr>
-    <td><img src="../img/clients/DataScienceClubLogo.png style="width:60%"></img></td>
+    <td><img src="../img/clients/dsclub.png style="width:60%"></img></td>
     <td> The Data Science Club at Chico State is open to all students who are interested in data science. </td>
+  </tr>
+ 
+ <tr><td height= "50"> </td> <td></td></tr>
+ 
+ <tr>
+    <td align="center" markdown="span"><img src="../img/clients/CFE_BUS_wildcat_horizontal.png" style="width:30%"></img></td>
+    <td>Supporting and enriching Northern California's Entrepreneurial Ecosystem and providing startups the resources they need to succeed. Our platform includes shared office amenities, mentoring, workshops, internships, tech talks, student to business projects, entrepreneurial events, think tanks, satellite office programs and anything else that helps our core mission of helping startups succeed. 
+        <a href ="https://chicostart.com/">https://chicostart.com/</a></td>
+  </tr>
+  
+  
+  <tr><td height= "50"> </td> <td></td></tr>
+ 
+ <tr>
+    <td align="center" markdown="span"><img src="../img/clients/cs_logo_stacked.png" style="width:30%"></img></td>
+    <td>Supporting and enriching Northern California's Entrepreneurial Ecosystem and providing startups the resources they need to succeed. Our platform includes shared office amenities, mentoring, workshops, internships, tech talks, student to business projects, entrepreneurial events, think tanks, satellite office programs and anything else that helps our core mission of helping startups succeed. 
+        <a href ="https://chicostart.com/">https://chicostart.com/</a></td>
   </tr>
   
   <tr><td height= "50"> </td> <td></td></tr>
-    
+
+  <tr>
+    <td align="center" markdown="span"><img src="../img/clients/gt_logo_stacked.png" style="width:30%"></img></td>
+    <td> We are an industry lead partnership between tech and entrepreneur industry leaders and supporting community organizations modeled after the Next Gen Sector Partnerships Powered by Build with Ferguson.
+        <a href ="https://growtech.io//">https://growtech.io/</a></td>
+  </tr>
+  
+  <tr><td height= "50"> </td> <td></td></tr>
+  
    <tr>
     <td><img src="../img/clients/asa_logo.jpg" style="width:60%"></img></td>
     <td>The American Statistical Association is the National coordinating organization of DataFest. 
