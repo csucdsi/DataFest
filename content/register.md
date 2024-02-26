@@ -8,12 +8,13 @@ title= "Registration open until March 29, 2024"
 <br>
 
 
-## [Register as a helper](https://forms.gle/tmXJdqTNNLJSunbw7) 
+## <img src="../img/consultation.png"> [Register as a helper](https://forms.gle/tmXJdqTNNLJSunbw7) 
 
-* This could be as a roaming consultant <img src="../img/consultation.png"> 
-* A Presentation Judge <img src="../img/judge.png">
+* This could be as a coach 
+* A presentation judge
 * Or just a general helper (e.g. setup/breakdown, food runs etc) 
 
+[add coach explanation here]
 
 ---
 
