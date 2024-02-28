@@ -29,7 +29,7 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Register"
+    name = "Participate"
     url  = "/register/"
     weight = 3
 
