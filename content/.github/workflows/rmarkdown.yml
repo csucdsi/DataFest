@@ -1,0 +1,26 @@
+name: Render R Markdown to HTML
+
+on:
+  push:
+    branches:
+      - yazmin-chiq-patch-1 # Change this to the branch you are working on
+
+jobs:
+  render-rmd:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up R
+      uses: r-lib/actions/setup-r@v1
+      with:
+        r-version: '4.1'
+
+    - name: Install dependencies
+      run: |
+        Rscript -e "install.packages(c('rmarkdown', 'knitr'))"
+
+    - name: Render Rmd to HTML
+      run: Rscript -e "rmarkdown::render('consulting_judging_info.Rmd')"
