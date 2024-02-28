@@ -10,7 +10,7 @@ title= "Supporting Data Fest in 3 ways"
 
 ## Financial Contributions
 
-Participants are only allowed to work on this project while on site, so our biggest need is making sure they are well fed and caffeinated! Our fundraising goal is $4000 which will be spent entirely on food, t-shirts, collaboration supplies such as notepads, whiteboard markers, portable whiteboards, student travel support and prizes for the winners. 
+Participants are only allowed to work on this project while on site, so our biggest need is making sure they are well fed and caffeinated! **Our fundraising goal for 2024 is $4000** which will be spent entirely on food, t-shirts, collaboration supplies such as notepads, whiteboard markers, portable whiteboards, student travel support and prizes for the winners. 
 
 All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [Chico State DSI](http://datascience.csuchico.edu) website. 
 
