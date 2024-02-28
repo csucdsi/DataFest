@@ -1,5 +1,5 @@
 ---
-title: "Consultant & Judge Information"
+title: "Coach & Judge Information"
 subtitle: https://norcaldatafest.netlify.com/
 output:
   html_document: default
