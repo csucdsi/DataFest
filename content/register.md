@@ -3,14 +3,32 @@ title= "Registration open until March 29, 2024"
 +++
 
 
+<style>
+.button {
+  background-color: #9D2235; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+</style>
+
 ## <img src="../img/team.png"> [Participate as an Undergraduate Student Participant](https://forms.gle/NhJSSe6GNVooocucA)
 
-<br>
+<a href="/info_guide_chico"><button class="button">Participant guide</button></a>
 
+<br>
 
 ## <img src="../img/consultation.png"> [Participate as an Event Helper](https://forms.gle/tmXJdqTNNLJSunbw7) 
 
 This could be as a **Coach**, a **Judge** or a general **event volunteer**. 
+
+<a href="/coach_judge_info"><button class="button">Volunteer guide</button></a>
+
 
 #### Coach
 **Coaches** walk around and talk with teams to see how they're doing. Help  them brainstorm ideas, refine ideas and most importantly help them come  back to reality in what is feasible in the 2 day period. Sometimes teams  have amazing ideas but either the data they need to answer their  question isn't collected/available, or the effort to complete the idea  is much larger than they realize. So trimming down ideas.
