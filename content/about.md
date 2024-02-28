@@ -21,7 +21,7 @@ title = "About DataFest"
 
 The [American Statistical Association’s](https://ww2.amstat.org/education/datafest/) DataFest, founded at UCLA in 2011, is a 48-hour data analysis competition in which undergraduate students from various majors get to work in teams on large, complex, and real-world data. The data is kept secret until opening of the event on Friday evening and teams present their findings to a panel of judges on Sunday afternoon. Students explore, analyze, and visualize the data to discover insights. No prior knowledge of programming or data visualization is necessary! 
 
-Previous years’ data sets have included crime data from the LAPD, dating data from eHarmony, and energy use data from GridPoint. This year’s data set will be revealed at the opening of the event on Friday evening. 
+Previous years’ data sets have included crime data from the LAPD, dating data from eHarmony, and even data from the Canadian Olympic Women's rugby team. This year’s data set will be revealed at the opening of the event on Friday evening. 
 
 At the conclusion of the competition, each team will have 5 minutes and 2 slides to make a presentation to a panel of judges. Judges will select teams to win prizes for areas such as “Best Insight”, "Best Visualization", and "Best use of External Data". 
 
@@ -43,7 +43,7 @@ The mission of DataFest is to expose undergraduate students to challenging quest
 _Updated for 2024._
 
 <a href="/info_guide_chico"><button class="button">For Participants</button></a>
-<a href="/consulting_judging_info"><button class="button">For Coaches & Judges</button></a>
+<a href="/coach_judge_info"><button class="button">For Coaches & Judges</button></a>
 
 ---
 

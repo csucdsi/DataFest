@@ -8,18 +8,23 @@ title= "Registration open until March 29, 2024"
 <br>
 
 
-## <img src="../img/consultation.png"> [Participate as a Coach](https://forms.gle/tmXJdqTNNLJSunbw7) 
+## <img src="../img/consultation.png"> [Participate as an Event Helper](https://forms.gle/tmXJdqTNNLJSunbw7) 
 
-Coaches walk around and talk with teams to see how they're doing. Help  them brainstorm ideas, refine ideas and most importantly help them come  back to reality in what is feasible in the 2 day period. Sometimes teams  have amazing ideas but either the data they need to answer their  question isn't collected/available, or the effort to complete the idea  is much larger than they realize. So trimming down ideas.
+This could be as a **Coach**, a **Judge** or a general **event volunteer**. 
+
+#### Coach
+**Coaches** walk around and talk with teams to see how they're doing. Help  them brainstorm ideas, refine ideas and most importantly help them come  back to reality in what is feasible in the 2 day period. Sometimes teams  have amazing ideas but either the data they need to answer their  question isn't collected/available, or the effort to complete the idea  is much larger than they realize. So trimming down ideas.
 
 Experience  with coding languages can be helpful, but not necessary. A general  ability to help them google the information is enough. For example, one  year the competition data involved certain substance use rates across a  geographic area. Some teams wanted to pull in census data to correlate  population demographic with substance use at the county level. That team  needed help figuring out where to get county level census information,  identifying what keys to join on and thinking about what level of  aggregation was reasonable to match on or display.
 
+#### Judge
 
-## [Participate as a Judge](https://forms.gle/tmXJdqTNNLJSunbw7)
+Judges spend a few hours on Sunday listening to presentations, deliberating and awarding prizes. We strive to have a diverse panel of judges with at least one subject matter expert. 
 
+#### Event Volunteer
 
-## [Help with event planning and setup](https://forms.gle/tmXJdqTNNLJSunbw7)
- 
+This is a fully volunteer run event! We need people to do food pickups and meal setup, setup and breakdown, staff the registration desk to check students in, keep the snack table stocked, put up signage and answer questions as needed. 
+
 
 ---
 

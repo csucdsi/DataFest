@@ -1,7 +1,6 @@
----
-title: "Participant Info & Guidelines"
-output: html_document
----
++++
+title= "Participant Info & Guidelines"
++++
 
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
@@ -232,5 +231,6 @@ We will collect resumes and share them with some of our sponsors. Participation 
 - Please do not tweet, create a TikTok, hashtag, Facebook, snapchat, etc about the identify of the donor or the context of the data. This means you should refrain from any hints, explicit or implicit statements that might reveal the context of the data.
 
 - Be careful about github repositories. Make sure yours is invisible to the outside world.
+
 
 

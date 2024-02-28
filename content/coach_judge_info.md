@@ -1,10 +1,7 @@
----
-title: "Coach & Judge Information"
-subtitle: https://norcaldatafest.netlify.com/
-output:
-  html_document: default
-  pdf_document: default
----
++++
+title= "Coach & Judge Information"
++++
+
 
 # General Event Info 
 
@@ -57,12 +54,12 @@ Please check in at registration desk, and grab your name tag and t-shirt (if you
 You are also welcome to join the event [Discord server](https://discord.gg/3Y33x6REXC). Your point of contact is Lauren Cappiello. Contact Lauren on Discord or via email at cappiello@csus.edu. Judges and coaches will receive additional contact information via email during the week leading up to the event. 
 --->
 
-Judges and coaches will receive additional contact information via email during the week leading up to the event. 
+You are also welcome to join the event [Discord server](https://discord.gg/3Y33x6REXC). Your point of contact is Robin Donatello. Contact Robin on Discord or via email at rdonatello@csuchico.edu. Judges and coaches will receive additional contact information via email during the week leading up to the event. 
 
 
 # Data
 
-<span style="color:red">Please note that this information is currently TOP SECRET!!!</span> We do not want it getting out to anybody until all other locations are done with their DataFest in later weeks.
+<span style="color:red">Please note that information about the data is currently TOP SECRET!!!</span> We do not want it getting out to anybody until all other locations are done with their DataFest in later weeks.
 
 All **judges** will receive a link to a document containing information on the data. Please let Lauren know if you have not received the invite. Any coaches who would like access to this document, please contact Lauren to request access.
 
@@ -77,10 +74,9 @@ their event at different times.
 An essential ingredient of Datafest is that the data be a surprise. There are several reasons for this. One is that it ensures that all teams start on an equal footing. Another is that, even if you research the organization that donated the data, you might still be totally unprepared for the context of the data (and maybe less prepared than had you known nothing!) Finally, it is simply more fun.
 
 You are encouraged to share your excitement on social media and thank our sponsors. 
-The official Twitter hashtag is #ASADatafest22 However...
+The official social media hashtag is #ASADatafest24 However...
 
-PLEASE KEEP THE SECRET UNTIL MAY 4th! Teams that leak the name or any information
-about the identify of the data donor will be disqualified!
+PLEASE KEEP THE SECRET UNTIL April 26th! Teams that leak the name or any information about the identify of the data donor will be disqualified!
 
 Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might
 reveal the data donor.
@@ -110,10 +106,12 @@ We expect presentations to take approximately one hour, but ask judges to plan t
 
 All parties are welcome to attend the introduction to the data and the judging event. 
 
-You should have received a schedule of coach hours via email. 
+
+A more detailed schedule of coach and coordinator hours is in progress and will be posted and emailed to you prior to the event. 
 
 <!---
-A more detailed schedule of coach and coordinator hours is in progress and will be posted and emailed to you prior to the event. 
+You should have received a schedule of coach hours via email. 
+
 
 can be found [in this Google document](https://docs.google.com/spreadsheets/d/1BA_FlTaCEctfSfXAAheNxecT38ykV2_xMJ6Ee92ek0g/edit?usp=sharing). If your schedule is incorrect (or you want to add more hours) please contact Robin directly. 
 
@@ -140,3 +138,5 @@ At least one helper will also be in the room with you to run the session, keep t
 ASA DataFest has become an annual event that is now being officially sponsored by the American Statistical Association and held at numerous locations with participation from a large number of universities. We hope to grow the event further in the coming years. With that in mind, please send us any advice or constructive criticisms that will help us improve this event in the future to cappiello@csus.edu or to datascience@csuchico.edu. 
 
 Our primary goal is to provide a rewarding experience for the undergraduates, an experience that sharpens their analytical skills and gives them some confidence that they can take what they learn here out into the real world.
+
+
