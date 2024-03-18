@@ -11,7 +11,8 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 
 ----
 
-## Acknowledgements
+## Terabye Sponsors
+
 
 <table border="0" align="center">
 <colgroup>
@@ -20,23 +21,9 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 </colgroup>
 
   <tbody>
-    <tr>
-    <td><img src="../img/clients/DSI_Logo_Horizontal_Small.jpg" style="width:60%"></img></td>
-    <td> The Data Science Initiative at Chico State aims to be a hub of DS information and resources for campus and community. Our vision is to foster a data-empowered society working within a culture of open science. See more at <a href="https://www.csuchico.edu/datascience">https://www.csuchico.edu/datascience</a>. </td>
-  </tr>
-  
-  <tr><td height= "50"> </td> <td></td></tr>
-  
-  <tr>
-    <td><img src="../img/clients/dsclub.png" style="width:60%"></img></td>
-    <td> The Data Science Club at Chico State is open to all students who are interested in data science. </td>
-  </tr>
- 
- <tr><td height= "50"> </td> <td></td></tr>
- 
  <tr>
     <td align="left" markdown="span"><img src="../img/clients/CFE_BUS_wildcat_horizontal.png" style="width:50%"></img></td>
-    <td>Supporting and enriching Northern California's Entrepreneurial Ecosystem and providing startups the resources they need to succeed. Our platform includes shared office amenities, mentoring, workshops, internships, tech talks, student to business projects, entrepreneurial events, think tanks, satellite office programs and anything else that helps our core mission of helping startups succeed. 
+    <td>The Center for Entrepreneurship is dedicated to providing the resources, inspiration, support, and mentorship to help inspired learners and doers develop ideas and launch valuable businesses. We seek to build a cohesive and collaborative interdisciplinary environment that brings together the resources of the university, community and private sector.
         <a href ="https://chicostart.com/">https://chicostart.com/</a></td>
   </tr>
   
@@ -57,6 +44,40 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
         <a href ="https://growtech.io//">https://growtech.io/</a></td>
   </tr>
   
+
+  <tr><td height= "50"> </td> <td></td></tr>
+
+  <tr>
+    <td align="left" markdown="span"><img src="../img/clients/sap" style="width:40%"></img></td>
+    <td> The SAP University Competence Center (UCC) at California State University, Chico is one of only five UCCs throughout the world. The center provides hosting services and technical support to universities that participate in SAP’s University Alliance.
+        <a href ="https://sap.cob.csuchico.edu/">[https://growtech.io/](https://sap.cob.csuchico.edu/)</a></td>
+  </tr>
+  
+  </tbody>
+</table>
+
+
+## Organizing Partners
+
+<table border="0" align="center">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+
+  <tbody>
+    <tr>
+    <td><img src="../img/clients/DSI_Logo_Horizontal_Small.jpg" style="width:60%"></img></td>
+    <td> The Data Science Initiative at Chico State aims to be a hub of DS information and resources for campus and community. Our vision is to foster a data-empowered society working within a culture of open science. See more at <a href="https://www.csuchico.edu/datascience">https://www.csuchico.edu/datascience</a>. </td>
+  </tr>
+  
+  <tr><td height= "50"> </td> <td></td></tr>
+  
+  <tr>
+    <td><img src="../img/clients/dsclub.png" style="width:40%"></img></td>
+    <td> The Data Science Club at Chico State is open to all students who are interested in data science. See them at https://dsclub.carrd.co/ </td>
+  </tr>
+
   <tr><td height= "50"> </td> <td></td></tr>
   
    <tr>
