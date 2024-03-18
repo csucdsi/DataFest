@@ -28,7 +28,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   <tr><td height= "50"> </td> <td></td></tr>
   
   <tr>
-    <td><img src="../img/clients/dsclub.png style="width:60%"></img></td>
+    <td><img src="../img/clients/dsclub.png" style="width:60%"></img></td>
     <td> The Data Science Club at Chico State is open to all students who are interested in data science. </td>
   </tr>
  
