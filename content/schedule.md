@@ -45,7 +45,7 @@ Don't have a pre-formed team? Stay tuned for a team formation event one week pri
  
 * 5pm - Registration sign in. 
 * 5:30pm - Kickoff presentation. Meet the data!
-* 6 - Dinner
+* 6pm - Dinner
 * Room open until 12 midnight
 
 
@@ -54,15 +54,16 @@ Don't have a pre-formed team? Stay tuned for a team formation event one week pri
 
 * 8am - Breakfast    
 * 12pm - Lunch
+* 4pm - Pictures with Chico State President Stephen Perez 
 * 6:00pm - Dinner
-* Room open  until 12 midnight 
+* Room open until 12 midnight 
 
 ## Sunday, April 14th, 2024  
 **Wrap up!**  
  
 * 8am - Breakfast    
 * 10am - Presentations due. 
-* 10:30-12 - Presentations and judges' deliberations    
+* 10:30am -12pm - Presentations and judges' deliberations    
 * 12-12:30pm - Award ceremony & Lunch      
 
 
