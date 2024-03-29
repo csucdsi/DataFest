@@ -93,3 +93,19 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 </table>
 
 
+## Acknowledgements
+
+
+<table border="0" align="center">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+
+   <tbody>
+   <tr>
+   <td align="left" markdown="span"><img src="../img/clients/StobleLogo.png" style="width:50%"></img></td>
+    <td> Stoble Coffee has generously donated tasty coffee to help keep all of us going throughout the event! Stoble is a transparent specialty coffee roaster in Chico, working to bring people and their ideas together. Check out their coffee site at <a href="https://stoblecoffee.com/">https://stoblecoffee.com/</a> and coworking site: <a href="https://www.stobleworkplace.com/">https://www.stobleworkplace.com/</a>. </td>
+        </tr>
+        </tbody>
+</table>
