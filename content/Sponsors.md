@@ -50,7 +50,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   <tr>
     <td align="left" markdown="span"><img src="../img/clients/sap" style="width:40%"></img></td>
     <td> The SAP University Competence Center (UCC) at California State University, Chico is one of only five UCCs throughout the world. The center provides hosting services and technical support to universities that participate in SAP’s University Alliance.
-        <a href ="https://sap.cob.csuchico.edu/">[https://growtech.io/](https://sap.cob.csuchico.edu/)</a></td>
+        <a href ="https://sap.cob.csuchico.edu/">(https://sap.cob.csuchico.edu/)</a></td>
   </tr>
   
   </tbody>
