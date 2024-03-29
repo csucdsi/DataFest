@@ -48,7 +48,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   <tr><td height= "50"> </td> <td></td></tr>
 
   <tr>
-    <td align="left" markdown="span"><img src="../img/clients/sap.jpeg" style="width:40%"></img></td>
+    <td align="left" markdown="span"><img src="../img/clients/sap.jpeg" style="width:30%"></img></td>
     <td> The SAP University Competence Center (UCC) at California State University, Chico is one of only five UCCs throughout the world. The center provides hosting services and technical support to universities that participate in SAP’s University Alliance.
         <a href ="https://sap.cob.csuchico.edu/">(https://sap.cob.csuchico.edu/)</a></td>
   </tr>
@@ -103,8 +103,9 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 </colgroup>
 
    <tbody>
+       <tr><td height= "50"> </td> <td></td></tr>
    <tr>
-   <td align="left" markdown="span"><img src="../img/clients/StobleLogo.png" style="width:50%"></img></td>
+   <td align="left" markdown="span"><img src="../img/clients/StobleLogo.png" style="width:40%"></img></td>
     <td> Stoble Coffee has generously donated tasty coffee to help keep all of us going throughout the event! Stoble is a transparent specialty coffee roaster in Chico, working to bring people and their ideas together. Check out their coffee site at <a href="https://stoblecoffee.com/">https://stoblecoffee.com/</a> and coworking site: <a href="https://www.stobleworkplace.com/">https://www.stobleworkplace.com/</a>. </td>
         </tr>
         </tbody>
