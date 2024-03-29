@@ -48,7 +48,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   <tr><td height= "50"> </td> <td></td></tr>
 
   <tr>
-    <td align="left" markdown="span"><img src="../img/clients/sap" style="width:40%"></img></td>
+    <td align="left" markdown="span"><img src="../img/clients/sap.jpeg" style="width:40%"></img></td>
     <td> The SAP University Competence Center (UCC) at California State University, Chico is one of only five UCCs throughout the world. The center provides hosting services and technical support to universities that participate in SAP’s University Alliance.
         <a href ="https://sap.cob.csuchico.edu/">(https://sap.cob.csuchico.edu/)</a></td>
   </tr>
@@ -75,7 +75,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   
   <tr>
     <td><img src="../img/clients/dsclub.png" style="width:40%"></img></td>
-    <td> The Data Science Club at Chico State is open to all students who are interested in data science. See them at https://dsclub.carrd.co/ </td>
+    <td> The Data Science Club at Chico State is open to all students who are interested in data science. See them at https://dsclub.carrd.co/</a>. </td>
   </tr>
 
   <tr><td height= "50"> </td> <td></td></tr>
