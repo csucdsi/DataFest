@@ -148,15 +148,17 @@ We strongly recommend you create a small data set that you can use to test thing
 
 Each team will have 4 minutes + 1 minute Q&A to present their findings to the judges. That’s exactly 4 minutes, not 4 minutes and a few additional seconds. Each team will be allowed at most two slides. Two! So at some point Saturday night or Sunday morning, you might want to set aside time to think about what you want the judges to know. The 4 minute presentation and 1 minute Q&A time limits will be strictly enforced. All team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).
 
+Video or pre-recorded presentations are not allowed. 
+
 **Optional**
 
 Along with your presentation you are also allowed to turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges can refer to these during deliberation. You will upload these documents along with your presentation. Only 1 page will be printed. 
 
 #### Submitting your presentation
 
-At 1pm on Sunday all work must stop and you must upload your presentation and your optional write up to the submission website linked at the top of this page (available starting Sunday AM). If you are having technical difficulty, you can ask a consultant for help. Consultants will be around to help.
+At the specified time on Sunday, all work must stop and you must upload your presentation and your optional write up to the submission website linked at the top of this page (available starting Sunday AM). If you are having technical difficulty, you can ask a coach or event coordinator for help. 
 
-Teams who fail to upload their presentations and write-ups by 1:00pm on Sunday will not be eligible to have their presentations judged.
+Teams who fail to upload their presentations and write-ups will not be eligible to have their presentations judged.
 
 #### File naming
 
@@ -175,24 +177,16 @@ Note that you will not have time to log on/off to your account before your prese
 ## Judging
 
 The Judges will convene in a side room to deliberate and rank their nominations. 
-Three of these will be selected for the award categories listed below. 
-The judges also have the option to name a fourth winner as Judges' Pick.
-
-
-All are welcomed to the presentations and award ceremony.
-
-## Awards
 
 Awards will be given in three categories:
 
-- Best Insight
-- Best Use of Outside Data
+- Best Discovery
+- Best Statistical Analysis
 - Best Visualization
 
 These are listed in no particular order.
 
 The judges also have the option to name a fourth winner as Judges' Pick.
-
 
 Winners will receive medals and books as well as one-year student memberships to the American Statistical Association. See http://www.amstat.org/membership/ for membership benefits.
 
@@ -207,9 +201,7 @@ DataFest is a great recruiting opportunity for many employers, and surely they w
 
 Many of our sponsors are attending the event so you can find out more about them. 
 
-Most of our consultants are coming from companies who are recruiting or at a minimum wanting to meet you, so chat with them, find out what they do, network.
-
-We will collect resumes and share them with some of our sponsors. Participation in the resume book is optional, but highly recommended. You will receive information about this during the event.
+Most of our coaches are coming from companies who are recruiting or at a minimum wanting to meet you, so chat with them, find out what they do, network.
 
 
 # Rules
