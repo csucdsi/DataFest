@@ -77,10 +77,10 @@ Registration sign in starts at 5pm on Friday.
 
 You are of course free to come and go as you please throughout the event, but here are the times all team members should plan to be on premises:
 
-- Friday 5-5:30pm - registration & kickoff session
+- Friday 5pm - Registration & Data reveal
 - Saturday afternoon - group photo. Exact time to be announced via Discord 
-- Sunday 1pm - Presentation submissions due
-- Sunday 2pm - Presentations to Judges and awards ceremony
+- Sunday 10 am - Presentation submissions due
+- Sunday 10:30 am - Presentations to Judges and awards ceremony
 
 ## Food & Caffeine
 Our goal is to keep you fed & caffeinated all weekend long. Check the Schedule for mealtimes. 
