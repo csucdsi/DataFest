@@ -54,7 +54,6 @@ Don't have a pre-formed team? Stay tuned for a team formation event one week pri
 
 * 8am - Breakfast    
 * 12pm - Lunch
-* 4pm - Pictures with Chico State President Stephen Perez
 * 6:00pm - Dinner
 * Room open until 12 midnight 
 
@@ -63,7 +62,7 @@ Don't have a pre-formed team? Stay tuned for a team formation event one week pri
  
 * 8am - Breakfast    
 * 10am - Presentations due. 
-* 10:30am-12pm - Presentations and judges' deliberations    
-* 12-12:30pm - Award ceremony & Lunch      
+* 10:30am-12pm - Presentations and judges' deliberations. Special guest: Chico State President Perez   
+* 12:30-1 - Award ceremony 
 
 
