@@ -1,5 +1,5 @@
 +++
-title= "Registration open until March 29, 2024"
+title= "Registration open until March 28, 2025"
 +++
 
 
@@ -17,13 +17,13 @@ title= "Registration open until March 29, 2024"
 }
 </style>
 
-## <img src="../img/team.png"> [Participate as an Undergraduate Student Participant](https://forms.gle/NhJSSe6GNVooocucA)
+## <img src="../img/team.png"> [Participate as an Undergraduate Student Participant](https://forms.gle/WQLUZY2DMHZcs62Z8)
 
 <a href="/info_guide_chico"><button class="button">Participant guide</button></a>
 
 <br>
 
-## <img src="../img/consultation.png"> [Participate as an Event Helper](https://forms.gle/tmXJdqTNNLJSunbw7) 
+## <img src="../img/consultation.png"> [Participate as an Event Helper](https://forms.gle/9mHyqLHFK67rEMYj6) 
 
 This could be as a **Coach**, a **Judge** or a general **event volunteer**. 
 

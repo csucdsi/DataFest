@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Data Fest 2024"
+title = "NorCal Data Fest"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -60,10 +60,10 @@ paginate = 10
     viewMorePostLink = "/blog/"
     author = "Robin Donatello"
     defaultKeywords = ["data"]
-    defaultDescription = "Data Fest at Chico State"
+    defaultDescription = "DataFest"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    # googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
@@ -83,25 +83,19 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "datascience@csuchico.edu"
 
-    about_us = "<p>Data Fest is organized by the Data Science Initiative at Chico State. Learn more at <a href='http://datascience.csuchico.edu'>http://datascience.csuchico.edu</a></p>"
-    copyright = "Copyright (c) 2018 - 2024, CSUC DSI; all rights reserved."
+    about_us = "<p>Data Fest is organized by a collaboration of Statistics faculty at CSU Chico, and CSU Sacramento</p>"
+    copyright = "Copyright (c) 2018 - 2025, CSUC DSI; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    address = """<p><strong>Data Science Initiative</strong>
-        <br>attn: Robin Donatello
-        <br>Holt Hall 101
-        <br>400 West First Street
-        <br>California State University, Chico
-        <br>Chico
-        <br>California
-        <br>
-        <strong>United States</strong>
-      </p>
-      """
+   # address = """<p><strong>Data Science Initiative</strong>
+  #      <br>attn: Robin Donatello
+   #     <br>Holt Hall 101
+   #   </p>
+    #  """
     #latitude = "39.7285"
     #longitude = "121.8375"
 
@@ -141,7 +135,7 @@ paginate = 10
     #title = "Past Events at Chico"
     #subtitle = "stuff"
     link_url = "/past_events/"
-    link_text = "Past Events at Chico"
+    link_text = "Past Events"
 
 
 [params.testimonials]
@@ -157,7 +151,7 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our 2024 Sponsors"
+    title = "Our 2025 Sponsors"
     subtitle = "DataFest would not be able to run without the support from the following individuals and organizations. To learn how you can contribute check the page on Supporting DataFest."
 
 
