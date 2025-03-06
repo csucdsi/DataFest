@@ -1,10 +1,7 @@
 +++ 
-title= "Schedule of Events" 
+title = "Schedule of Events" 
+css =  "css/custom.css"
 +++
-
-<html>
-    <link rel="stylesheet" href="style.css" />
-</html>
 
 <!---
 
@@ -37,27 +34,28 @@ You are of course free to come and go as you please throughout the event, but he
 Don't have a pre-formed team? Stay tuned for a team formation event one week prior to DataFest
 
 ------------------------------------------------------------------------
+ 
+## Event Weekend
 
-# GO!
+Exact times are subject to change as needed.
 
-## Friday, April 11th, 2024
+### Friday, April 11th, 2025
 
 **Welcome!**
 
--   5:00-10:00pm
-
-<!-- Come back to update specifics following this template:
 * 5pm - Registration sign in. 
 * 5:30pm - Kickoff presentation. Meet the data!
 * 6pm - Dinner
 * Room open until 12 midnight
--->
 
-## Saturday, April 12th, 2024
+### Saturday, April 12th, 2025
 
 **Carry on!**
 
--   9:00am-10:00am
+* 9am - Doors open & Breakfast
+* 12pm - Lunch
+* 6:00pm - Dinner
+* Room open until 10pm
 
 <!-- Come back to update specifics following this template:
 * 8am - Breakfast    
@@ -66,11 +64,13 @@ Don't have a pre-formed team? Stay tuned for a team formation event one week pri
 * Room open until 12 midnight 
 -->
 
-## Sunday, April 13th, 2024
+### Sunday, April 13th, 2025
 
 **Wrap up!**
 
--   9:00am-12:00pm
+* 9am  - Doors open 
+* 10am - Presentations
+* 11am - Judges' deliberations & Award ceremony 
 
 <!-- Come back to update specifics following this template:
 * 8am - Breakfast

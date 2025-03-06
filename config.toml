@@ -11,6 +11,7 @@ googleAnalytics = "UA-122708636-2"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+
 # Define the number of posts per page
 paginate = 10
 
@@ -18,34 +19,39 @@ paginate = 10
 
 # Main menu
 
+#[[menu.main]]
+#    name = "Home"
+#    url  = "/"
+#    weight = 1
+
 [[menu.main]]
-    name = "Home"
-    url  = "/"
+    name = "Register"
+    url  = "/register/"
     weight = 1
 
-[[menu.main]]
-    name = "About"
-    url  = "/about/"
-    weight = 2
-
-[[menu.main]]
-    name = "Participate"
-    url  = "/register/"
-    weight = 3
-
-[[menu.main]]
-    name = "Supporting DataFest"
-    url  = "/Sponsors/"
-    weight = 3
+#[[menu.main]]
+#    name = "Supporting DataFest"
+#    url  = "/Sponsors/"
+#    weight = 3
 
 [[menu.main]]
     name = "Schedule"
     url  = "/schedule/"
-    weight = 4
+    weight = 2
 
 [[menu.main]]
-    name = "FAQ"
+    name = "Past Events"
+    url  = "/past_events/"
+    weight = 3
+
+[[menu.main]]
+    name = "Additional Information"
     url  = "/faq/"
+    weight = 4
+    
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
     weight = 5
     
 # Top bar social links menu
@@ -89,8 +95,8 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo-small-sac.png"
+    logo = "img/logo_corner_sac.png"
+    logo_small = "img/logo_corner_sac.png"
    # address = """<p><strong>Data Science Initiative</strong>
   #      <br>attn: Robin Donatello
    #     <br>Holt Hall 101
@@ -174,3 +180,8 @@ paginate = 10
 
 
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

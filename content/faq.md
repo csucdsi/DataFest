@@ -2,53 +2,56 @@
 title = "Info" 
 +++
 
-DataFest is a nationally-coordinated undergraduate competition in which teams of up to 5 students work over a weekend to extract insight from a rich and complex data set. Previous years' data sets have included crime data from the LAPD, dating data from eHarmony, and energy use data from GridPoint. This year's data set will be revealed at the opening of the event on Friday evening.
+## What is DataFest? 
 
-At the conclusion of the competition, each team will have 5 minutes and 2 slides to make a presentation to a panel of judges. Judges will select teams to win prizes for areas such as "Best Insight", "Best Visualization", "Best use of external data", and one judges's personal favorite "Best Garbage Detection".
+
+The [American Statistical Association's](https://ww2.amstat.org/education/datafest/) DataFest, founded at UCLA in 2011, is a 48-hour data analysis competition in which undergraduate students from various majors get to work in teams on large, complex, and real-world data. The data is kept secret until opening of the event on Friday evening and teams present their findings to a panel of judges on Sunday afternoon. Students explore, analyze, and visualize the data to discover insights. No prior knowledge of programming or data visualization is necessary!
+
+Previous years' data sets have included crime data from the LAPD, dating data from eHarmony, and even data from the Canadian Olympic Women's rugby team. This year's data set will be revealed at the opening of the event on Friday evening.
+
+At the conclusion of the competition, each team will have 5 minutes and 2 slides to make a presentation to a panel of judges. Judges will select teams to win prizes for areas such as "Best Insight", "Best Visualization", and "Best use of External Data".
 
 The mission of DataFest is to expose undergraduate students to challenging questions with immediate real-world significance that can be addressed through data analysis. By working in teams, students with varying skill sets will combine their efforts and expand their collective data analysis horizons. Interaction among students, as well as with outside coaches will promote the sense that data analysis is a dynamic, engaging, and vibrant part of our society, as well as a realistic, practical, and fun career path.
 
-------------------------------------------------------------------------
+## Frequently Asked Questions
 
-## FAQ
-
-*Is there a registration fee?*
+### Is there a registration fee?
 
 No! This is a free event!
 
-*Who is eligible to compete?*
+### Who is eligible to compete?
 
 All undergraduate students from any school in the Northern California Region are eligible to compete.
 
-*What about MS students?*
+### What about MS students?
 
 We would love to have Masters students get involved as coaches during the event.
 
-*How large are the teams?*
+### How large are the teams?
 
 Teams can be made up of 2-5 students. [\[Register your team here\]](/register.md)
 
-*Do I have to compete in a team?*
+### Do I have to compete in a team?
 
 Yes, but if you don't have a pre-formed team you can [\[leave us your info here\]](https://docs.google.com/spreadsheets/d/1krf5bhp_LxuOaWDG7KQ4U6DbQ_U-3O0RM1xxxjutN9Y/edit#gid=0) and we'll try to match you with others in the same boat. We will also be holding at least one team formation event prior to DataFest.
 
-*What do I need to bring?*
+### What do I need to bring?
 
 -   A laptop with tools for data analysis (there is no limitation on which software you use) - with power charger
 -   A water bottle
 -   Enthusiasm for data!
 
-*What are the rules of the competition?*
+### What are the rules of the competition?
 
 -   Teams must consist of 2-5 students.
 -   Team members can come and go as they please but all work has to be done on-site. A steady supply of food, beverages, and snacks make it more inviting to stay.  
 -   It's a competition, but a friendly one, so collaboration between teams is not only allowed but highly encouraged. Official ASA DataFest coaches (grad students, faculty, data professionals, etc.) will also be around throughout the weekend to help with any questions you might have. However you can't have outside help.
 
-*Do we have to stay the entire time?*
+### Do we have to stay the entire time?
 
 No. You may come and go as you please. However, you are not allowed to work on the project except while you are on ASA DataFest grounds, and at least 3 members of your team must attend the introduction.
 
-*What can I win?*
+### What can I win?
 
 Fame, glory, prizes or some combination thereof... And you get a t-shirt!
 
@@ -70,7 +73,7 @@ For more on the code of conduct, please see the [ASA Meeting Code of Conduct](ht
 
 ### Need Help?
 
-Please speak with an event coordinator on site, email Robin Donatello at [rdonatello\@csuchico.edu](mailto:rdonatello@csuchico.edu), or send a message via the DataFest Slack channel (see the schedule of events for channel details.)
+Please speak with an event coordinator on site, email [datascience\@csuchico.edu](mailto:datascience@csuchico.edu), or send a message via the DataFest Slack channel (see the schedule of events for channel details.)
 
 If any attendee engages in harassing behavior, the event organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the organizers with a concise description of your grievance.)
 

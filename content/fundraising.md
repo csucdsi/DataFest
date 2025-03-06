@@ -2,11 +2,6 @@
 title= "Supporting Data Fest in 3 ways"
 +++
 
-<html>
-    <link rel="stylesheet" href="style.css" />
-</html>
-
-
 
 ## Financial Contributions
 
