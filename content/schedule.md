@@ -1,6 +1,4 @@
-+++
-title= "Schedule of Events"
-+++
++++ title= "Schedule of Events" +++
 
 <html>
     <link rel="stylesheet" href="style.css" />
@@ -32,37 +30,49 @@ You are of course free to come and go as you please throughout the event, but he
     - Tue 4-2 2-4pm: DataFest Prep - Get the experience by playing with last year's DataFest data. 
 --->
 
-## Team Forming Event! 
+## Team Forming Event!
 
 Don't have a pre-formed team? Stay tuned for a team formation event one week prior to DataFest
 
+------------------------------------------------------------------------
 
-----
 # GO!
 
-## Friday, April 12th, 2024
-**Welcome!**  
- 
+## Friday, April 11th, 2024
+
+**Welcome!**
+
+-   5:00-10:00pm
+
+<!-- Come back to update specifics following this template:
 * 5pm - Registration sign in. 
 * 5:30pm - Kickoff presentation. Meet the data!
 * 6pm - Dinner
 * Room open until 12 midnight
+-->
 
+## Saturday, April 12th, 2024
 
-## Saturday, April 13th, 2024    
-**Carry on!**  
+**Carry on!**
 
+-   9:00am-10:00am
+
+<!-- Come back to update specifics following this template:
 * 8am - Breakfast    
 * 12pm - Lunch
 * 6:00pm - Dinner
 * Room open until 12 midnight 
+-->
 
-## Sunday, April 14th, 2024  
-**Wrap up!**  
- 
-* 8am - Breakfast    
-* 10am - Presentations due. 
-* 10:30am-12pm - Presentations and judges' deliberations. Special guest: Chico State President Perez   
+## Sunday, April 13th, 2024
+
+**Wrap up!**
+
+-   9:00am-12:00pm
+
+<!-- Come back to update specifics following this template:
+* 8am - Breakfast
+* 10am - Presentations due.
+* 10:30am-12pm - Presentations and judges' deliberations.
 * 12:30-1 - Award ceremony 
-
-
+-->
