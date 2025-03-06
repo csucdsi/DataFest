@@ -50,13 +50,14 @@ Hotels listed for less than approximately \$100 per night are starred
 Our goal is to keep you fed & caffeinated all weekend long. Check the
 Schedule for mealtimes.
 
+----
+
 ## Security & Access
 
 # Social Media
 
 Did you know that, this year, DataFest will be held at [over 70
-universities around the
-world](https://ww2.amstat.org/education/datafest/participants.cfm)?
+universities around the world](https://ww2.amstat.org/education/datafest/participants.cfm)?
 DataFest takes place during a six-week window in the Spring, and
 different universities hold their event at different times.
 
@@ -70,11 +71,11 @@ you known nothing!) Finally, it is simply more fun.
 You are encouraged to share your excitement on social media and thank
 our sponsors. The official Twitter hashtag is #ASAdatafest25. However...
 
-PLEASE KEEP THE SECRET UNTIL May 4th!. Teams that leak the name or any
-information about the identify of the data donor will be disqualified!
+PLEASE KEEP THE SECRET UNTIL May 3rd!. Teams that leak the name or any information about the identify of the data donor will be disqualified!
 
-Please do not post pictures that reveal any
-charts/graphs/tables/summaries/models that might reveal the data donor.
+Please do not post pictures that reveal any charts/graphs/tables/summaries/models that might reveal the data donor.
+
+----
 
 # Presentations, judging, and awards
 
@@ -99,14 +100,9 @@ will be printed.
 
 #### Submitting your presentation
 
-At 1pm on Sunday all work must stop and you must upload your
-presentation and your optional write up to the submission website linked
-at the top of this page (available starting Sunday AM). If you are
-having technical difficulty, you can ask a coach for help. Coaches will
-be around to help.
+Sunday morning all work must stop at a time specified on the schedule. Each team upload their presentation and optional write up to the submission  URL provided by the organizers. If you are having technical difficulty, you can ask a coach for help. 
 
-Teams who fail to upload their presentations and write-ups by 1:00pm on
-Sunday will not be eligible to have their presentations judged.
+Teams who fail to upload their presentations and write-ups late will not be eligible to have their presentations judged.
 
 #### File naming
 
@@ -182,14 +178,14 @@ You will receive information about this during the event.
     premises.
 
 -   Do not use any space other than the designated classrooms, or work
-    after 10pm Students found working in other areas or after 10pm will
-    be disqualified from the competition.
+    after the event closes for the night. Students found working in other areas 
+    or after hours will be disqualified from the competition.
 
 -   You must follow the Code of Conduct. This can be found at
     <https://norcaldatafest.netlify.com/faq/> and printed at the event.
 
 -   Do not share the name of the data source publicly or on social media
-    before April 29th. There are many other upcoming DataFests around
+    before May 3rd. There are many other upcoming DataFests around
     the country and we want to make sure the dataset remains a surprise
     for them.
 
@@ -212,7 +208,7 @@ You will receive information about this during the event.
     there to help point you in the right direction, but you're
     responsible for getting there on your own.
 
--   PLEASE KEEP THE SECRET UNTIL MAY 4. Teams that leak the name or any
+-   PLEASE KEEP THE SECRET UNTIL MAY 3rd. Teams that leak the name or any
     information about the identify of the data donor will be
     disqualified! Please do not post pictures that reveal any
     charts/graphs/tables/summaries/models that might reveal the data
