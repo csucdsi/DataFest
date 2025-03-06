@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NorCal Data Fest</title>
+    <link>//localhost:4321/</link>
+    <description>Recent content on NorCal Data Fest</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:4321/_sponsors_old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/_sponsors_old/</guid>
+      <description>R Consortium Enloe Math Club Pearson Payless Building Supply Stoble Provost </description>
+    </item>
+    <item>
+      <title>2022 Sponsors</title>
+      <link>//localhost:4321/_sponsors_22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/_sponsors_22/</guid>
+      <description> Data Fest would not be able to happen without the support of the following people and organizations Please see our fundraising page for information on how you can support this high impact student activity.&#xA;Acknowledgements </description>
+    </item>
+    <item>
+      <title>2024 Sponsors</title>
+      <link>//localhost:4321/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/sponsors/</guid>
+      <description> Data Fest would not be able to happen without the support of the following people and organizations Please see our fundraising page for information on how you can support this high impact student activity.&#xA;Terabye Sponsors Organizing Partners Acknowledgements </description>
+    </item>
+    <item>
+      <title>About DataFest</title>
+      <link>//localhost:4321/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/about/</guid>
+      <description>The American Statistical Association&amp;rsquo;s DataFest, founded at UCLA in 2011, is a 48-hour data analysis competition in which undergraduate students from various majors get to work in teams on large, complex, and real-world data. The data is kept secret until opening of the event on Friday evening and teams present their findings to a panel of judges on Sunday afternoon. Students explore, analyze, and visualize the data to discover insights.</description>
+    </item>
+    <item>
+      <title>Coach &amp; Judge Information</title>
+      <link>//localhost:4321/coach_judge_info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/coach_judge_info/</guid>
+      <description>General Event Info All information regarding the event can be found at https://norcaldatafest.netlify.com/.&#xA;Location Throughout the weekend students will work in the event room on campus. There are many places to park around campus and downtown. Here is a link to an interactive map showing the cafe, and parking nearby.&#xA;Transportation &amp;amp; Parking There is metered parking (free on weekends) on Citrus Ave and Legion Ave. There is additional free street parking near the Gateway Science Museum.</description>
+    </item>
+    <item>
+      <title>Coding and open data resources for participants</title>
+      <link>//localhost:4321/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/resources/</guid>
+      <description>Computing and supplies We recommend that every member of the team bring a laptop, if possible. You might find it helpful to have a mix of PCs and Macs, since they have different strengths.&#xA;We recommend that you make sure beforehand that the software you will be using throughout the weekend is properly installed and running on your computer. You will be working with a large dataset so make sure that you have the space for it on your hard drive.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:4321/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/contact/</guid>
+      <description>Questions? Please feel free to contact us.</description>
+    </item>
+    <item>
+      <title>Info</title>
+      <link>//localhost:4321/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/faq/</guid>
+      <description>DataFest is a nationally-coordinated undergraduate competition in which teams of up to 5 students work over a weekend to extract insight from a rich and complex data set. Previous years&amp;rsquo; data sets have included crime data from the LAPD, dating data from eHarmony, and energy use data from GridPoint. This year&amp;rsquo;s data set will be revealed at the opening of the event on Friday evening.&#xA;At the conclusion of the competition, each team will have 5 minutes and 2 slides to make a presentation to a panel of judges.</description>
+    </item>
+    <item>
+      <title>Participant Info &amp; Guidelines</title>
+      <link>//localhost:4321/info_guide_chico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/info_guide_chico/</guid>
+      <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.&#xA;This is a long document, please take a moment to read over it carefully.&#xA;Location DataFest 2024 @ CSU, Chico will start with registration and end with awards ceremony in Sylvesters Cafe by the Creek .&#xA;Transportation &amp;amp; Parking There is metered parking (free on weekends) on Citrus Ave and Legion Ave. There is additional free street parking near the Gateway Science Museum.</description>
+    </item>
+    <item>
+      <title>Participant Info &amp; Guidelines</title>
+      <link>//localhost:4321/info_guilde_sac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/info_guilde_sac/</guid>
+      <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.&#xA;This is a long document, please take a moment to read over it carefully.&#xA;Sac State&amp;rsquo;s Data Science club - Their discord will be the official event discord on that weekend https://discord.gg/UmCx7bWXGS&#xA;Location The event will be held in the Carlsen Center for Innovation and Entrepreneurship in the Main Library on the Sacramento State campus.</description>
+    </item>
+    <item>
+      <title>Past Data Fest Events</title>
+      <link>//localhost:4321/past_events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/past_events/</guid>
+      <description>2023 - TBD 2022 - Elm City Stories The 2022 DataFest challenge came from the Play2Prevent lab at the Yale Center for Health &amp;amp; Learning Games in the Yale School of Medicine. DataFest participants analyzed data from Elm City Stories, an educational video game designed for middle and high school students. The goal of the game was to prevent negative health outcomes in young, at-risk adolescents by helping teens to increase perception of risk and to develop skills for predicting and understanding future consequences of actions.</description>
+    </item>
+    <item>
+      <title>Presentation Submissions</title>
+      <link>//localhost:4321/presentation_submissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/presentation_submissions/</guid>
+      <description>Allowed file formats We very strongly recommend using PDF, Keynote, or PowerPoint. If using a web-based tool like GoogleDocs or Prezi, please export to PDF and upload the PDF as your submission. Note that you will not have time to log on/off to your account before your presentation. We don’t want to restrict your creativity but it is your responsibility to make sure that your presentation works seamlessly before the judging session begins.</description>
+    </item>
+    <item>
+      <title>Registration open until March 28, 2025</title>
+      <link>//localhost:4321/register/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/register/</guid>
+      <description>Click here to register as an Undergraduate Student Participant Undergraduate Participant guide&#xA;Participants Participants will need to register as a team of 2-5 Northern California Region undergraduate students (Masters students can also participate as Coaches!). This is a free event with some food and beverages provided, though you will need to bring your own laptop equipped with preferred data analysis software. Participants may freely come and go, but all work must be done on site.</description>
+    </item>
+    <item>
+      <title>Schedule of Events</title>
+      <link>//localhost:4321/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/schedule/</guid>
+      <description> Team Forming Event! Don&amp;rsquo;t have a pre-formed team? Stay tuned for a team formation event one week prior to DataFest&#xA;GO! Friday, April 11th, 2024 Welcome!&#xA;5:00-10:00pm Saturday, April 12th, 2024 Carry on!&#xA;9:00am-10:00am Sunday, April 13th, 2024 Wrap up!&#xA;9:00am-12:00pm </description>
+    </item>
+    <item>
+      <title>Supporting Data Fest in 3 ways</title>
+      <link>//localhost:4321/fundraising/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/fundraising/</guid>
+      <description>Financial Contributions Participants are only allowed to work on this project while on site, so our biggest need is making sure they are well fed and caffeinated! Our fundraising goal for 2024 is $4000 which will be spent entirely on food, t-shirts, collaboration supplies such as notepads, whiteboard markers, portable whiteboards, student travel support and prizes for the winners.&#xA;All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the Chico State DSI website.</description>
+    </item>
+  </channel>
+</rss>

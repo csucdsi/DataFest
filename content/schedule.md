@@ -1,4 +1,6 @@
-+++ title= "Schedule of Events" +++
++++ 
+title= "Schedule of Events" 
++++
 
 <html>
     <link rel="stylesheet" href="style.css" />

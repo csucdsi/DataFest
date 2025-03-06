@@ -1,4 +1,6 @@
-+++ title = "About DataFest" +++
++++ 
+title = "About DataFest" 
++++
 
 <style>
 .button {

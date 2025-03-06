@@ -1,4 +1,6 @@
-+++ title= "Registration open until March 28, 2025" +++
++++ 
+title= "Registration open until March 28, 2025" 
++++
 
 <style>
 .button {
@@ -14,9 +16,9 @@
 }
 </style>
 
-## <img src="../img/team.png"> [Participate as an Undergraduate Student Participant](https://forms.gle/WQLUZY2DMHZcs62Z8)
+## <img src="../img/team.png"> [Click here to register as an Undergraduate Student Participant](https://forms.gle/WQLUZY2DMHZcs62Z8)
 
-<a href="/info_guide_sac"><button class="button">Participant guide</button></a>
+<a href="/info_guide_sac"><button class="button">Undergraduate Participant guide</button></a>
 
 #### Participants
 
@@ -26,7 +28,7 @@ Though this is indeed a competition, it is meant to be a friendly one! As such c
 
 <br>
 
-## <img src="../img/consultation.png"> [Participate as an Event Helper](https://forms.gle/9mHyqLHFK67rEMYj6)
+## <img src="../img/consultation.png"> [Click here to register as an Event Helper](https://forms.gle/9mHyqLHFK67rEMYj6)
 
 This could be as a **Coach**, a **Judge** or a general **event volunteer**.
 
@@ -36,7 +38,7 @@ This could be as a **Coach**, a **Judge** or a general **event volunteer**.
 
 **Coaches** walk around and talk with teams to see how they're doing. Help them brainstorm ideas, refine ideas and most importantly help them come back to reality in what is feasible in the 2 day period. Sometimes teams have amazing ideas but either the data they need to answer their question isn't collected/available, or the effort to complete the idea is much larger than they realize. So trimming down ideas.
 
-Experience with coding languages can be helpful, but not necessary. A general ability to help them google the information is enough. For example, one year the competition data involved certain substance use rates across a geographic area. Some teams wanted to pull in census data to correlate population demographic with substance use at the county level. That team needed help figuring out where to get county level census information, identifying what keys to join on and thinking about what level of aggregation was reasonable to match on or display.
+Experience with coding languages can be helpful, but not necessary. A general ability to help them google the information is enough. For example, one year the competition data involved certain substance use rates across a geographic area. Some teams wanted to pull in census data to correlate population demographic with substance use at the county level. That team needed help figuring out where to get county level census information, identifying what keys to join on and thinking about what level of aggregation was reasonable to match on or display.
 
 #### Judge
 
