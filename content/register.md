@@ -16,9 +16,9 @@ title= "Registration open until March 28, 2025"
 }
 </style>
 
-## <img src="../img/team.png"> [Click here to register as an Undergraduate Student Participant](https://forms.gle/WQLUZY2DMHZcs62Z8)
+> All participants and volunteers must agree to abide by the following [Code of Conduct](https://www.amstat.org/meetings/code-of-conduct). 
 
-<a href="/info_guide_sac"><button class="button">Undergraduate Participant guide</button></a>
+<a href="https://forms.gle/WQLUZY2DMHZcs62Z8"><button class="button">Register as an undergraduate participant</button></a>
 
 #### Participants
 
@@ -26,15 +26,17 @@ title= "Registration open until March 28, 2025"
 
 Though this is indeed a competition, it is meant to be a friendly one! As such collaboration is highly encouraged. As well, ASA Datafest coaches (grad students, faculty, data professionals, et al.) will be available throughout to assist you. If you wish to participate but don't have a team, [check out our FAQ for more information.](/faq)
 
-
+[Sac State Participant guide](/info_guide_sac)
 
 <br>
 
-## <img src="../img/consultation.png"> [Click here to register as an Event Helper](https://forms.gle/9mHyqLHFK67rEMYj6)
+#### Event Volunteers
+
+<a href="https://forms.gle/9mHyqLHFK67rEMYj6"><button class="button">Register as an Event Helper</button></a>
 
 This could be as a **Coach**, a **Judge** or a general **event volunteer**.
 
-<a href="/coach_judge_info"><button class="button">Volunteer guide</button></a>
+[Other Volunteer guide](/coach_judge_info)
 
 #### Coach
 
@@ -50,22 +52,3 @@ Judges spend a few hours on Sunday listening to presentations, deliberating and 
 
 This is a fully volunteer run event! We need people to do food pickups and meal setup, setup and breakdown, staff the registration desk to check students in, keep the snack table stocked, put up signage and answer questions as needed.
 
-------------------------------------------------------------------------
-
-# Code of Conduct
-
-Norcal ASA DataFest<small><sup>TM</sup></small> is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, social activities, social media, and other online media. ASA DataFest<small><sup>TM</sup></small> participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers.
-
-This code of conduct applies to all participants, including organizers, mentors / VIP coaches, judges, and helpers and applies to all modes of interaction, both in-person and online, on ASA DataFest<small><sup>TM</sup></small> Community, and event specific Slack channels, and social media.
-
-ASA participants agree to:
-
--   Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
--   Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any organizers in person.
--   Take care of each other. Alert a member of the organizers if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
-
-For more on the code of conduct, please see the [ASA Meeting Code of Conduct](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx).
-
-------------------------------------------------------------------------
-
-<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"              title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"              title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
