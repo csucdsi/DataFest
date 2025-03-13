@@ -16,7 +16,7 @@ title= "Registration open until March 28, 2025"
 }
 </style>
 
-All participants and volunteers must agree to abide by the following [Code of Conduct]https://www.amstat.org/meetings/code-of-conduct. 
+> All participants and volunteers must agree to abide by the following [Code of Conduct](https://www.amstat.org/meetings/code-of-conduct). 
 
 <a href="https://forms.gle/WQLUZY2DMHZcs62Z8"><button class="button">Register as an undergraduate participant</button></a>
 
@@ -26,15 +26,17 @@ All participants and volunteers must agree to abide by the following [Code of Co
 
 Though this is indeed a competition, it is meant to be a friendly one! As such collaboration is highly encouraged. As well, ASA Datafest coaches (grad students, faculty, data professionals, et al.) will be available throughout to assist you. If you wish to participate but don't have a team, [check out our FAQ for more information.](/faq)
 
-[Undergraduate Participant guide](/info_guide_sac)
+[Sac State Participant guide](/info_guide_sac)
 
 <br>
 
-## <img src="../img/consultation.png"> [Click here to register as an Event Helper](https://forms.gle/9mHyqLHFK67rEMYj6)
+#### Event Volunteers
+
+<a href="https://forms.gle/9mHyqLHFK67rEMYj6"><button class="button">Register as an Event Helper</button></a>
 
 This could be as a **Coach**, a **Judge** or a general **event volunteer**.
 
-<a href="/coach_judge_info"><button class="button">Volunteer guide</button></a>
+[Other Volunteer guide](/coach_judge_info)
 
 #### Coach
 
