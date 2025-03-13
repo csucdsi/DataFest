@@ -29,7 +29,7 @@ We would love to have Masters students get involved as coaches during the event.
 
 ### How large are the teams?
 
-Teams can be made up of 2-5 students. [\[Register your team here\]](/register.md)
+Teams can be made up of 2-5 students. [\[Register your team here\]](/register)
 
 ### Do I have to compete in a team?
 

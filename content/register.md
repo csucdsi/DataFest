@@ -24,7 +24,8 @@ title= "Registration open until March 28, 2025"
 
 **Participants** will need to register as a team of 2-5 Northern California Region undergraduate students (Masters students can also participate as Coaches!). This is a free event with some food and beverages provided, though you will need to bring your own laptop equipped with preferred data analysis software. Participants may freely come and go, but all work must be done on site.
 
-Though this is indeed a competition, it is meant to be a friendly one! As such collaboration is highly encouraged. As well, ASA Datafest coaches (grad students, faculty, data professionals, et al.) will be available throughout to assist you. If you wish to participate but don't have a team, [check out our FAQ for more information.](/faq.md)
+Though this is indeed a competition, it is meant to be a friendly one! As such collaboration is highly encouraged. As well, ASA Datafest coaches (grad students, faculty, data professionals, et al.) will be available throughout to assist you. If you wish to participate but don't have a team, [check out our FAQ for more information.](/faq)
+
 
 
 <br>
