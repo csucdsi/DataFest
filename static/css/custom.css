@@ -12,7 +12,25 @@ h3 {
     color: #c4b581;
 }
 
+.button {
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
 
+#csuc {
+  background-color: #9D2235;
+}
+
+#csus {
+  background-color: #043927;
+  
+}
 
 .bordered {
     border-bottom: 1px solid #000;
