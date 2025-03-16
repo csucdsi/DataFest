@@ -19,12 +19,11 @@ The event will be held in the Carlsen Center for Innovation and Entrepreneurship
 
 Address: 6000 J Street, Library 1520, Sacramento, CA 95819
 
-
-![/img/logistics/sac_25_loc1.JPG](Campus map showing the location of the library and parking)
+![Campus map showing the location of the library and parking](/img/logistics/sac_25_loc2.JPG)
 
 Go through main doors of the University Library, turn hard right and keep walking, up a short flight of stairs to Carlsen Center doors
 
-![/img/logistics/sac_25_loc1.JPG](Map showing how to get to the Carlsen center within the library)
+![Map showing how to get to the Carlsen center within the library](/img/logistics/sac_25_loc1.JPG)
 
 ### Transportation & Parking
 
