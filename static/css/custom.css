@@ -13,6 +13,7 @@ h3 {
 }
 
 .button {
+  color: white;
   border: none;
   padding: 15px 32px;
   text-align: center;
@@ -23,12 +24,10 @@ h3 {
 }
 
 #csuc {
-  color: #75787B;
   background-color: #9D2235;
 }
 
 #csus {
-  color: #c4b581;
   background-color: #043927;
   
 }
