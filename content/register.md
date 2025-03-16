@@ -2,23 +2,9 @@
 title= "Registration open until March 28, 2025" 
 +++
 
-<style>
-.button {
-  background-color: #9D2235; 
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  border-radius: 12px;
-}
-</style>
-
 > All participants and volunteers must agree to abide by the following [Code of Conduct](https://www.amstat.org/meetings/code-of-conduct). 
 
-<a href="https://forms.gle/WQLUZY2DMHZcs62Z8"><button class="button">Register as an undergraduate participant</button></a>
+<a href="https://forms.gle/WQLUZY2DMHZcs62Z8"><button class="button" id="csus">Register as an undergraduate participant</button></a>
 
 #### Participants
 
@@ -32,7 +18,7 @@ Though this is indeed a competition, it is meant to be a friendly one! As such c
 
 #### Event Volunteers
 
-<a href="https://forms.gle/9mHyqLHFK67rEMYj6"><button class="button">Register as an Event Helper</button></a>
+<a href="https://forms.gle/9mHyqLHFK67rEMYj6"><button class="button" id="csus">Register as an Event Helper</button></a>
 
 This could be as a **Coach**, a **Judge** or a general **event volunteer**.
 
