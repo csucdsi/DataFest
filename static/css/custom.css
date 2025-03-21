@@ -13,6 +13,7 @@ h3 {
 }
 
 .button {
+  background-color: #043927; /* Remove Once CSS is improved*/
   color: white;
   border: none;
   padding: 15px 32px;
@@ -23,11 +24,11 @@ h3 {
   border-radius: 12px;
 }
 
-#csuc {
+.csuc {
   background-color: #9D2235;
 }
 
-#csus {
+.csus {
   background-color: #043927;
   
 }

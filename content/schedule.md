@@ -43,38 +43,28 @@ Exact times are subject to change as needed.
 
 **Welcome!**
 
-* 5pm - Registration sign in. 
-* 5:30pm - Kickoff presentation. Meet the data!
+* 5pm - Registration sign in 
+* 5:30pm - Registration, Intro
 * 6pm - Dinner
-* Room open until 12 midnight
+* Room open until 10:00PM
 
 ### Saturday, April 12th, 2025
 
 **Carry on!**
 
-* 9am - Doors open & Breakfast
+* 9am - Breakfast
 * 12pm - Lunch
 * 6:00pm - Dinner
 * Room open until 10pm
-
-<!-- Come back to update specifics following this template:
-* 8am - Breakfast    
-* 12pm - Lunch
-* 6:00pm - Dinner
-* Room open until 12 midnight 
--->
 
 ### Sunday, April 13th, 2025
 
 **Wrap up!**
 
-* 9am  - Doors open 
-* 10am - Presentations
-* 11am - Judges' deliberations & Award ceremony 
+* 9:30am  - Projects due 
+* 9:00-9:30am - Setup for presentations
+* 10:00am - Presentations begin
+* 11:00am - Judges deliberate
+* 11:30am - Awards
+* 12:00pm - Cleanup
 
-<!-- Come back to update specifics following this template:
-* 8am - Breakfast
-* 10am - Presentations due.
-* 10:30am-12pm - Presentations and judges' deliberations.
-* 12:30-1 - Award ceremony 
--->
