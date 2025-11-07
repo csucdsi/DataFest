@@ -37,7 +37,7 @@ The mission of DataFest is to expose undergraduate students to challenging quest
 
 # Helpful Guides
 
-*Updating for 2025 in progress\...*
+*Updating for 2026 in progress\...*
 
 <a href="/info_guide_sac"><button class="button">For Participants</button></a> <a href="/coach_judge_info"><button class="button">For Coaches & Judges</button></a>
 
