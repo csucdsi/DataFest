@@ -6,7 +6,7 @@ title= "Registration open until March 23, 2026"
 
 #### Participants
 
-\<a href="<https://forms.gle/TU5kgqqAB8tGTbV58>"<button class="button csuc">Register your team here</button></a>
+<a href="<https://forms.gle/TU5kgqqAB8tGTbV58>"<button class="button csuc">Register your team here</button></a>
 
 Undergraduate students from any higher education institution in the Northern California Region are eligible to participate. This is a team competition with between 2-5 students per team.
 
