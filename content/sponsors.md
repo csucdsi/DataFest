@@ -1,93 +1,98 @@
 +++
-title= "Supporting Data Fest in 3 ways"
+title= "2026 Sponsors"
 +++
 
 
-## Financial Contributions
+----
 
-Participants are only allowed to work on this project while on site, so our biggest need is making sure they are well fed and caffeinated! **Our fundraising goal for 2024 is $4000** which will be spent entirely on food, t-shirts, collaboration supplies such as notepads, whiteboard markers, portable whiteboards, student travel support and prizes for the winners. 
+### Data Fest would not be able to happen without the support of the following people and organizations
 
-All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [Chico State DSI](https://datascience.csuchico.edu/) website. 
+Please see our [fundraising](../fundraising/) page for information on how you can support this high impact student activity. 
 
+----
 
-
-### Donate online
-
-Go to the [Chico State Giving website](https://securelb.imodules.com/s/1751/wide.aspx?sid=1751&gid=2&pgid=405&cid=1058). 
-
-Choose "Other Designation" and write in "_Data Science Initiative Fund #200685300_"
-
-### Donate by Check
-
-Please make out checks to Chico State and write in the memo field "_Data Science Initiative Fund #200685300_". Checks can be mailed to:
-
-ASA DataFest c/o Robin Donatello  
-CSU, Chico Department of Mathematics and Statistics  
-101 Holt Hall  
-400 West First Street 
-Chico, CA, 95929-525
+## Terabye Sponsors
 
 
-### Giving Tiers
-Your contribution is very meaningful to us, so as a way to give back we have set up the following fundraising tiers. 
+<table border="0" align="center">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
 
-Contributors, please email your company bio, and a web-ready logo to datascience@csuchico.edu. 
+  <tbody>
 
-#### Brontobyte - $1500 
-* Ten minute presentation during the opening or closing session
-* Be a part of the Judging panel
-* Dedicated Info table space for the entire event.
-* Private room available upon request
-* Access to the participant resumes
-* Large, prominently placed logo on all printed DataFest advertisement materials
-* Large logo, link and short company profile on this website
-* Company/organization name at the food table display
-* Acknowledgements in the opening ceremony (dedicated slide)
+  <tr>
+    <td align="left" markdown="span"><img src="../img/clients/cs_logo_stacked.png" style="width:40%"></img></td>
+    <td>ChicoSTART is an Accelerated by California Innovation Hub representing 20+ counties in the North State. We support and enrich Northern California’s entrepreneurial & tech ecosystem by providing startups the resources they need to start, grow and thrive. 
+        <a href ="https://chicostart.com/">https://chicostart.com/</a></td>
+  </tr>
+  
+  <tr><td height= "50"> </td> <td></td></tr>
 
-#### Exabyte -  $750 
-* Five minute presentation during the opening or closing session
-* Dedicated Info table space on Saturday
-* Access to the participant resumes
-* Large logo on all printed DataFest advertisement materials
-* Large logo, link and short company profile on this website
-* Company/organization name at the food table display
-* Acknowledgements in the opening ceremony (dedicated slide)
+  <tr>
+    <td align="left" markdown="span"><img src="../img/clients/gt_logo_stacked.png" style="width:40%"></img></td>
+    <td> GrowTECH: Together we grow, support, and connect the thriving tech and entrepreneurial hub in Chico and Northern California.
+        <a href ="https://growtech.io//">https://growtech.io/</a></td>
+  </tr>
+  
 
-
-#### Terabyte - $500
-* Medium logo on all printed DataFest advertisement materials
-* Medium logo, link and short company profile on this website
-* Company/organization name at the food table display
-* Acknowledgements in the opening ceremony
+  <tr><td height= "50"> </td> <td></td></tr>
 
 
-#### Gigabyte - $250 
-* Small logo on all printed DataFest advertisement materials
-* Small logo, link and short company profile on this website
-* Company/organization name at the food table display
-* Acknowledgements in the opening ceremony
+  </tbody>
+</table>
 
 
----
+## Organizing Partners
 
-## Participate as a Consultant
+<table border="0" align="center">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
 
-Money is helpful but so is your time! Spend an hour or two getting to know the students and offering your sage advice. This is an excellent recruiting opportunity; you get to watch students working in teams, under pressure, striving to understand possibly the most complex data set they have encountered. At other institutions, students have received internships and interviews that have led to full-time employment. Success at DataFest requires that a team have a combination of computational, statistical, and human skills, as well as the ability to communicate clearly and extremely concisely.
+  <tbody>
+    <tr>
+    <td><img src="../img/clients/DSI_Logo_Horizontal_Small.jpg" style="width:60%"></img></td>
+    <td> The Data Science Initiative at Chico State aims to be a hub of DS information and resources for campus and community. Our vision is to foster a data-empowered society working within a culture of open science. See more at <a href="https://www.csuchico.edu/datascience">https://www.csuchico.edu/datascience</a>. </td>
+  </tr>
+  
+  <tr><td height= "50"> </td> <td></td></tr>
+  
+  <tr>
+    <td><img src="../img/clients/dsclub.png" style="width:40%"></img></td>
+    <td> The Data Science Club at Chico State is open to all students who are interested in data science. See them at <a href="https://dsclub.carrd.co/">https://dsclub.carrd.co/</a>. </td>
+  </tr>
 
-### Student safety teams
+  <tr><td height= "50"> </td> <td></td></tr>
+  
+   <tr>
+    <td><img src="../img/clients/asa_logo.jpg" style="width:60%"></img></td>
+    <td>The American Statistical Association is the National coordinating organization of DataFest. 
+        They work hard to get the most interesting data possible. 
+        See more at <a href="http://www.amstat.org">http://www.amstat.org</a>. </td>
+  </tr>
+  
+  <tr><td height= "50"> </td> <td></td></tr>
+    
+  </tbody>
+</table>
 
-DataFest is open to non-Chico State students, which is a great opportunity for those in the North State region. However Chico State campus policy states that doors must close at midnight. We value the safety of our students and participants and so we are recruiting a group of volunteers who are willing to help provide transportation or escort services for students returning to home or to their cars after midnight.
 
-Email us if you would like to be part of this safety coalition.  
+<!---
+## Acknowledgements
 
----
 
-## Swag, giveaways, Prizes!!!
+<table border="0" align="center">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
 
-Pens, note pads, USB drives, buttons... Students love these and they help make the event fun. If we get something special, we can give it away in a "late-night raffle" to help keep the energy level high.
+   <tbody>
 
----
+  </tbody>
+</table>
 
-## Contact 
-
-For questions or more information on how you can support this amazing student event, please contact the event Coordinator Robin Donatello at datascience@csuchchico.edu.
+--->
