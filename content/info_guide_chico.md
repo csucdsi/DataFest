@@ -12,8 +12,8 @@ This is a long document, please take a moment to read over it carefully.
 
 DataFest 2026 @ CSU, Chico will start with registration and end with awards ceremony in the the Behavioral and Social Sciences (BSS) building on Chico State Campus.
 
-<iframe src="[https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d916.9211382210465!2d-121.8433237411227!3d39.73089647453713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1769112162678!5m2!1sen!2sus%22](Location of the BSS building) width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1498.1690719542949!2d-121.84373547762631!3d39.731014064331944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1schico%20state%20BSS%20buliding!5e1!3m2!1sen!2sus!4v1769120639222!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ### Transportation & Parking
 

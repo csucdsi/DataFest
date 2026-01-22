@@ -5,13 +5,13 @@ title= "2026 Sponsors"
 
 ----
 
-### Data Fest would not be able to happen without the support of the following people and organizations
+# Data Fest would not be able to happen without the support of the following people and organizations
 
 Please see our [fundraising](../fundraising/) page for information on how you can support this high impact student activity. 
 
 ----
 
-## Terabye Sponsors
+### Terabye Sponsors
 
 
 <table border="0" align="center">
@@ -44,7 +44,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 </table>
 
 
-## Organizing Partners
+### Organizing Partners
 
 <table border="0" align="center">
 <colgroup>
