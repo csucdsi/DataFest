@@ -2,12 +2,11 @@
 title= "Supporting Data Fest in 3 ways"
 +++
 
-
 ## Financial Contributions
 
 Participants are only allowed to work on this project while on site, so our biggest need is making sure they are well fed and caffeinated! **Our fundraising goal for 2024 is $4000** which will be spent entirely on food, t-shirts, collaboration supplies such as notepads, whiteboard markers, portable whiteboards, student travel support and prizes for the winners. 
 
-All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [Chico State DSI](http://datascience.csuchico.edu) website. 
+All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the [Chico State DSI](https://datascience.csuchico.edu/) website. 
 
 
 
@@ -34,9 +33,11 @@ Your contribution is very meaningful to us, so as a way to give back we have set
 Contributors, please email your company bio, and a web-ready logo to datascience@csuchico.edu. 
 
 #### Brontobyte - $1500 
-* Five minute presentation during the opening or closing session
+* Ten minute presentation during the opening or closing session
 * Be a part of the Judging panel
 * Dedicated Info table space for the entire event.
+* Private room available upon request
+* Access to the participant resumes
 * Large, prominently placed logo on all printed DataFest advertisement materials
 * Large logo, link and short company profile on this website
 * Company/organization name at the food table display
@@ -45,6 +46,7 @@ Contributors, please email your company bio, and a web-ready logo to datascience
 #### Exabyte -  $750 
 * Five minute presentation during the opening or closing session
 * Dedicated Info table space on Saturday
+* Access to the participant resumes
 * Large logo on all printed DataFest advertisement materials
 * Large logo, link and short company profile on this website
 * Company/organization name at the food table display
@@ -85,6 +87,6 @@ Pens, note pads, USB drives, buttons... Students love these and they help make t
 
 ---
 
-### Contact 
+## Contact 
 
-For questions or more information on how you can support this amazing student event, please contact the Data Science Coordinator Robin Donatello at datascience@csuchchico.edu or 530-898-5767.
+For questions or more information on how you can support this amazing student event, please contact the event Coordinator Robin Donatello at datascience@csuchchico.edu.

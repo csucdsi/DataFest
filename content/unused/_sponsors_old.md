@@ -12,6 +12,22 @@
     <td> Enloe Medical Center </td>
   </tr>
 
+# CFE
+ <tr>
+    <td align="left" markdown="span"><img src="../img/clients/CFE_BUS_wildcat_horizontal.png" style="width:50%"></img></td>
+    <td>The Center for Entrepreneurship is dedicated to providing the resources, inspiration, support, and mentorship to help inspired learners and doers develop ideas and launch valuable businesses. We seek to build a cohesive and collaborative interdisciplinary environment that brings together the resources of the university, community and private sector.
+        <a href ="https://chicostart.com/">https://chicostart.com/</a></td>
+  </tr>
+  
+  
+# SAP
+  <tr>
+    <td align="left" markdown="span"><img src="../img/clients/sap.jpeg" style="width:30%"></img></td>
+    <td> The SAP University Competence Center (UCC) at California State University, Chico is one of only five UCCs throughout the world. The center provides hosting services and technical support to universities that participate in SAP’s University Alliance.
+        <a href ="https://sap.cob.csuchico.edu/">(https://sap.cob.csuchico.edu/)</a></td>
+  </tr>
+  
+  
 # Math Club
   <tr>
     <td><img src="../img/clients/math_logo.png" style="width:40%"></img></td>

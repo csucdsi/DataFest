@@ -29,30 +29,35 @@ paginate = 10
     url  = "/register/"
     weight = 1
 
-#[[menu.main]]
-#    name = "Supporting DataFest"
-#    url  = "/Sponsors/"
-#    weight = 3
+[[menu.main]]
+    name = "Info Guide"
+    url  = "/info_guide_chico/"
+    weight = 2
+
+[[menu.main]]
+    name = "Sponsors"
+    url  = "/sponsors/"
+    weight = 3
 
 [[menu.main]]
     name = "Schedule"
     url  = "/schedule/"
-    weight = 2
+    weight = 4
 
+[[menu.main]]
+    name = "About"
+    url  = "/faq/"
+    weight = 5
+    
 [[menu.main]]
     name = "Past Events"
     url  = "/past_events/"
-    weight = 3
-
-[[menu.main]]
-    name = "Additional Information"
-    url  = "/faq/"
-    weight = 4
+    weight = 6
     
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 5
+    weight = 7
     
 # Top bar social links menu
 
@@ -90,7 +95,7 @@ paginate = 10
     email = "datascience@csuchico.edu"
 
     about_us = "<p>Data Fest is organized by a collaboration of Statistics faculty at CSU Chico, and CSU Sacramento</p>"
-    copyright = "Copyright (c) 2018 - 2025, CSUC DSI; all rights reserved."
+    copyright = "Copyright (c) 2018 - 2026, CSUC DSI; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -157,7 +162,7 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our 2025 Sponsors"
+    title = "Our 2026 Sponsors"
     subtitle = "DataFest would not be able to run without the support from the following individuals and organizations. To learn how you can contribute check the page on Supporting DataFest."
 
 

@@ -2,40 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/_sponsors_old/</loc>
+    <loc>/unused/_sponsors_old/</loc>
   </url><url>
-    <loc>//localhost:4321/_sponsors_22/</loc>
+    <loc>/unused/_sponsors_22/</loc>
   </url><url>
-    <loc>//localhost:4321/_sponsors_24/</loc>
+    <loc>/_sponsors_24/</loc>
   </url><url>
-    <loc>//localhost:4321/about/</loc>
+    <loc>/faq/</loc>
   </url><url>
-    <loc>//localhost:4321/categories/</loc>
+    <loc>/unused/_about_unused/</loc>
   </url><url>
-    <loc>//localhost:4321/coach_judge_info/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:4321/resources/</loc>
+    <loc>/coach_judge_info/</loc>
   </url><url>
-    <loc>//localhost:4321/contact/</loc>
+    <loc>/unused/resources/</loc>
   </url><url>
-    <loc>//localhost:4321/faq/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>//localhost:4321/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>//localhost:4321/info_guide_chico/</loc>
+    <loc>/info_guide_chico/</loc>
   </url><url>
-    <loc>//localhost:4321/info_guilde_sac/</loc>
+    <loc>/info_guide_sac/</loc>
   </url><url>
-    <loc>//localhost:4321/past_events/</loc>
+    <loc>/past_events/</loc>
   </url><url>
-    <loc>//localhost:4321/presentation_submissions/</loc>
+    <loc>/presentation_submissions/</loc>
   </url><url>
-    <loc>//localhost:4321/register/</loc>
+    <loc>/register/</loc>
   </url><url>
-    <loc>//localhost:4321/schedule/</loc>
+    <loc>/schedule/</loc>
   </url><url>
-    <loc>//localhost:4321/fundraising/</loc>
+    <loc>/sponsors/</loc>
   </url><url>
-    <loc>//localhost:4321/tags/</loc>
+    <loc>/tags/</loc>
+  </url><url>
+    <loc>/unused/</loc>
   </url>
 </urlset>
