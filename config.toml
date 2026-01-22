@@ -35,8 +35,8 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Sponsoring DataFest"
-    url  = "/Sponsors/"
+    name = "Sponsors"
+    url  = "/sponsors/"
     weight = 3
 
 [[menu.main]]
