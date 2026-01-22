@@ -88,6 +88,6 @@ Pens, note pads, USB drives, buttons... Students love these and they help make t
 
 ---
 
-### Contact 
+## Contact 
 
 For questions or more information on how you can support this amazing student event, please contact the event Coordinator Robin Donatello at datascience@csuchchico.edu.
