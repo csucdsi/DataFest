@@ -1,15 +1,17 @@
+/*Chico: h1 & h2: #8C2332; h3 D0D1C9 */   
+/*Sac: h1 & h2: #043927 h3: c4b581*/  
 
 h1 {
-    /*color: #8C2332; Chico color */    
-    color: #043927;
+   
+    color: #8C2332;
 }
 
 h2 {
-    color: #043927;
+    color: #8C2332;
 }
 
 h3 {
-    color: #c4b581;
+    color: #D0D1C9;
 }
 
 

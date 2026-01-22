@@ -2,19 +2,6 @@
 title = "About DataFest" 
 +++
 
-<style>
-.button {
-  background-color: #9D2235; 
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  border-radius: 12px;
-}
-</style>
 
 The [American Statistical Association's](https://ww2.amstat.org/education/datafest/) DataFest, founded at UCLA in 2011, is a 48-hour data analysis competition in which undergraduate students from various majors get to work in teams on large, complex, and real-world data. The data is kept secret until opening of the event on Friday evening and teams present their findings to a panel of judges on Sunday afternoon. Students explore, analyze, and visualize the data to discover insights. No prior knowledge of programming or data visualization is necessary!
 
