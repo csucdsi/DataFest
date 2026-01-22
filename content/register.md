@@ -1,4 +1,6 @@
-+++ title= "Registration open until March 23, 2026" +++
++++
+title= "Registration open until March 23, 2026"
++++
 
 > All participants and volunteers must agree to abide by the following [Code of Conduct](https://www.amstat.org/meetings/code-of-conduct).
 
@@ -39,3 +41,4 @@ Judges spend a few hours on Sunday listening to presentations, deliberating and 
 This is a fully volunteer run event! We need people to do food pickups and meal setup, setup and breakdown, staff the registration desk to check students in, keep the snack table stocked, put up signage and answer questions as needed.
 
 See the [Other Volunteer guide](/coach_judge_info) for more information.
+

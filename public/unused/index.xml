@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unuseds on NorCal Data Fest</title>
+    <link>/unused/</link>
+    <description>Recent content in Unuseds on NorCal Data Fest</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/unused/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/unused/_sponsors_old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/unused/_sponsors_old/</guid>
+      <description>R Consortium Supporting the R community, the R Foundation and organzations developing, maintaining, and distributing R software. The central mission of the R Consortium is to work with and provide support to the R Foundation and to the key organizations developing, maintaining, distributing and using R software through the identification, development and implementation of infrastructure projects. Learn more about them at https://www.r-consortium.org/&#xD;Enloe Enloe Medical Center Math Club Chico State Math Club.</description>
+    </item>
+    <item>
+      <title>2022 Sponsors</title>
+      <link>/unused/_sponsors_22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/unused/_sponsors_22/</guid>
+      <description>Data Fest would not be able to happen without the support of the following people and organizations Please see our fundraising page for information on how you can support this high impact student activity.&#xA;Acknowledgements The Data Science Initiative at Chico State aims to be a hub of DS information and resources for campus and community. Our vision is to foster a data-empowered society working within a culture of open science.</description>
+    </item>
+    <item>
+      <title>About DataFest</title>
+      <link>/unused/_about_unused/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/unused/_about_unused/</guid>
+      <description>The American Statistical Association&amp;rsquo;s DataFest, founded at UCLA in 2011, is a 48-hour data analysis competition in which undergraduate students from various majors get to work in teams on large, complex, and real-world data. The data is kept secret until opening of the event on Friday evening and teams present their findings to a panel of judges on Sunday afternoon. Students explore, analyze, and visualize the data to discover insights. No prior knowledge of programming or data visualization is necessary!</description>
+    </item>
+    <item>
+      <title>Coding and open data resources for participants</title>
+      <link>/unused/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/unused/resources/</guid>
+      <description>Computing and supplies We recommend that every member of the team bring a laptop, if possible. You might find it helpful to have a mix of PCs and Macs, since they have different strengths.&#xA;We recommend that you make sure beforehand that the software you will be using throughout the weekend is properly installed and running on your computer. You will be working with a large dataset so make sure that you have the space for it on your hard drive.</description>
+    </item>
+  </channel>
+</rss>

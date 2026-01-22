@@ -1,4 +1,6 @@
-+++ title= "Participant Info & Guidelines" +++
++++
+title= "Participant Info & Guidelines"
++++
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
 

@@ -1,8 +1,8 @@
 /*Chico: h1 & h2: #8C2332; h3 D0D1C9 */   
 /*Sac: h1 & h2: #043927 h3: c4b581*/  
 
+
 h1 {
-   
     color: #8C2332;
 }
 
@@ -14,7 +14,26 @@ h3 {
     color: #D0D1C9;
 }
 
+.button {
+  background-color: #8C2332; /* Remove Once CSS is improved*/
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
 
+.csuc {
+  background-color: #9D2235;
+}
+
+.csus {
+  background-color: #043927;
+  
+}
 
 .bordered {
     border-bottom: 1px solid #000;

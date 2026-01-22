@@ -1,10 +1,9 @@
 +++ 
 title = "Schedule of Events" 
-css =  "css/custom.css"
 +++
 
 <!---
-
+css =  "css/custom.css"
 Registration sign in starts at 5pm on Friday. 
 
 You are of course free to come and go as you please throughout the event, but here are the times all team members should plan to be on premises:
@@ -39,30 +38,29 @@ Don't have a pre-formed team? Stay tuned for a team formation event one week pri
 
 Exact times are subject to change as needed.
 
-### Friday, April 11th, 2025
+### Friday, April 10th, 2026
 
 **Welcome!**
 
 * 5pm - Registration sign in 
-* 5:30pm - Registration, Intro
-* 6pm - Dinner
-* Room open until 10:00PM
+* 5:30pm - Kickoff event with dinner
+* Room open until midnight
 
-### Saturday, April 12th, 2025
+### Saturday, April 11th, 2026
 
 **Carry on!**
 
-* 9am - Breakfast
-* 12pm - Lunch
-* 6:00pm - Dinner
-* Room open until 10pm
+* 8am - Room opens with breakfast
+* 12:30 pm - Lunch
+* 6pm - Dinner
+* Room open until midnight
 
-### Sunday, April 13th, 2025
+### Sunday, April 12th, 2026
 
 **Wrap up!**
 
+* 8am - room opens
 * 9:30am  - Projects due 
-* 9:00-9:30am - Setup for presentations
 * 10:00am - Presentations begin
 * 11:00am - Judges deliberate
 * 11:30am - Awards
