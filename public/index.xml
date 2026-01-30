@@ -12,7 +12,7 @@
       <link>/unused/_sponsors_old/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/unused/_sponsors_old/</guid>
-      <description>R Consortium Supporting the R community, the R Foundation and organzations developing, maintaining, and distributing R software. The central mission of the R Consortium is to work with and provide support to the R Foundation and to the key organizations developing, maintaining, distributing and using R software through the identification, development and implementation of infrastructure projects. Learn more about them at https://www.r-consortium.org/&#xD;Enloe Enloe Medical Center Math Club Chico State Math Club.</description>
+      <description>R Consortium Supporting the R community, the R Foundation and organzations developing, maintaining, and distributing R software. The central mission of the R Consortium is to work with and provide support to the R Foundation and to the key organizations developing, maintaining, distributing and using R software through the identification, development and implementation of infrastructure projects. Learn more about them at https://www.r-consortium.org/&#xD;Enloe Enloe Medical Center CFE The Center for Entrepreneurship is dedicated to providing the resources, inspiration, support, and mentorship to help inspired learners and doers develop ideas and launch valuable businesses.</description>
     </item>
     <item>
       <title>2022 Sponsors</title>
@@ -22,11 +22,11 @@
       <description>Data Fest would not be able to happen without the support of the following people and organizations Please see our fundraising page for information on how you can support this high impact student activity.&#xA;Acknowledgements The Data Science Initiative at Chico State aims to be a hub of DS information and resources for campus and community. Our vision is to foster a data-empowered society working within a culture of open science.</description>
     </item>
     <item>
-      <title>2024 Sponsors</title>
-      <link>/_sponsors_24/</link>
+      <title>2026 Sponsors</title>
+      <link>/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/_sponsors_24/</guid>
-      <description>Data Fest would not be able to happen without the support of the following people and organizations Please see our fundraising page for information on how you can support this high impact student activity.&#xA;Terabye Sponsors The Center for Entrepreneurship is dedicated to providing the resources, inspiration, support, and mentorship to help inspired learners and doers develop ideas and launch valuable businesses. We seek to build a cohesive and collaborative interdisciplinary environment that brings together the resources of the university, community and private sector.</description>
+      <guid>/sponsors/</guid>
+      <description>Data Fest would not be able to happen without the support of the following people and organizations Please see our fundraising page for information on how you can support this high impact student activity.&#xA;Terabye Sponsors ChicoSTART is an Accelerated by California Innovation Hub representing 20+ counties in the North State. We support and enrich Northern California’s entrepreneurial &amp; tech ecosystem by providing startups the resources they need to start, grow and thrive.</description>
     </item>
     <item>
       <title>About</title>
@@ -64,11 +64,18 @@
       <description>Questions? For questions related to events held at Chico State, please contact Robin Donatello at datascience@csuchico.edu</description>
     </item>
     <item>
+      <title>Elm City Stories</title>
+      <link>/blog/1/2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/blog/1/2022/</guid>
+      <description>Chico State Data Fest 2022 Recap On April 1-3rd, Chico State University hosted the ASA DataFest 2022. DataFest is an event hosted by the Chico State Data Initiative (DSI), organized by the Mathematics &amp;amp; Statistics department and Project DA-FANH&amp;rsquo;s project director Robin Donatello. Students were presented with undisclosed data on Friday and then worked through the weekend to gain the best insights into the confidential, real-world data sets. After long nights and early mornings, teams presented their findings to the experienced panel of judges for a chance at prizes and certificates.</description>
+    </item>
+    <item>
       <title>Participant Info &amp; Guidelines</title>
       <link>/info_guide_chico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/info_guide_chico/</guid>
-      <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.&#xA;This is a long document, please take a moment to read over it carefully.&#xA;Location DataFest 2026 @ CSU, Chico will start with registration and end with awards ceremony in the the BSS building on Chico State Campus.&#xA;&amp;lt;iframe src=&amp;quot;https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d916.9211382210465!2d-121.8433237411227!3d39.73089647453713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1769112162678!5m2!1sen!2sus&amp;quot; width=&amp;ldquo;600&amp;rdquo; height=&amp;ldquo;450&amp;rdquo; style=&amp;ldquo;border:0;&amp;rdquo; allowfullscreen=&amp;quot;&amp;quot; loading=&amp;ldquo;lazy&amp;rdquo; referrerpolicy=&amp;ldquo;no-referrer-when-downgrade&amp;rdquo;&amp;gt;&amp;lt;/iframe&amp;gt;&#xA;Transportation &amp;amp; Parking There is metered parking (free on weekends) on Citrus Ave and Legion Ave.</description>
+      <description>Note: This document may be updated as the event approaches; any major updates will be clearly marked.&#xA;This is a long document, please take a moment to read over it carefully.&#xA;Location DataFest 2026 @ CSU, Chico will start with registration and end with awards ceremony in the the Behavioral and Social Sciences (BSS) building on Chico State Campus.&#xA;Transportation &amp;amp; Parking There is metered parking (free on weekends) on Citrus Ave and Legion Ave.</description>
     </item>
     <item>
       <title>Participant Info &amp; Guidelines</title>
@@ -79,9 +86,9 @@
     </item>
     <item>
       <title>Past Data Fest Events</title>
-      <link>/past_events/</link>
+      <link>/_past_events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/past_events/</guid>
+      <guid>/_past_events/</guid>
       <description>2023 - TBD 2022 - Elm City Stories The 2022 DataFest challenge came from the Play2Prevent lab at the Yale Center for Health &amp;amp; Learning Games in the Yale School of Medicine. DataFest participants analyzed data from Elm City Stories, an educational video game designed for middle and high school students. The goal of the game was to prevent negative health outcomes in young, at-risk adolescents by helping teens to increase perception of risk and to develop skills for predicting and understanding future consequences of actions.</description>
     </item>
     <item>
@@ -96,7 +103,14 @@
       <link>/register/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/register/</guid>
-      <description>All participants and volunteers must agree to abide by the following Code of Conduct.&#xA;Participants &amp;lt;a href=&amp;quot;https://forms.gle/TU5kgqqAB8tGTbV58&amp;quot;Register your team here&#xA;Undergraduate students from any higher education institution in the Northern California Region are eligible to participate. This is a team competition with between 2-5 students per team.&#xA;Looking for a team? Put your name down on this Team Formation sheet and join the 2026 NorCal DataFest Discord server to chat with other people who are looking for a team.</description>
+      <description>All participants and volunteers must agree to abide by the following Code of Conduct.&#xA;Participants Register your team here&#xA;Undergraduate students from any higher education institution in the Northern California Region are eligible to participate. This is a team competition with between 2-5 students per team.&#xA;Looking for a team? Put your name down on this Team Formation sheet and join the 2026 NorCal DataFest Discord server to chat with other people who are looking for a team.</description>
+    </item>
+    <item>
+      <title>Rugy</title>
+      <link>/blog/1/2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/blog/1/2019/</guid>
+      <description>The data The data this year was provided by the Olympic Champion Canadian National Womens Rugby team. A complex set of four different datasets containing GPS tracking data during games, physical wellness surveys, and training workload. The data provider asked students to consider role of workload and fatigue in Rugby 7&amp;rsquo;s, a fast-paced very physically demanding sport that pushes the limits of athletic speed, endurance and toughness.&#xA;The people We had 48 students from 6 different schools register as 12 teams.</description>
     </item>
     <item>
       <title>Schedule of Events</title>
@@ -107,9 +121,9 @@
     </item>
     <item>
       <title>Supporting Data Fest in 3 ways</title>
-      <link>/sponsors/</link>
+      <link>/fundraising/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sponsors/</guid>
+      <guid>/fundraising/</guid>
       <description>Financial Contributions Participants are only allowed to work on this project while on site, so our biggest need is making sure they are well fed and caffeinated! Our fundraising goal for 2024 is $4000 which will be spent entirely on food, t-shirts, collaboration supplies such as notepads, whiteboard markers, portable whiteboards, student travel support and prizes for the winners.&#xA;All monetary donations are tax-deductible. Any remaining funds go directly towards supporting student centered Data Science education events such as the outreach and training sessions found on the Chico State DSI website.</description>
     </item>
   </channel>
