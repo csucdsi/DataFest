@@ -1,10 +1,10 @@
 ---
-title: Rugy
+title: Rugby
 ---
 
 
 # The data
-The data this year was provided by the Olympic Champion Canadian National Womens Rugby team. A complex set of four different datasets containing GPS tracking data during games, physical wellness surveys, and training workload. The data provider asked students to consider role of workload and fatigue in Rugby 7's, a fast-paced very physically demanding sport that pushes the limits of athletic speed, endurance and toughness.
+The data this year was provided by the Olympic Champion Canadian National Women's Rugby team. A complex set of four different datasets containing GPS tracking data during games, physical wellness surveys, and training workload. The data provider asked students to consider role of workload and fatigue in Rugby 7's, a fast-paced very physically demanding sport that pushes the limits of athletic speed, endurance and toughness.
 
 
 # The people
