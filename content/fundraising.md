@@ -69,7 +69,7 @@ Contributors, please email your company bio, and a web-ready logo to datascience
 
 ---
 
-## Participate as a Consultant
+## [Participate as a roaming coach](https://norcaldatafest.netlify.app/register/)
 
 Money is helpful but so is your time! Spend an hour or two getting to know the students and offering your sage advice. This is an excellent recruiting opportunity; you get to watch students working in teams, under pressure, striving to understand possibly the most complex data set they have encountered. At other institutions, students have received internships and interviews that have led to full-time employment. Success at DataFest requires that a team have a combination of computational, statistical, and human skills, as well as the ability to communicate clearly and extremely concisely.
 
