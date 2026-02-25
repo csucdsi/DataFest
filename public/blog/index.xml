@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on NorCal Data Fest</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on NorCal Data Fest</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elm City Stories</title>
+      <link>/blog/1/2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/blog/1/2022/</guid>
+      <description>Chico State Data Fest 2022 Recap On April 1-3rd, Chico State University hosted the ASA DataFest 2022. DataFest is an event hosted by the Chico State Data Initiative (DSI), organized by the Mathematics &amp;amp; Statistics department and Project DA-FANH&amp;rsquo;s project director Robin Donatello. Students were presented with undisclosed data on Friday and then worked through the weekend to gain the best insights into the confidential, real-world data sets. After long nights and early mornings, teams presented their findings to the experienced panel of judges for a chance at prizes and certificates.</description>
+    </item>
+    <item>
+      <title>Rugy</title>
+      <link>/blog/1/2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/blog/1/2019/</guid>
+      <description>The data The data this year was provided by the Olympic Champion Canadian National Womens Rugby team. A complex set of four different datasets containing GPS tracking data during games, physical wellness surveys, and training workload. The data provider asked students to consider role of workload and fatigue in Rugby 7&amp;rsquo;s, a fast-paced very physically demanding sport that pushes the limits of athletic speed, endurance and toughness.&#xA;The people We had 48 students from 6 different schools register as 12 teams.</description>
+    </item>
+  </channel>
+</rss>
