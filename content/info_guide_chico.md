@@ -1,6 +1,7 @@
 +++
 title= "Participant Info & Guidelines"
 +++
+[Join the Official Discord!](https://discord.gg/EZwHY7tkdp)
 
 **Note: This document may be updated as the event approaches; any major updates will be clearly marked.**
 
