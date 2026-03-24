@@ -11,6 +11,65 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 
 ----
 
+
+### Brontobyte Sponsors
+
+
+<table border="0" align="center">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+
+  <tbody>
+
+  <tr>
+    <td align="left" markdown="span"><img src="../img/sponsor/Qlarant.jpg" style="width:80%"></img></td>
+    <td> Qlarant is a nonprofit organization that works with government, healthcare, and commercial programs to improve performance and outcomes. It focuses on using data analytics, subject-matter expertise, and technology to identify risks, prevent fraud and abuse, and enhance program quality. 
+         At its core, the organization’s mission is to solve complex operational problems and improve the effectiveness of large-scale programs—particularly those tied to public health and human services—ultimately aiming to improve quality of life at the community level.
+        <a href ="https://www.qlarant.com/">https://www.qlarant.com/</a></td>
+  </tr>
+  
+  <tr><td height= "50"> </td> <td></td></tr>
+
+  <tr>
+    <td align="left" markdown="span"><img src="../img/sponsor/ira-primary.jpg" style="width:80%"></img></td>
+    <td> The Instructionally Related Activities (IRA) program supports learning experiences outside of but related to the formal instructional offerings of the University. Instructionally Related Activities are defined as "activities and laboratory experiences that are partially sponsored by an academic discipline or department and which are, in the judgment of the President, integrally related to the function of instructional offerings.
+         Funding for activities/programs is provided by an Instructionally Related Activities fee paid by all students each semester when they enroll in University classes
+        <a href ="https://www.csuchico.edu/ira/">https://www.csuchico.edu/ira/</a></td>
+  </tr>
+  
+
+  <tr><td height= "50"> </td> <td></td></tr>
+
+
+  </tbody>
+</table>
+
+### Exabyte Sponsors
+
+
+<table border="0" align="center">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+
+  <tbody>
+
+  <tr>
+    <td align="left" markdown="span"><img src="../img/sponsor/pbs_logo.png" style="width:70%"></img></td>
+    <td> Since Payless Building Supply was founded in 1973, our goal has been to provide our local communities with a variety of building material options that fits any budget. Payless Building Supply is proud to sponsor innovative community building events such as DataFest. 
+        <a href ="https://paylessbuildingsupply.com/">https://paylessbuildingsupply.com//</a></td>
+  </tr>
+  
+  </tbody>
+</table>
+
+
+
+
+
 ### Terabye Sponsors
 
 
@@ -33,7 +92,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   <tr>
     <td align="left" markdown="span"><img src="../img/sponsor/gt_logo_stacked.png" style="width:40%"></img></td>
     <td> GrowTECH: Together we grow, support, and connect the thriving tech and entrepreneurial hub in Chico and Northern California.
-        <a href ="https://growtech.io//">https://growtech.io/</a></td>
+        <a href ="https://growtech.io/">https://growtech.io/</a></td>
   </tr>
   
 

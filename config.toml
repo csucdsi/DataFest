@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 # SHOULD REMOVE disqus funcionality
 # disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-122708636-2"
+# googleAnalytics = "UA-122708636-2"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
