@@ -1,5 +1,5 @@
 +++
-title= "Registration open until March 23, 2026"
+title= "Registration open until March 26, 2026"
 +++
 
 > All participants and volunteers must agree to abide by the following [Code of Conduct](https://www.amstat.org/meetings/code-of-conduct).
@@ -10,7 +10,7 @@ title= "Registration open until March 23, 2026"
 
 Undergraduate students from any higher education institution in the Northern California Region are eligible to participate. This is a team competition with between 2-5 students per team.
 
-Looking for a team? Put your name down on this [Team Formation sheet](https://docs.google.com/spreadsheets/d/1NVODGwI4jiVAfxI33ndVxNLie8FdPx1JO85r5B2mxQ4/edit?usp=sharing) and join the 2026 NorCal DataFest [Discord server](https://discord.gg/rwuRVAuZth) to chat with other people who are looking for a team. Once you have a team of at least 2, return here and register your team.
+Looking for a team? Go ahead and register then put your name down on this [Team Formation sheet](https://docs.google.com/spreadsheets/d/1NVODGwI4jiVAfxI33ndVxNLie8FdPx1JO85r5B2mxQ4/edit?usp=sharing) and join the 2026 NorCal DataFest [Discord server](https://discord.gg/rwuRVAuZth) to chat with other people who are looking for a team. Once you have a team of at least 2, let the organizers know. 
 
 Should members of your team drop out at the last minute, you might be merged with another team who is also missing members.
 

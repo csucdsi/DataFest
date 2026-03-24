@@ -58,7 +58,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   <tbody>
 
   <tr>
-    <td align="left" markdown="span"><img src="../img/sponsor/pbs_logo.png" style="width:70%"></img></td>
+    <td align="left" markdown="span"><img src="../img/sponsor/pbs_logo.png" style="width:50%"></img></td>
     <td> Since Payless Building Supply was founded in 1973, our goal has been to provide our local communities with a variety of building material options that fits any budget. Payless Building Supply is proud to sponsor innovative community building events such as DataFest. 
         <a href ="https://paylessbuildingsupply.com/">https://paylessbuildingsupply.com//</a></td>
   </tr>
