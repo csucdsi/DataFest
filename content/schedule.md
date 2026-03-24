@@ -30,7 +30,7 @@ You are of course free to come and go as you please throughout the event, but he
 
 ## Team Forming Event!
 
-Don't have a pre-formed team? Stay tuned for a team formation event one week prior to DataFest
+Don't have a pre-formed team? Keep an eye on Discord for info on a team formation event. 
 
 ------------------------------------------------------------------------
  
@@ -44,22 +44,22 @@ Exact times are subject to change as needed.
 
 * 5pm - Registration sign in 
 * 5:30pm - Kickoff event with dinner
-* Room open until midnight
+* Building open until midnight
 
 ### Saturday, April 11th, 2026
 
 **Carry on!**
 
-* 8am - Room opens with breakfast
+* 8am - Building opens with breakfast
 * 12:30 pm - Lunch
 * 6pm - Dinner
-* Room open until midnight
+* Building open until midnight
 
 ### Sunday, April 12th, 2026
 
 **Wrap up!**
 
-* 8am - room opens
+* 8am - Building opens
 * 9:30am  - Projects due 
 * 10:00am - Presentations begin
 * 11:00am - Judges deliberate
