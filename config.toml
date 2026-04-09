@@ -155,7 +155,7 @@ paginate = 10
     icon = "fa fa-trophy"
     #title = "Past Events at Chico"
     #subtitle = "stuff"
-    link_url = "/past_events/"
+    link_url = "/blog/"
     link_text = "Past Events"
 
 

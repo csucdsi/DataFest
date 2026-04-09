@@ -43,7 +43,8 @@ Exact times are subject to change as needed.
 **Welcome!**
 
 * 5pm - Registration sign in 
-* 5:30pm - Kickoff event with dinner
+* 5:30pm - Kickoff
+* 6:00pm - Dinner
 * Building open until midnight
 
 ### Saturday, April 11th, 2026

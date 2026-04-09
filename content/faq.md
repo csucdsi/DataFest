@@ -40,6 +40,10 @@ Yes, but if you don't have a pre-formed team you can leave your information on a
 
 ### What are the rules of the competition?
 
+See the full details in the <a href="https://norcaldatafest.netlify.app/info_guide_chico/">info guide</a>. 
+
+Briefly, 
+
 -   Teams must consist of 2-5 students.
 -   Team members can come and go as they please but all work has to be done on-site. A steady supply of food, beverages, and snacks make it more inviting to stay.
 -   It's a competition, but a friendly one, so collaboration between teams is not only allowed but highly encouraged. Official ASA DataFest coaches (grad students, faculty, data professionals, etc.) will also be around throughout the weekend to help with any questions you might have. However you can't have outside help.
@@ -55,21 +59,6 @@ No. You may come and go as you please. However, you are not allowed to work on t
 Fame, glory, prizes or some combination thereof... And you get a t-shirt!
 
 ------------------------------------------------------------------------
-
-## Code of Conduct
-
-NorCal ASA DataFest<small><sup>TM</sup></small> is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, social activities, social media, and other online media. NorCal ASA DataFest<small><sup>TM</sup></small> participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers.
-
-This code of conduct applies to all participants, including organizers, mentors / VIP coaches, judges, and helpers and applies to all modes of interaction, both in-person and online, on NorCal ASA DataFest<small><sup>TM</sup></small> Community, and event specific Discord channels, and social media.
-
-ASA participants agree to:
-
--   Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
--   Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any organizers in person.
--   Take care of each other. Alert a member of the organizers if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
-
-For more on the code of conduct, please see the [ASA Meeting Code of Conduct](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx).
-
 ### Need Help?
 
 Please speak with an event coordinator on site, email [datascience\@csuchico.edu](mailto:datascience@csuchico.edu), or send a message via the Discord during the event.
@@ -79,7 +68,6 @@ If any attendee engages in harassing behavior, the event organizers may take any
 We welcome your feedback on this and every other aspect of the NorCal ASA DataFest<small><sup>TM</sup></small> events, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
 
 *The text above has been only slightly modified from Duke's DataFest website: <https://www2.stat.duke.edu/datafest/coc/>. Parts of above text is licensed CC BY-SA 4.0. Credit to rOpenSci and SRCCON. Also inspired by the Ada Initiative's "how to design a code of conduct for your community".*
-
 ------------------------------------------------------------------------
 
 > In case you haven't found the answer for your question please feel free to contact us. We will be happy to help you.
